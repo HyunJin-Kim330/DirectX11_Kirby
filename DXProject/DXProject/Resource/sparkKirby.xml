@@ -1,0 +1,316 @@
+<Animations>
+    <Animation Name="k_spark_IdleLeft" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="0">
+        <Keyframe X="855" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="812" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="769" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="726" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="855" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="812" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="769" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="726" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="855" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="812" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="769" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="726" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="855" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="812" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="769" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="726" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="855" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="812" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="769" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="726" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="683" Y="1" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="640" Y="1" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="597" Y="1" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="554" Y="1" Width="42" Height="42" Duration="0.02"/>
+    </Animation>
+    <Animation Name="k_spark_IdleRight" Loop="true" TextureName="sparkKirbyRight" Tag="spark" Num="1">
+        <Keyframe X="1" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="44" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="87" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="130" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="1" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="44" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="87" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="130" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="1" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="44" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="87" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="130" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="1" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="44" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="87" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="130" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="1" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="44" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="87" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="130" Y="1" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="173" Y="1" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="216" Y="1" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="259" Y="1" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="302" Y="1" Width="42" Height="42" Duration="0.02"/>
+    </Animation>
+    <Animation Name="k_spark_WalkingLeft" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="2">
+        <Keyframe X="855" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="812" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="769" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="726" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="683" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="640" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="597" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="554" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="511" Y="130" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="468" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="425" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="382" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="339" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="296" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="253" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="210" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="167" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="124" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="81" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="38" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="855" Y="173" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="812" Y="173" Width="42" Height="42" Duration="0.04"/>
+    </Animation>
+    <Animation Name="k_spark_WalkingRight" Loop="true" TextureName="sparkKirbyRight" Tag="spark" Num="3">
+        <Keyframe X="1" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="44" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="87" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="130" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="173" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="216" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="259" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="302" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="345" Y="130" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="388" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="431" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="474" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="517" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="560" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="603" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="646" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="689" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="732" Y="130" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="775" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="818" Y="130" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="1" Y="173" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="44" Y="173" Width="42" Height="42" Duration="0.04"/>
+    </Animation>
+    <Animation Name="k_spark_DashLeft" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="4">
+        <Keyframe X="855" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="812" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="769" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="726" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="683" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="640" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="597" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="554" Y="216" Width="42" Height="42" Duration="0.04"/>
+    </Animation>
+    <Animation Name="k_spark_DashRight" Loop="true" TextureName="sparkKirbyRight" Tag="spark" Num="5">
+        <Keyframe X="1" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="44" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="87" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="130" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="173" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="216" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="259" Y="216" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="302" Y="216" Width="42" Height="42" Duration="0.04"/>
+    </Animation>
+    <!--왼쪽으로 기울어진 경사로-->
+    <Animation Name="k_spark_IdleLeftTiltLeft" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="6">
+        <Keyframe X="599" Y="1" Width="42" Height="42" Duration="2.0"/>
+        <Keyframe X="559" Y="1" Width="42" Height="42" Duration="0.1"/>
+        <Keyframe X="599" Y="1" Width="42" Height="42" Duration="1.0"/>
+        <Keyframe X="559" Y="1" Width="42" Height="42" Duration="0.1"/>
+        <Keyframe X="599" Y="1" Width="42" Height="42" Duration="0.1"/>
+        <Keyframe X="559" Y="1" Width="42" Height="42" Duration="0.1"/>
+    </Animation>
+    <Animation Name="k_spark_IdleLeftTiltRight" Loop="true" TextureName="sparkKirbyRight" Tag="spark" Num="7">
+        <Keyframe X="81" Y="1" Width="42" Height="42" Duration="2.0"/>
+        <Keyframe X="121" Y="1" Width="42" Height="42" Duration="0.1"/>
+        <Keyframe X="81" Y="1" Width="42" Height="42" Duration="1.0"/>
+        <Keyframe X="121" Y="1" Width="42" Height="42" Duration="0.1"/>
+        <Keyframe X="81" Y="1" Width="42" Height="42" Duration="0.1"/>
+        <Keyframe X="121" Y="1" Width="42" Height="42" Duration="0.1"/>
+    </Animation>
+    <!--오른쪽으로 기울어진 경사로-->
+    <Animation Name="k_spark_IdleLeftTiltLeft" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="8">
+        <Keyframe X="679" Y="1" Width="42" Height="42" Duration="2.0"/>
+        <Keyframe X="639" Y="1" Width="42" Height="42" Duration="0.1"/>
+        <Keyframe X="679" Y="1" Width="42" Height="42" Duration="1.0"/>
+        <Keyframe X="639" Y="1" Width="42" Height="42" Duration="0.1"/>
+        <Keyframe X="679" Y="1" Width="42" Height="42" Duration="0.1"/>
+        <Keyframe X="639" Y="1" Width="42" Height="42" Duration="0.1"/>
+    </Animation>
+    <Animation Name="k_spark_IdleLeftTiltRight" Loop="true" TextureName="sparkKirbyRight" Tag="spark" Num="9">
+        <Keyframe X="161" Y="1" Width="42" Height="42" Duration="2.0"/>
+        <Keyframe X="201" Y="1" Width="42" Height="42" Duration="0.1"/>
+        <Keyframe X="161" Y="1" Width="42" Height="42" Duration="1.0"/>
+        <Keyframe X="201" Y="1" Width="42" Height="42" Duration="0.1"/>
+        <Keyframe X="161" Y="1" Width="42" Height="42" Duration="0.1"/>
+        <Keyframe X="201" Y="1" Width="42" Height="42" Duration="0.1"/>
+    </Animation>
+    <Animation Name="k_spark_FloatingUpLeft" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="10">
+        <Keyframe X="855" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="812" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="769" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="726" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="683" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="640" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="597" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="554" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="511" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="468" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="425" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="382" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="339" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="296" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="253" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="210" Y="259" Width="42" Height="42" Duration="0.02"/>
+    </Animation>
+    <Animation Name="k_spark_FloatingUpRight" Loop="true" TextureName="sparkKirbyRight" Tag="spark" Num="11">
+        <Keyframe X="1" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="44" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="87" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="130" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="173" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="216" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="259" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="302" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="345" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="388" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="431" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="474" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="517" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="560" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="603" Y="259" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="646" Y="259" Width="42" Height="42" Duration="0.02"/>
+    </Animation>
+    <Animation Name="k_spark_FloatingDownLeft" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="12">
+        <Keyframe X="855" Y="302" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="812" Y="302" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="769" Y="302" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="726" Y="302" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="683" Y="302" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="640" Y="302" Width="42" Height="42" Duration="0.04"/>
+    </Animation>
+    <Animation Name="k_spark_FloatingDownRight" Loop="true" TextureName="sparkKirbyRight" Tag="spark" Num="13">
+        <Keyframe X="1" Y="302" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="44" Y="302" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="87" Y="302" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="130" Y="302" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="173" Y="302" Width="42" Height="42" Duration="0.04"/>
+        <Keyframe X="216" Y="302" Width="42" Height="42" Duration="0.04"/>
+    </Animation>
+    <Animation Name="k_spark_BreathingOutLeft" Loop="false" TextureName="sparkKirbyLeft" Tag="spark" Num="16">
+        <Keyframe X="597" Y="302" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="554 " Y="302" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="511 " Y="302" Width="42" Height="42" Duration="0.03"/>
+    </Animation>
+    <Animation Name="k_spark_BreathingOutRight" Loop="false" TextureName="sparkKirbyRight" Tag="spark" Num="17">
+        <Keyframe X="259" Y="302" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="302 " Y="302" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="345 " Y="302" Width="42" Height="42" Duration="0.03"/>
+    </Animation>
+    <Animation Name="k_sparkK_JumppingLeft" Loop="false" TextureName="sparkKirbyLeft" Tag="spark" Num="18">
+        <Keyframe X="855" Y="345" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="812" Y="345" Width="42" Height="42" Duration="0.03"/>
+    </Animation>
+    <Animation Name="k_sparkK_JumppingRight" Loop="false" TextureName="sparkKirbyRight" Tag="spark" Num="19">
+        <Keyframe X="1" Y="345" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="44" Y="345" Width="42" Height="42" Duration="0.03"/>
+    </Animation>
+    <Animation Name="k_spark_FallingLeft" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="20">
+        <Keyframe X="511" Y="345" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="468" Y="345" Width="42" Height="42" Duration="0.03"/>
+    </Animation>
+    <Animation Name="k_spark_FallingRight" Loop="true" TextureName="sparkKirbyRight" Tag="spark" Num="21">
+        <Keyframe X="345" Y="345" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="388" Y="345" Width="42" Height="42" Duration="0.03"/>
+    </Animation>
+    <Animation Name="k_spark_AttackingLeft" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="22">
+        <Keyframe X="726" Y="173" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="683" Y="173" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="640" Y="173" Width="42" Height="42" Duration="0.03"/>
+    </Animation>
+    <Animation Name="k_spark_AttackingRight" Loop="true" TextureName="sparkKirbyRight" Tag="spark" Num="23">
+        <Keyframe X="130" Y="173" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="173" Y="173" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="216" Y="173" Width="42" Height="42" Duration="0.03"/>
+    </Animation>
+    <Animation Name="k_spark_ChangeAbilityLeft" Loop="false" TextureName="sparkKirbyLeft" Tag="spark" Num="42">
+        <Keyframe X="769" Y="173" Width="42" Height="42" Duration="3.0"/>
+    </Animation>
+    <Animation Name="k_spark_ChangeAbilityRight" Loop="false" TextureName="sparkKirbyRight" Tag="spark" Num="43">
+        <Keyframe X="87" Y="173" Width="42" Height="42" Duration="3.0"/>
+    </Animation>
+    <Animation Name="k_spark_BendOverLeft" Loop="false" TextureName="sparkKirbyLeft" Tag="spark" Num="50">
+        <Keyframe X="769" Y="345" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="726" Y="345" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="683" Y="345" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="640" Y="345" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="597" Y="345" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="554" Y="345" Width="42" Height="42" Duration="0.02"/>
+    </Animation>
+    <Animation Name="k_spark_BendOverRight" Loop="false" TextureName="sparkKirbyRight" Tag="spark" Num="51">
+        <Keyframe X="87" Y="345" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="130" Y="345" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="173" Y="345" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="216" Y="345" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="259" Y="345" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="302" Y="345" Width="42" Height="42" Duration="0.02"/>
+    </Animation>
+    <Animation Name="k_spark_UpLadderLeft" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="58">
+        <Keyframe X="5" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="91" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="177" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="263" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="349" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="435" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="349" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="263" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="177" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="91" Y="686" Width="42" Height="42" Duration="0.02"/>
+    </Animation>
+    <Animation Name="k_spark_UpLadderRight" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="59">
+        <Keyframe X="5" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="91" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="177" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="263" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="349" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="435" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="349" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="263" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="177" Y="686" Width="42" Height="42" Duration="0.02"/>
+        <Keyframe X="91" Y="686" Width="42" Height="42" Duration="0.02"/>
+    </Animation>
+    <Animation Name="k_spark_DownLadderLeft" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="60">
+        <Keyframe X="253" Y="108" Width="35" Height="35" Duration="0.02"/>
+        <Keyframe X="289" Y="108" Width="35" Height="35" Duration="0.02"/>
+        <Keyframe X="325" Y="108" Width="35" Height="35" Duration="0.02"/>
+        <Keyframe X="289" Y="108" Width="35" Height="35" Duration="0.02"/>
+    </Animation>
+    <Animation Name="k_spark_DownLadderRight" Loop="true" TextureName="sparkKirbyLeft" Tag="spark" Num="61">
+        <Keyframe X="253" Y="108" Width="35" Height="35" Duration="0.02"/>
+        <Keyframe X="289" Y="108" Width="35" Height="35" Duration="0.02"/>
+        <Keyframe X="325" Y="108" Width="35" Height="35" Duration="0.02"/>
+        <Keyframe X="289" Y="108" Width="35" Height="35" Duration="0.02"/>
+    </Animation>
+    <Animation Name="k_spark_EnterDoorLeft" Loop="false" TextureName="sparkKirbyLeft" Tag="spark" Num="62">
+        <Keyframe X="73" Y="206" Width="42" Height="42" Duration="0.05"/>
+        <Keyframe X="109" Y="206" Width="42" Height="42" Duration="0.05"/>
+        <Keyframe X="145" Y="206" Width="42" Height="42" Duration="0.05"/>
+        <Keyframe X="181" Y="206" Width="35" Height="35" Duration="0.03"/>
+        <Keyframe X="217" Y="206" Width="35" Height="35" Duration="0.03"/>
+    </Animation>
+    <Animation Name="k_spark_EnterDoorRight" Loop="false" TextureName="sparkKirbyRight" Tag="spark" Num="63">
+        <Keyframe X="446" Y="345" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="489" Y="345" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="532" Y="345" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="575" Y="345" Width="42" Height="42" Duration="0.03"/>
+        <Keyframe X="618" Y="345" Width="42" Height="42" Duration="0.03"/>
+    </Animation>
+</Animations>

@@ -1,0 +1,88 @@
+<Animations>
+    <Animation Name="abilityStar" Loop="true" TextureName="abilityStar" Tag="" Num="0">
+        <Keyframe X="1" Y="164" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="54" Y="164" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="107" Y="164" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="160" Y="164" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="1" Y="217" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="54" Y="217" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="107" Y="217" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="160" Y="217" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="1" Y="270" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="54" Y="270" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="107" Y="270" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="160" Y="270" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="1" Y="323" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="54" Y="323" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="107" Y="323" Width="52" Height="52" Duration="0.05"/>
+        <Keyframe X="160" Y="323" Width="52" Height="52" Duration="0.05"/>
+    </Animation>
+    <Animation Name="door" Loop="true" TextureName="door" Tag="" Num="0">
+        <Keyframe X="1" Y="1" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="115" Y="1" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="229" Y="1" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="343" Y="1" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="457" Y="1" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="571" Y="1" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="685" Y="1" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="1" Y="115" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="115" Y="115" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="229" Y="115" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="343" Y="115" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="457" Y="115" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="571" Y="115" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="685" Y="115" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="1" Y="229" Width="113" Height="113" Duration="0.03"/>
+        <Keyframe X="115" Y="229" Width="113" Height="113" Duration="0.03"/>
+    </Animation>
+    <Animation Name="buttonUp" Loop="false" TextureName="item2" Tag="" Num="0">
+        <Keyframe X="65" Y="344" Width="22" Height="22" Duration="10.0"/>
+    </Animation>
+    <Animation Name="buttonDown" Loop="false" TextureName="item2" Tag="" Num="0">
+        <Keyframe X="65" Y="367" Width="22" Height="22" Duration="10.0"/>
+    </Animation>
+    <Animation Name="wallUp" Loop="false" TextureName="item2" Tag="" Num="0">
+        <Keyframe X="93" Y="334" Width="24" Height="56" Duration="0.17"/>
+        <Keyframe X="119" Y="334" Width="24" Height="56" Duration="0.17"/>
+        <Keyframe X="145" Y="334" Width="24" Height="56" Duration="0.17"/>
+        <Keyframe X="171" Y="334" Width="24" Height="56" Duration="0.17"/>
+        <Keyframe X="197" Y="334" Width="24" Height="56" Duration="0.17"/>
+        <Keyframe X="223" Y="334" Width="24" Height="56" Duration="0.17"/>
+        <Keyframe X="249" Y="334" Width="24" Height="56" Duration="0.17"/>
+        <Keyframe X="275" Y="334" Width="24" Height="56" Duration="0.17"/>
+    </Animation>
+    <Animation Name="wallDown" Loop="false" TextureName="item2" Tag="" Num="0">
+        <Keyframe X="93" Y="334" Width="24" Height="56" Duration="10.0"/>
+        <Keyframe X="119" Y="334" Width="24" Height="56" Duration="10.0"/>
+        <Keyframe X="145" Y="334" Width="24" Height="56" Duration="10.0"/>
+        <Keyframe X="171" Y="334" Width="24" Height="56" Duration="10.0"/>
+        <Keyframe X="197" Y="334" Width="24" Height="56" Duration="10.0"/>
+        <Keyframe X="223" Y="334" Width="24" Height="56" Duration="10.0"/>
+        <Keyframe X="249" Y="334" Width="24" Height="56" Duration="10.0"/>
+        <Keyframe X="275" Y="334" Width="24" Height="56" Duration="10.0"/>
+        <Keyframe X="249" Y="334" Width="24" Height="56" Duration="10.0"/>
+    </Animation>
+    <Animation Name="umbrellaDown" Loop="true" TextureName="monsterRight" Tag="" Num="0">
+        <Keyframe X="2" Y="1164" Width="21" Height="21" Duration="0.1"/>
+        <Keyframe X="24" Y="1164" Width="21" Height="21" Duration="0.1"/>
+        <Keyframe X="46" Y="1164" Width="21" Height="21" Duration="0.1"/>
+        <Keyframe X="68" Y="1164" Width="21" Height="21" Duration="0.1"/>
+    </Animation>
+    <Animation Name="umbrellaUp" Loop="false" TextureName="monsterRight" Tag="" Num="0">
+        <Keyframe X="2" Y="1188" Width="21" Height="21" Duration="0.1"/>
+        <Keyframe X="24" Y="1188" Width="21" Height="21" Duration="0.1"/>
+    </Animation>
+    <Animation Name="iceBlock" Loop="false" TextureName="iceKirbyLeft" Tag="" Num="0">
+        <Keyframe X="365" Y="47" Width="22" Height="22" Duration="2.0"/>
+    </Animation>
+    <Animation Name="notMoveStar" Loop="true" TextureName="star" Tag="" Num="0">
+        <Keyframe X="1" Y="150" Width="34" Height="34" Duration="0.03"/>
+        <Keyframe X="36" Y="150" Width="34" Height="34" Duration="0.03"/>
+        <Keyframe X="1" Y="150" Width="34" Height="34" Duration="0.03"/>
+        <Keyframe X="71" Y="150" Width="34" Height="34" Duration="0.03"/>
+        <Keyframe X="1" Y="150" Width="34" Height="34" Duration="0.03"/>
+        <Keyframe X="106" Y="150" Width="34" Height="34" Duration="0.03"/>
+        <Keyframe X="1" Y="150" Width="34" Height="34" Duration="0.03"/>
+        <Keyframe X="141" Y="150" Width="34" Height="34" Duration="0.03"/>
+    </Animation>
+</Animations>

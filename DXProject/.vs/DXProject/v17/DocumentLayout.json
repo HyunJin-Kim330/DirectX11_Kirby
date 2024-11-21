@@ -1,0 +1,1155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DXProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Monster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Pipeline.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Ability.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Ability.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\NormalAbility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\NormalAbility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Ability.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Ability.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\SceneManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\SparkMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\SparkMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\WaddleDoo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\WaddleDoo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\KingDedede.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\KingDedede.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\IceMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\IceMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Boomer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Boomer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\GreenMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\GreenMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\CarrotMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\CarrotMonster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\WaddleDoo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\WaddleDoo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\FollowPlayerAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\FollowPlayerAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\FollowPlayerRandomBehaviorAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\FollowPlayerRandomBehaviorAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\IdleAndAttackAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\IdleAndAttackAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\IdleAndAttackWhenKirbyCloseAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\IdleAndAttackWhenKirbyCloseAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\NormalAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\NormalAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\WandererAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\WandererAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\MonsterAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\MonsterAI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\MonsterAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\MonsterAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\NormalAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\NormalAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\FollowPlayerRandomBehaviorAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\FollowPlayerRandomBehaviorAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Transform.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\InformationUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\InformationUI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\IdleAndAttackAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\IdleAndAttackAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\FollowPlayerAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\FollowPlayerAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\WandererAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\WandererAI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Monster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\KingDedede.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\KingDedede.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\SparkMonster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\SparkMonster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\SceneManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Foreground.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Foreground.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Background.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Foreground.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Foreground.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Pipeline.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Pipeline.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\GeometryMaker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\GeometryMaker.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\ResourceManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Door.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Door.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\AbilityStar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\AbilityStar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Umbrella.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Umbrella.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Geometry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Geometry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\KingDededeWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\KingDededeWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\AttackChangeIce.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\AttackChangeIce.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\KirbyCollisionBehavior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\KirbyCollisionBehavior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\KirbyCollisionBehavior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\KirbyCollisionBehavior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Kirby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Kirby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Wall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Wall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\IceBlock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\IceBlock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\IceBlock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\IceBlock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Transform.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\MeshRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\MeshRenderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\RectCollider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\RectCollider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\LineCollider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\LineCollider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\DotCollider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\DotCollider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\DotCollider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\DotCollider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\Collider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\Collider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\BoomerangAbility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\BoomerangAbility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\MakeStarBehavior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\MakeStarBehavior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\StarWeapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\StarWeapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|D:\\DXProject\\DXProject\\WaddleDee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\WaddleDee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pipeline.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Pipeline.cpp",
+              "RelativeDocumentMoniker": "DXProject\\Pipeline.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\Pipeline.cpp",
+              "RelativeToolTip": "DXProject\\Pipeline.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T05:12:52.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ability.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Ability.cpp",
+              "RelativeDocumentMoniker": "DXProject\\Ability.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\Ability.cpp",
+              "RelativeToolTip": "DXProject\\Ability.cpp",
+              "ViewState": "AgIAAEcCAAAAAAAAAAAAwA8DAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T05:09:57.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneManager.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\SceneManager.cpp",
+              "RelativeDocumentMoniker": "DXProject\\SceneManager.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\SceneManager.cpp",
+              "RelativeToolTip": "DXProject\\SceneManager.cpp",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAwFYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T05:09:21.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monster.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Monster.cpp",
+              "RelativeDocumentMoniker": "DXProject\\Monster.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\Monster.cpp",
+              "RelativeToolTip": "DXProject\\Monster.cpp",
+              "ViewState": "AgIAACgBAAAAAAAAAAAAAF0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T05:52:44.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KingDedede.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\KingDedede.cpp",
+              "RelativeDocumentMoniker": "DXProject\\KingDedede.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\KingDedede.cpp",
+              "RelativeToolTip": "DXProject\\KingDedede.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T15:22:48.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WaddleDoo.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\WaddleDoo.cpp",
+              "RelativeDocumentMoniker": "DXProject\\WaddleDoo.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\WaddleDoo.cpp",
+              "RelativeToolTip": "DXProject\\WaddleDoo.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T04:57:32.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NormalAbility.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\NormalAbility.cpp",
+              "RelativeDocumentMoniker": "DXProject\\NormalAbility.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\NormalAbility.cpp",
+              "RelativeToolTip": "DXProject\\NormalAbility.cpp",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAwI4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T05:49:31.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ability.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Ability.h",
+              "RelativeDocumentMoniker": "DXProject\\Ability.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Ability.h",
+              "RelativeToolTip": "DXProject\\Ability.h",
+              "ViewState": "AgIAACUAAAAAAAAAAAAnwCwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T14:24:53.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IceMonster.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\IceMonster.cpp",
+              "RelativeDocumentMoniker": "DXProject\\IceMonster.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\IceMonster.cpp",
+              "RelativeToolTip": "DXProject\\IceMonster.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T05:07:33.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SparkMonster.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\SparkMonster.cpp",
+              "RelativeDocumentMoniker": "DXProject\\SparkMonster.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\SparkMonster.cpp",
+              "RelativeToolTip": "DXProject\\SparkMonster.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T15:22:26.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GreenMonster.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\GreenMonster.cpp",
+              "RelativeDocumentMoniker": "DXProject\\GreenMonster.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\GreenMonster.cpp",
+              "RelativeToolTip": "DXProject\\GreenMonster.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwCIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T05:07:16.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Boomer.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Boomer.cpp",
+              "RelativeDocumentMoniker": "DXProject\\Boomer.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\Boomer.cpp",
+              "RelativeToolTip": "DXProject\\Boomer.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T05:05:32.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarrotMonster.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\CarrotMonster.cpp",
+              "RelativeDocumentMoniker": "DXProject\\CarrotMonster.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\CarrotMonster.cpp",
+              "RelativeToolTip": "DXProject\\CarrotMonster.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T05:05:40.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FollowPlayerAI.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\FollowPlayerAI.cpp",
+              "RelativeDocumentMoniker": "DXProject\\FollowPlayerAI.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\FollowPlayerAI.cpp",
+              "RelativeToolTip": "DXProject\\FollowPlayerAI.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T04:40:16.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FollowPlayerRandomBehaviorAI.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\FollowPlayerRandomBehaviorAI.cpp",
+              "RelativeDocumentMoniker": "DXProject\\FollowPlayerRandomBehaviorAI.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\FollowPlayerRandomBehaviorAI.cpp",
+              "RelativeToolTip": "DXProject\\FollowPlayerRandomBehaviorAI.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T04:40:13.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NormalAI.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\NormalAI.cpp",
+              "RelativeDocumentMoniker": "DXProject\\NormalAI.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\NormalAI.cpp",
+              "RelativeToolTip": "DXProject\\NormalAI.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T04:40:03.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MonsterAI.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\MonsterAI.h",
+              "RelativeDocumentMoniker": "DXProject\\MonsterAI.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\MonsterAI.h",
+              "RelativeToolTip": "DXProject\\MonsterAI.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T15:27:27.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MonsterAI.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\MonsterAI.cpp",
+              "RelativeDocumentMoniker": "DXProject\\MonsterAI.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\MonsterAI.cpp",
+              "RelativeToolTip": "DXProject\\MonsterAI.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T13:47:58.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WandererAI.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\WandererAI.cpp",
+              "RelativeDocumentMoniker": "DXProject\\WandererAI.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\WandererAI.cpp",
+              "RelativeToolTip": "DXProject\\WandererAI.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T16:11:41.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IdleAndAttackWhenKirbyCloseAI.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\IdleAndAttackWhenKirbyCloseAI.cpp",
+              "RelativeDocumentMoniker": "DXProject\\IdleAndAttackWhenKirbyCloseAI.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\IdleAndAttackWhenKirbyCloseAI.cpp",
+              "RelativeToolTip": "DXProject\\IdleAndAttackWhenKirbyCloseAI.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T04:40:06.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdleAndAttackAI.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\IdleAndAttackAI.cpp",
+              "RelativeDocumentMoniker": "DXProject\\IdleAndAttackAI.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\IdleAndAttackAI.cpp",
+              "RelativeToolTip": "DXProject\\IdleAndAttackAI.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwBkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T16:12:28.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NormalAI.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\NormalAI.h",
+              "RelativeDocumentMoniker": "DXProject\\NormalAI.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\NormalAI.h",
+              "RelativeToolTip": "DXProject\\NormalAI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T04:44:05.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WaddleDoo.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\WaddleDoo.h",
+              "RelativeDocumentMoniker": "DXProject\\WaddleDoo.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\WaddleDoo.h",
+              "RelativeToolTip": "DXProject\\WaddleDoo.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T14:26:40.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FollowPlayerRandomBehaviorAI.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\FollowPlayerRandomBehaviorAI.h",
+              "RelativeDocumentMoniker": "DXProject\\FollowPlayerRandomBehaviorAI.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\FollowPlayerRandomBehaviorAI.h",
+              "RelativeToolTip": "DXProject\\FollowPlayerRandomBehaviorAI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T04:40:12.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FollowPlayerAI.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\FollowPlayerAI.h",
+              "RelativeDocumentMoniker": "DXProject\\FollowPlayerAI.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\FollowPlayerAI.h",
+              "RelativeToolTip": "DXProject\\FollowPlayerAI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T16:12:11.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WandererAI.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\WandererAI.h",
+              "RelativeDocumentMoniker": "DXProject\\WandererAI.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\WandererAI.h",
+              "RelativeToolTip": "DXProject\\WandererAI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T16:09:52.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ResourceManager.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\ResourceManager.h",
+              "RelativeDocumentMoniker": "DXProject\\ResourceManager.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\ResourceManager.h",
+              "RelativeToolTip": "DXProject\\ResourceManager.h",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T14:20:03.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\GameObject.cpp",
+              "RelativeDocumentMoniker": "DXProject\\GameObject.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\GameObject.cpp",
+              "RelativeToolTip": "DXProject\\GameObject.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T06:12:30.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "InformationUI.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\InformationUI.cpp",
+              "RelativeDocumentMoniker": "DXProject\\InformationUI.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\InformationUI.cpp",
+              "RelativeToolTip": "DXProject\\InformationUI.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAUwEwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T14:36:20.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Transform.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Transform.cpp",
+              "RelativeDocumentMoniker": "DXProject\\Transform.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\Transform.cpp",
+              "RelativeToolTip": "DXProject\\Transform.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T13:58:32.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GeometryMaker.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\GeometryMaker.cpp",
+              "RelativeDocumentMoniker": "DXProject\\GeometryMaker.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\GeometryMaker.cpp",
+              "RelativeToolTip": "DXProject\\GeometryMaker.cpp",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T14:20:30.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Pipeline.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Pipeline.h",
+              "RelativeDocumentMoniker": "DXProject\\Pipeline.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Pipeline.h",
+              "RelativeToolTip": "DXProject\\Pipeline.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T14:20:56.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "SceneManager.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\SceneManager.h",
+              "RelativeDocumentMoniker": "DXProject\\SceneManager.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\SceneManager.h",
+              "RelativeToolTip": "DXProject\\SceneManager.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T14:23:07.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\GameManager.h",
+              "RelativeDocumentMoniker": "DXProject\\GameManager.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\GameManager.h",
+              "RelativeToolTip": "DXProject\\GameManager.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T14:46:01.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IdleAndAttackAI.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\IdleAndAttackAI.h",
+              "RelativeDocumentMoniker": "DXProject\\IdleAndAttackAI.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\IdleAndAttackAI.h",
+              "RelativeToolTip": "DXProject\\IdleAndAttackAI.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-10T10:34:56.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Monster.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Monster.h",
+              "RelativeDocumentMoniker": "DXProject\\Monster.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Monster.h",
+              "RelativeToolTip": "DXProject\\Monster.h",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAtwJAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T14:27:09.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SparkMonster.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\SparkMonster.h",
+              "RelativeDocumentMoniker": "DXProject\\SparkMonster.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\SparkMonster.h",
+              "RelativeToolTip": "DXProject\\SparkMonster.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T15:22:38.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Foreground.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Foreground.h",
+              "RelativeDocumentMoniker": "DXProject\\Foreground.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Foreground.h",
+              "RelativeToolTip": "DXProject\\Foreground.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T14:36:15.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KingDedede.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\KingDedede.h",
+              "RelativeDocumentMoniker": "DXProject\\KingDedede.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\KingDedede.h",
+              "RelativeToolTip": "DXProject\\KingDedede.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T06:48:34.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Foreground.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Foreground.cpp",
+              "RelativeDocumentMoniker": "DXProject\\Foreground.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\Foreground.cpp",
+              "RelativeToolTip": "DXProject\\Foreground.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T14:36:18.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Background.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Background.h",
+              "RelativeDocumentMoniker": "DXProject\\Background.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Background.h",
+              "RelativeToolTip": "DXProject\\Background.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T14:36:26.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AbilityStar.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\AbilityStar.h",
+              "RelativeDocumentMoniker": "DXProject\\AbilityStar.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\AbilityStar.h",
+              "RelativeToolTip": "DXProject\\AbilityStar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T06:11:14.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Scene.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Scene.h",
+              "RelativeDocumentMoniker": "DXProject\\Scene.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Scene.h",
+              "RelativeToolTip": "DXProject\\Scene.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T06:10:09.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Geometry.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Geometry.h",
+              "RelativeDocumentMoniker": "DXProject\\Geometry.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Geometry.h",
+              "RelativeToolTip": "DXProject\\Geometry.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T05:54:56.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Texture.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Texture.h",
+              "RelativeDocumentMoniker": "DXProject\\Texture.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Texture.h",
+              "RelativeToolTip": "DXProject\\Texture.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-20T05:50:26.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Door.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Door.cpp",
+              "RelativeDocumentMoniker": "DXProject\\Door.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\Door.cpp",
+              "RelativeToolTip": "DXProject\\Door.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T13:59:30.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Umbrella.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Umbrella.h",
+              "RelativeDocumentMoniker": "DXProject\\Umbrella.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Umbrella.h",
+              "RelativeToolTip": "DXProject\\Umbrella.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T14:00:58.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Weapon.h",
+              "RelativeDocumentMoniker": "DXProject\\Weapon.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Weapon.h",
+              "RelativeToolTip": "DXProject\\Weapon.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T14:21:16.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AttackChangeIce.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\AttackChangeIce.h",
+              "RelativeDocumentMoniker": "DXProject\\AttackChangeIce.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\AttackChangeIce.h",
+              "RelativeToolTip": "DXProject\\AttackChangeIce.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T14:20:28.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "KingDededeWeapon.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\KingDededeWeapon.h",
+              "RelativeDocumentMoniker": "DXProject\\KingDededeWeapon.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\KingDededeWeapon.h",
+              "RelativeToolTip": "DXProject\\KingDededeWeapon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-09T06:48:18.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "KirbyCollisionBehavior.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\KirbyCollisionBehavior.cpp",
+              "RelativeDocumentMoniker": "DXProject\\KirbyCollisionBehavior.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\KirbyCollisionBehavior.cpp",
+              "RelativeToolTip": "DXProject\\KirbyCollisionBehavior.cpp",
+              "ViewState": "AgIAAHYAAAAAAAAAAADwv2AAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T14:03:03.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "KirbyCollisionBehavior.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\KirbyCollisionBehavior.h",
+              "RelativeDocumentMoniker": "DXProject\\KirbyCollisionBehavior.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\KirbyCollisionBehavior.h",
+              "RelativeToolTip": "DXProject\\KirbyCollisionBehavior.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T14:02:48.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Kirby.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Kirby.h",
+              "RelativeDocumentMoniker": "DXProject\\Kirby.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Kirby.h",
+              "RelativeToolTip": "DXProject\\Kirby.h",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAwFwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T14:02:11.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Wall.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Wall.h",
+              "RelativeDocumentMoniker": "DXProject\\Wall.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Wall.h",
+              "RelativeToolTip": "DXProject\\Wall.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T14:01:09.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IceBlock.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\IceBlock.cpp",
+              "RelativeDocumentMoniker": "DXProject\\IceBlock.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\IceBlock.cpp",
+              "RelativeToolTip": "DXProject\\IceBlock.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T14:00:51.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IceBlock.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\IceBlock.h",
+              "RelativeDocumentMoniker": "DXProject\\IceBlock.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\IceBlock.h",
+              "RelativeToolTip": "DXProject\\IceBlock.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T14:00:32.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Transform.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Transform.h",
+              "RelativeDocumentMoniker": "DXProject\\Transform.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\Transform.h",
+              "RelativeToolTip": "DXProject\\Transform.h",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T13:58:11.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "MeshRenderer.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\MeshRenderer.cpp",
+              "RelativeDocumentMoniker": "DXProject\\MeshRenderer.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\MeshRenderer.cpp",
+              "RelativeToolTip": "DXProject\\MeshRenderer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T13:58:05.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "RectCollider.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\RectCollider.h",
+              "RelativeDocumentMoniker": "DXProject\\RectCollider.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\RectCollider.h",
+              "RelativeToolTip": "DXProject\\RectCollider.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T13:55:03.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Wall.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Wall.cpp",
+              "RelativeDocumentMoniker": "DXProject\\Wall.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\Wall.cpp",
+              "RelativeToolTip": "DXProject\\Wall.cpp",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAqwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T12:27:46.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "LineCollider.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\LineCollider.h",
+              "RelativeDocumentMoniker": "DXProject\\LineCollider.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\LineCollider.h",
+              "RelativeToolTip": "DXProject\\LineCollider.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T13:52:35.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DotCollider.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\DotCollider.cpp",
+              "RelativeDocumentMoniker": "DXProject\\DotCollider.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\DotCollider.cpp",
+              "RelativeToolTip": "DXProject\\DotCollider.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T13:51:14.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DotCollider.h",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\DotCollider.h",
+              "RelativeDocumentMoniker": "DXProject\\DotCollider.h",
+              "ToolTip": "D:\\DXProject\\DXProject\\DotCollider.h",
+              "RelativeToolTip": "DXProject\\DotCollider.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-19T13:47:45.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Collider.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\Collider.cpp",
+              "RelativeDocumentMoniker": "DXProject\\Collider.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\Collider.cpp",
+              "RelativeToolTip": "DXProject\\Collider.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-19T13:46:39.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "BoomerangAbility.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\BoomerangAbility.cpp",
+              "RelativeDocumentMoniker": "DXProject\\BoomerangAbility.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\BoomerangAbility.cpp",
+              "RelativeToolTip": "DXProject\\BoomerangAbility.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAArwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-10T06:12:25.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "StarWeapon.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\StarWeapon.cpp",
+              "RelativeDocumentMoniker": "DXProject\\StarWeapon.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\StarWeapon.cpp",
+              "RelativeToolTip": "DXProject\\StarWeapon.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T05:45:29.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "MakeStarBehavior.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\MakeStarBehavior.cpp",
+              "RelativeDocumentMoniker": "DXProject\\MakeStarBehavior.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\MakeStarBehavior.cpp",
+              "RelativeToolTip": "DXProject\\MakeStarBehavior.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T05:37:46.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "WaddleDee.cpp",
+              "DocumentMoniker": "D:\\DXProject\\DXProject\\WaddleDee.cpp",
+              "RelativeDocumentMoniker": "DXProject\\WaddleDee.cpp",
+              "ToolTip": "D:\\DXProject\\DXProject\\WaddleDee.cpp",
+              "RelativeToolTip": "DXProject\\WaddleDee.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-09T04:40:15.064Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

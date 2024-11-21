@@ -1,0 +1,8 @@
+<stage StageName="1-1">
+    <map TexturePath="Level1-1Foreground.png" X="29" Y="-4.69" Mesh="Bottom72.04x9.63"/>
+    <collision X="-7" Y="-1.8" Width="35" Height="1.2" Shape="Rect"/>
+    <collision X="7.7" Y="-1.1" Width="3.3" Height="1" Shape="Rect"/>
+    <collision X="19.25" Y="-1.15" Width="0.6" Height="1" Shape="Rect"/>
+    <collision X="25.3" Y="-1" Width="5" Height="3" Shape="Rect"/>
+    <collision X="29.6" Y="1" Width="2.8" Height="5" Shape="Rect"/>
+</stage>

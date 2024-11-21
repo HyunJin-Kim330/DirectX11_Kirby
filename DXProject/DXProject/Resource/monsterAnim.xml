@@ -1,0 +1,663 @@
+<Animations>
+    <Animation Name="waddleDee_WalkingLeft" Loop="true" TextureName="monsterLeft" Tag="waddleDee" Num="2">
+        <Keyframe X="458" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="438" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="414" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="392" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="369" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="392" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="414" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="438" Y="673" Width="22" Height="22" Duration="0.1"/>
+    </Animation>
+    <Animation Name="waddleDee_WalkingRight" Loop="true" TextureName="monsterRight" Tag="waddleDee" Num="3">
+        <Keyframe X="1" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="23" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="45" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="67" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="91" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="67" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="45" Y="673" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="23" Y="673" Width="22" Height="22" Duration="0.1"/>
+    </Animation>
+    <Animation Name="waddleDee_AttackedLeft" Loop="false" TextureName="monsterLeft" Tag="waddleDee" Num="6">
+        <Keyframe X="458" Y="723" Width="22" Height="22" Duration="2.0"/>
+    </Animation>
+    <Animation Name="waddleDee_AttackedRight" Loop="false" TextureName="monsterRight" Tag="waddleDee" Num="7">
+        <Keyframe X="3" Y="723" Width="22" Height="22" Duration="2.0"/>
+    </Animation>
+    <Animation Name="waddleDee_SuckedLeft" Loop="false" TextureName="monsterLeft" Tag="waddleDee" Num="8">
+        <Keyframe X="432" Y="722" Width="23" Height="23" Duration="2.0"/>
+    </Animation>
+    <Animation Name="waddleDee_SuckedRight" Loop="false" TextureName="monsterRight" Tag="waddleDee" Num="9">
+        <Keyframe X="27" Y="722" Width="23" Height="23" Duration="2.0"/>
+    </Animation>
+    <Animation Name="waddleDee_UmbrellaDownLeft" Loop="true" TextureName="monsterLeft" Tag="waddleDee" Num="18">
+        <Keyframe X="411" Y="697" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="434" Y="697" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="458" Y="697" Width="22" Height="22" Duration="0.2"/>
+        <Keyframe X="434" Y="697" Width="22" Height="22" Duration="0.1"/>
+    </Animation>
+    <Animation Name="waddleDee_UmbrellaDownRight" Loop="true" TextureName="monsterRight" Tag="waddleDee" Num="19">
+        <Keyframe X="48" Y="697" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="26" Y="697" Width="22" Height="22" Duration="0.1"/>
+        <Keyframe X="2" Y="697" Width="22" Height="22" Duration="0.2"/>
+        <Keyframe X="26" Y="697" Width="22" Height="22" Duration="0.1"/>
+    </Animation>
+    <!--waddle doo-->
+    <Animation Name="waddleDoo_WalkingLeft" Loop="true" TextureName="monsterLeft" Tag="waddleDoo" Num="2">
+        <Keyframe X="457" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="433" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="409" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="385" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="361" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="385" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="409" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="433" Y="794" Width="24" Height="24" Duration="0.1"/>
+    </Animation>
+    <Animation Name="waddleDoo_WalkingRight" Loop="true" TextureName="monsterRight" Tag="waddleDoo" Num="3">
+        <Keyframe X="1" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="25" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="49" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="73" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="97" Y="794" Width="24" Height="24" Duration="0.1"/>
+    </Animation>
+    <Animation Name="waddleDoo_AttackingLeft" Loop="false" TextureName="monsterLeft" Tag="waddleDoo" Num="4">
+        <Keyframe X="314" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="338" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="314" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="338" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="314" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="338" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="314" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="338" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="314" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="290" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="266" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="290" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="266" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="290" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="266" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="290" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="266" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="290" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="266" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="290" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="266" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="290" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="266" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="290" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="266" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="290" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="266" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="290" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="266" Y="818" Width="24" Height="24" Duration="0.04"/>
+    </Animation>
+    <Animation Name="waddleDoo_AttackingRight" Loop="false" TextureName="monsterRight" Tag="waddleDoo" Num="5">
+        <Keyframe X="144" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="120" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="144" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="144" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="120" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="144" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="144" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="120" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="144" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="168" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="192" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="168" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="192" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="168" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="192" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="168" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="192" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="168" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="192" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="168" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="192" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="168" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="192" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="168" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="192" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="168" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="192" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="168" Y="818" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="192" Y="818" Width="24" Height="24" Duration="0.04"/>
+    </Animation>
+    <Animation Name="waddleDoo_AttackedLeft" Loop="false" TextureName="monsterLeft" Tag="waddleDoo" Num="6">
+        <Keyframe X="457" Y="818" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="waddleDoo_AttackedRight" Loop="false" TextureName="monsterRight" Tag="waddleDoo" Num="7">
+        <Keyframe X="1" Y="818" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="waddleDoo_SuckedLeft" Loop="false" TextureName="monsterLeft" Tag="waddleDoo" Num="8">
+        <Keyframe X="457" Y="818" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="waddleDoo_SuckedRight" Loop="false" TextureName="monsterRight" Tag="waddleDoo" Num="9">
+        <Keyframe X="1" Y="818" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="waddleDoo_JumpingLeft" Loop="false" TextureName="monsterLeft" Tag="waddleDoo" Num="12">
+        <Keyframe X="457" Y="794" Width="24" Height="24" Duration="4.0"/>
+    </Animation>
+    <Animation Name="waddleDoo_JumpingRight" Loop="false" TextureName="monsterRight" Tag="waddleDoo" Num="13">
+        <Keyframe X="1" Y="794" Width="24" Height="24" Duration="4.0"/>
+    </Animation>
+    <Animation Name="waddleDoo_FallingLeft" Loop="false" TextureName="monsterLeft" Tag="waddleDoo" Num="14">
+        <Keyframe X="457" Y="794" Width="24" Height="24" Duration="4.0"/>
+    </Animation>
+    <Animation Name="waddleDoo_FallingRight" Loop="false" TextureName="monsterRight" Tag="waddleDoo" Num="15">
+        <Keyframe X="1" Y="794" Width="24" Height="24" Duration="4.0"/>
+    </Animation>
+    <!--SpikeMonster-->
+    <Animation Name="SpikeMonster_IdleLeft" Loop="true" TextureName="monsterLeft" Tag="spikeMonster" Num="0">
+        <Keyframe X="457" Y="2473" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="SpikeMonster_IdleRight" Loop="true" TextureName="monsterRight" Tag="spikeMonster" Num="1">
+        <Keyframe X="1" Y="2473" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="SpikeMonster_AttackingLeft" Loop="false" TextureName="monsterRight" Tag="spikeMonster" Num="4">
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+    </Animation>
+    <Animation Name="SpikeMonster_AttackingRight" Loop="false" TextureName="monsterRight" Tag="spikeMonster" Num="5">
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="124" Y="2471" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="154" Y="2471" Width="24" Height="24" Duration="0.05"/>
+    </Animation>
+    <Animation Name="SpikeMonster_AttackedLeft" Loop="false" TextureName="monsterLeft" Tag="spikeMonster" Num="6">
+        <Keyframe X="432" Y="2498" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="SpikeMonster_AttackedRight" Loop="false" TextureName="monsterRight" Tag="spikeMonster" Num="7">
+        <Keyframe X="26" Y="2498" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="SpikeMonster_SuckedLeft" Loop="false" TextureName="monsterLeft" Tag="spikeMonster" Num="8">
+        <Keyframe X="457" Y="2498" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="SpikeMonster_SuckedRight" Loop="false" TextureName="monsterRight" Tag="spikeMonster" Num="9">
+        <Keyframe X="1" Y="2498" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="SpikeMonster_JumpingLeft" Loop="false" TextureName="monsterLeft" Tag="spikeMonster" Num="12">
+        <Keyframe X="457" Y="2473" Width="24" Height="24" Duration="0.5"/>
+        <Keyframe X="382" Y="2473" Width="24" Height="24" Duration="4.0"/>
+    </Animation>
+    <Animation Name="SpikeMonster_JumpingRight" Loop="false" TextureName="monsterRight" Tag="spikeMonster" Num="13">
+        <Keyframe X="1" Y="2473" Width="24" Height="24" Duration="0.5"/>
+        <Keyframe X="76" Y="2473" Width="24" Height="24" Duration="4.0"/>
+    </Animation>
+    <Animation Name="SpikeMonster_FallingLeft" Loop="false" TextureName="monsterLeft" Tag="spikeMonster" Num="14">
+        <Keyframe X="432" Y="2473" Width="24" Height="24" Duration="4.0"/>
+    </Animation>
+    <Animation Name="SpikeMonster_FallingRight" Loop="false" TextureName="monsterRight" Tag="spikeMonster" Num="15">
+        <Keyframe X="26" Y="2473" Width="24" Height="24" Duration="4.0"/>
+    </Animation>
+    <!--FireMonster-->
+    <Animation Name="FireMonster_WalkingLeft" Loop="true" TextureName="monsterLeft" Tag="fireMonster" Num="2">
+        <Keyframe X="457" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="432" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="407" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="382" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="357" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="382" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="407" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="432" Y="3261" Width="24" Height="24" Duration="0.1"/>
+    </Animation>
+    <Animation Name="FireMonster_WalkingRight" Loop="true" TextureName="monsterRight" Tag="fireMonster" Num="3">
+        <Keyframe X="1" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="26" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="51" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="76" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="101" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="76" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="51" Y="3261" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="26" Y="3261" Width="24" Height="24" Duration="0.1"/>
+    </Animation>
+    <!--BoomerangMonster-->
+    <Animation Name="BoomerangMonster_IdleLeft" Loop="true" TextureName="monsterLeft" Tag="BoomerangMonster" Num="0">
+        <Keyframe X="456" Y="2579" Width="25" Height="25" Duration="0.15"/>
+        <Keyframe X="430" Y="2579" Width="25" Height="25" Duration="0.15"/>
+        <Keyframe X="404" Y="2579" Width="25" Height="25" Duration="0.15"/>
+        <Keyframe X="430" Y="2579" Width="25" Height="25" Duration="0.15"/>
+    </Animation>
+    <Animation Name="BoomerangMonster_IdleRight" Loop="true" TextureName="monsterRight" Tag="BoomerangMonster" Num="1">
+        <Keyframe X="1" Y="2579" Width="25" Height="25" Duration="0.15"/>
+        <Keyframe X="27" Y="2579" Width="25" Height="25" Duration="0.15"/>
+        <Keyframe X="53" Y="2579" Width="25" Height="25" Duration="0.15"/>
+        <Keyframe X="27" Y="2579" Width="25" Height="25" Duration="0.15"/>
+    </Animation>
+    <Animation Name="BoomerangMonster_AttackingLeft" Loop="false" TextureName="monsterLeft" Tag="BoomerangMonster" Num="4">
+        <Keyframe X="456" Y="2605" Width="25" Height="25" Duration="1.0"/>
+        <Keyframe X="430" Y="2605" Width="25" Height="25" Duration="0.05"/>
+        <Keyframe X="404" Y="2605" Width="25" Height="25" Duration="5.0"/>
+    </Animation>
+    <Animation Name="BoomerangMonster_AttackingRight" Loop="false" TextureName="monsterRight" Tag="BoomerangMonster" Num="5">
+        <Keyframe X="1" Y="2605" Width="25" Height="25" Duration="1.0"/>
+        <Keyframe X="27" Y="2605" Width="25" Height="25" Duration="0.05"/>
+        <Keyframe X="53" Y="2605" Width="25" Height="25" Duration="5.0"/>
+    </Animation>
+    <Animation Name="BoomerangMonster_AttackedLeft" Loop="false" TextureName="monsterLeft" Tag="BoomerangMonster" Num="6">
+        <Keyframe X="352" Y="2579" Width="25" Height="25" Duration="2.0"/>
+    </Animation>
+    <Animation Name="BoomerangMonster_AttackedRight" Loop="false" TextureName="monsterRight" Tag="BoomerangMonster" Num="7">
+        <Keyframe X="105" Y="2579" Width="25" Height="25" Duration="2.0"/>
+    </Animation>
+    <Animation Name="BoomerangMonster_SuckedLeft" Loop="false" TextureName="monsterLeft" Tag="BoomerangMonster" Num="8">
+        <Keyframe X="378" Y="2579" Width="25" Height="25" Duration="2.0"/>
+    </Animation>
+    <Animation Name="BoomerangMonster_SuckedRight" Loop="false" TextureName="monsterRight" Tag="BoomerangMonster" Num="9">
+        <Keyframe X="79" Y="2579" Width="25" Height="25" Duration="2.0"/>
+    </Animation>
+    <Animation Name="BoomerangMonster_JumpingLeft" Loop="false" TextureName="monsterLeft" Tag="BoomerangMonster" Num="12">
+        <Keyframe X="456" Y="2579" Width="25" Height="25" Duration="4.0"/>
+    </Animation>
+    <Animation Name="BoomerangMonster_JumpingRight" Loop="false" TextureName="monsterRight" Tag="BoomerangMonster" Num="13">
+        <Keyframe X="1" Y="2579" Width="25" Height="25" Duration="4.0"/>
+    </Animation>
+    <Animation Name="BoomerangMonster_FallingLeft" Loop="false" TextureName="monsterLeft" Tag="BoomerangMonster" Num="14">
+        <Keyframe X="456" Y="2579" Width="25" Height="25" Duration="4.0"/>
+    </Animation>
+    <Animation Name="BoomerangMonster_FallingRight" Loop="false" TextureName="monsterRight" Tag="BoomerangMonster" Num="15">
+        <Keyframe X="1" Y="2579" Width="25" Height="25" Duration="4.0"/>
+    </Animation>
+    <!--GreenMonster-->
+    <Animation Name="GreenMonster_IdleLeft" Loop="true" TextureName="monsterLeft" Tag="GreenMonster" Num="0">
+        <Keyframe X="451" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="420" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="389" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="358" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="389" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="420" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="451" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="234" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="265" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="296" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="327" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="296" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="265" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="234" Y="3850" Width="30" Height="30" Duration="0.15"/>
+    </Animation>
+    <Animation Name="GreenMonster_IdleRight" Loop="true" TextureName="monsterRight" Tag="GreenMonster" Num="1">
+        <Keyframe X="1" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="32" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="63" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="94" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="63" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="32" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="1" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="218" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="187" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="156" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="125" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="156" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="187" Y="3850" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="218" Y="3850" Width="30" Height="30" Duration="0.15"/>
+    </Animation>
+    <Animation Name="GreenMonster_WalkingLeft" Loop="true" TextureName="monsterLeft" Tag="GreenMonster" Num="2">
+        <Keyframe X="451" Y="3819" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="420" Y="3819" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="389" Y="3819" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="358" Y="3819" Width="30" Height="30" Duration="0.15"/>
+    </Animation>
+    <Animation Name="GreenMonster_WalkingRight" Loop="true" TextureName="monsterRight" Tag="GreenMonster" Num="3">
+        <Keyframe X="1" Y="3819" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="32" Y="3819" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="63" Y="3819" Width="30" Height="30" Duration="0.15"/>
+        <Keyframe X="94" Y="3819" Width="30" Height="30" Duration="0.15"/>
+    </Animation>
+    <Animation Name="GreenMonster_AngryWalkingLeft" Loop="true" TextureName="monsterLeft" Tag="" Num="">
+        <Keyframe X="451" Y="3920" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="420" Y="3920" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="389" Y="3920" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="358" Y="3920" Width="30" Height="30" Duration="0.05"/>
+    </Animation>
+    <Animation Name="GreenMonster_AngryWalkingRight" Loop="true" TextureName="monsterRight" Tag="" Num="">
+        <Keyframe X="1" Y="3920" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="32" Y="3920" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="63" Y="3920" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="94" Y="3920" Width="30" Height="30" Duration="0.05"/>
+    </Animation>
+    <Animation Name="GreenMonster_AttackingLeft" Loop="false" TextureName="monsterLeft" Tag="GreenMonster" Num="4">
+        <Keyframe X="389" Y="3881" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="358" Y="3881" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="327" Y="3881" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="296" Y="3881" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="265" Y="3881" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="234" Y="3881" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="203" Y="3881" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="172" Y="3881" Width="30" Height="30" Duration="1.0"/>
+        <Keyframe X="141" Y="3881" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="110" Y="3881" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="79" Y="3881" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="48" Y="3881" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="17" Y="3881" Width="30" Height="30" Duration="0.05"/>
+        <Keyframe X="296" Y="3881" Width="30" Height="30" Duration="0.05"/>
+    </Animation>
+    <Animation Name="GreenMonster_AttackingRight" Loop="false" TextureName="monsterRight" Tag="GreenMonster" Num="5">
+        <Keyframe X="63" Y="3881" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="94" Y="3881" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="125" Y="3881" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="156" Y="3881" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="187" Y="3881" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="218" Y="3881" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="249" Y="3881" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="280" Y="3881" Width="30" Height="30" Duration="0.6"/>
+        <Keyframe X="311" Y="3881" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="342" Y="3881" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="373" Y="3881" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="404" Y="3881" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="435" Y="3881" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="156" Y="3881" Width="30" Height="30" Duration="0.04"/>
+    </Animation>
+    <Animation Name="GreenMonster_AttackedLeft" Loop="false" TextureName="monsterLeft" Tag="GreenMonster" Num="6">
+        <Keyframe X="451" Y="3881" Width="30" Height="30" Duration="2.0"/>
+    </Animation>
+    <Animation Name="GreenMonster_AttackedRight" Loop="false" TextureName="monsterRight" Tag="GreenMonster" Num="7">
+        <Keyframe X="1" Y="3881" Width="30" Height="30" Duration="2.0"/>
+    </Animation>
+    <Animation Name="GreenMonster_AngryAttackedLeft" Loop="false" TextureName="monsterLeft" Tag="" Num="">
+        <Keyframe X="327" Y="3920" Width="30" Height="30" Duration="2.0"/>
+    </Animation>
+    <Animation Name="GreenMonster_AngryAttackedRight" Loop="false" TextureName="monsterRight" Tag="" Num="">
+        <Keyframe X="125" Y="3920" Width="30" Height="30" Duration="2.0"/>
+    </Animation>
+    <Animation Name="GreenMonster_SuckedLeft" Loop="false" TextureName="monsterLeft" Tag="GreenMonster" Num="8">
+        <Keyframe X="420" Y="3881" Width="30" Height="30" Duration="2.0"/>
+    </Animation>
+    <Animation Name="GreenMonster_SuckedRight" Loop="false" TextureName="monsterRight" Tag="GreenMonster" Num="9">
+        <Keyframe X="32" Y="3881" Width="30" Height="30" Duration="2.0"/>
+    </Animation>
+    <Animation Name="GreenMonster_AngrySuckedLeft" Loop="false" TextureName="monsterLeft" Tag="" Num="">
+        <Keyframe X="296" Y="3920" Width="30" Height="30" Duration="2.0"/>
+    </Animation>
+    <Animation Name="GreenMonster_AngrSyuckedRight" Loop="false" TextureName="monsterRight" Tag="" Num="">
+        <Keyframe X="156" Y="3920" Width="30" Height="30" Duration="2.0"/>
+    </Animation>
+    <Animation Name="GreenMonster_FallingLeft" Loop="false" TextureName="monsterLeft" Tag="GreenMonster" Num="14">
+        <Keyframe X="456" Y="2579" Width="25" Height="25" Duration="4.0"/>
+    </Animation>
+    <Animation Name="GreenMonster_FallingRight" Loop="false" TextureName="monsterRight" Tag="GreenMonster" Num="15">
+        <Keyframe X="1" Y="2579" Width="25" Height="25" Duration="4.0"/>
+    </Animation>
+    <!--Dedede-->
+    <Animation Name="Dedede_IdleLeft" Loop="true" TextureName="KingDededeLeft" Tag="Dedede" Num="0">
+        <Keyframe X="1" Y="1" Width="100" Height="100" Duration="0.2"/>
+        <Keyframe X="102" Y="1" Width="100" Height="100" Duration="0.2"/>
+        <Keyframe X="203" Y="1" Width="100" Height="100" Duration="0.2"/>
+        <Keyframe X="304" Y="1" Width="100" Height="100" Duration="0.2"/>
+    </Animation>
+    <Animation Name="Dedede_IdleRight" Loop="true" TextureName="KingDededeRight" Tag="Dedede" Num="1">
+        <Keyframe X="697" Y="1" Width="100" Height="100" Duration="0.2"/>
+        <Keyframe X="596" Y="1" Width="100" Height="100" Duration="0.2"/>
+        <Keyframe X="495" Y="1" Width="100" Height="100" Duration="0.2"/>
+        <Keyframe X="394" Y="1" Width="100" Height="100" Duration="0.2"/>
+    </Animation>
+    <Animation Name="Dedede_WalkingLeft" Loop="true" TextureName="KingDededeLeft" Tag="Dedede" Num="2">
+        <Keyframe X="405" Y="1" Width="100" Height="100" Duration="0.3"/>
+        <Keyframe X="506" Y="1" Width="100" Height="100" Duration="0.05"/>
+        <Keyframe X="607" Y="1" Width="100" Height="100" Duration="0.3"/>
+        <Keyframe X="506" Y="1" Width="100" Height="100" Duration="0.05"/>
+    </Animation>
+    <Animation Name="Dedede_WalkingRight" Loop="true" TextureName="KingDededeRight" Tag="Dedede" Num="3">
+        <Keyframe X="293" Y="1" Width="100" Height="100" Duration="0.3"/>
+        <Keyframe X="192" Y="1" Width="100" Height="100" Duration="0.05"/>
+        <Keyframe X="91" Y="1" Width="100" Height="100" Duration="0.3"/>
+        <Keyframe X="192" Y="1" Width="100" Height="100" Duration="0.05"/>
+    </Animation>
+    <Animation Name="Dedede_Attacking1Left" Loop="false" TextureName="KingDededeLeft" Tag="Dedede" Num="4">
+        <Keyframe X="1" Y="203" Width="100" Height="100" Duration="0.1"/>
+        <Keyframe X="102" Y="203" Width="100" Height="100" Duration="0.2"/>
+        <Keyframe X="203" Y="203" Width="100" Height="100" Duration="0.1"/>
+        <Keyframe X="304" Y="203" Width="100" Height="100" Duration="0.02"/>
+        <Keyframe X="405" Y="203" Width="100" Height="100" Duration="0.3"/>
+    </Animation>
+    <Animation Name="Dedede_Attacking1Right" Loop="false" TextureName="KingDededeRight" Tag="Dedede" Num="5">
+        <Keyframe X="697" Y="203" Width="100" Height="100" Duration="0.1"/>
+        <Keyframe X="596" Y="203" Width="100" Height="100" Duration="0.2"/>
+        <Keyframe X="495" Y="203" Width="100" Height="100" Duration="0.1"/>
+        <Keyframe X="394" Y="203" Width="100" Height="100" Duration="0.02"/>
+        <Keyframe X="293" Y="203" Width="100" Height="100" Duration="0.3"/>
+    </Animation>
+    <Animation Name="Dedede_AttackedLeft" Loop="false" TextureName="KingDededeLeft" Tag="Dedede" Num="6">
+        <Keyframe X="506" Y="102" Width="100" Height="100" Duration="2.0"/>
+    </Animation>
+    <Animation Name="Dedede_AttackedRight" Loop="false" TextureName="KingDededeRight" Tag="Dedede" Num="7">
+        <Keyframe X="192" Y="102" Width="100" Height="100" Duration="2.0"/>
+    </Animation>
+    <Animation Name="Dedede_FlyLeft" Loop="false" TextureName="KingDededeLeft" Tag="Dedede" Num="10">
+        <Keyframe X="1" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="102" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="1" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="102" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="1" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="102" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="1" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="102" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="203" Y="102" Width="100" Height="100" Duration="1.0"/>
+        <Keyframe X="304" Y="102" Width="100" Height="100" Duration="10.0"/>
+    </Animation>
+    <Animation Name="Dedede_FlyRight" Loop="false" TextureName="KingDededeRight" Tag="Dedede" Num="11">
+        <Keyframe X="697" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="596" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="697" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="596" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="697" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="596" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="697" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="596" Y="102" Width="100" Height="100" Duration="0.15"/>
+        <Keyframe X="495" Y="102" Width="100" Height="100" Duration="1.0"/>
+        <Keyframe X="394" Y="102" Width="100" Height="100" Duration="10.0"/>
+    </Animation>
+    <Animation Name="Dedede_JumpingLeft" Loop="false" TextureName="KingDededeLeft" Tag="Dedede" Num="12">
+        <Keyframe X="1" Y="405" Width="100" Height="100" Duration="0.2"/>
+        <Keyframe X="102" Y="405" Width="100" Height="100" Duration="4.0"/>
+    </Animation>
+    <Animation Name="Dedede_JumpingRight" Loop="false" TextureName="KingDededeRight" Tag="Dedede" Num="13">
+        <Keyframe X="697" Y="405" Width="100" Height="100" Duration="0.2"/>
+        <Keyframe X="596" Y="405" Width="100" Height="100" Duration="4.0"/>
+    </Animation>
+    <Animation Name="Dedede_FallingLeft" Loop="false" TextureName="KingDededeLeft" Tag="Dedede" Num="14">
+        <Keyframe X="203" Y="405" Width="100" Height="100" Duration="4.0"/>
+    </Animation>
+    <Animation Name="Dedede_FallingRight" Loop="false" TextureName="KingDededeRight" Tag="Dedede" Num="15">
+        <Keyframe X="495" Y="405" Width="100" Height="100" Duration="4.0"/>
+    </Animation>
+    <Animation Name="Dedede_SpitOutLeft" Loop="false" TextureName="KingDededeLeft" Tag="Dedede" Num="16">
+        <Keyframe X="405" Y="102" Width="100" Height="100" Duration="0.1"/>
+    </Animation>
+    <Animation Name="Dedede_SpitOutRight" Loop="false" TextureName="KingDededeRight" Tag="Dedede" Num="17">
+        <Keyframe X="293" Y="102" Width="100" Height="100" Duration="2.0"/>
+    </Animation>
+    <Animation Name="Dedede_DieLeft" Loop="true" TextureName="KingDededeLeft" Tag="Dedede" Num="20">
+        <Keyframe X="506" Y="304" Width="100" Height="100" Duration="2.0"/>
+        <Keyframe X="607" Y="304" Width="100" Height="100" Duration="0.4"/>
+        <Keyframe X="506" Y="304" Width="100" Height="100" Duration="1.5"/>
+        <Keyframe X="607" Y="304" Width="100" Height="100" Duration="0.4"/>
+        <Keyframe X="506" Y="304" Width="100" Height="100" Duration="0.4"/>
+        <Keyframe X="607" Y="304" Width="100" Height="100" Duration="0.4"/>
+    </Animation>
+    <Animation Name="Dedede_DieRight" Loop="false" TextureName="KingDededeRight" Tag="Dedede" Num="21">
+        <Keyframe X="192" Y="304" Width="100" Height="100" Duration="2.0"/>
+        <Keyframe X="91" Y="304" Width="100" Height="100" Duration="0.4"/>
+        <Keyframe X="192" Y="304" Width="100" Height="100" Duration="1.5"/>
+        <Keyframe X="91" Y="304" Width="100" Height="100" Duration="0.4"/>
+        <Keyframe X="192" Y="304" Width="100" Height="100" Duration="0.4"/>
+        <Keyframe X="91" Y="304" Width="100" Height="100" Duration="0.4"/>
+    </Animation>
+    <Animation Name="Dedede_CallWaddleDeeAttackLeft" Loop="true" TextureName="KingDededeLeft" Tag="" Num="">
+        <Keyframe X="1" Y="304" Width="100" Height="100" Duration="0.08"/>
+        <Keyframe X="102" Y="304" Width="100" Height="100" Duration="0.08"/>
+    </Animation>
+    <Animation Name="Dedede_CallWaddleDeeAttackRight" Loop="true" TextureName="KingDededeRight" Tag="" Num="">
+        <Keyframe X="697" Y="304" Width="100" Height="100" Duration="0.08"/>
+        <Keyframe X="596" Y="304" Width="100" Height="100" Duration="0.08"/>
+    </Animation>
+    <Animation Name="Dedede_HamerJumpTakeDownAttackLeft" Loop="false" TextureName="KingDededeLeft" Tag="" Num="">
+        <Keyframe X="203" Y="304" Width="100" Height="100" Duration="1.0"/>
+        <Keyframe X="304" Y="304" Width="100" Height="100" Duration="1.0"/>
+        <Keyframe X="203" Y="203" Width="100" Height="100" Duration="0.1"/>
+        <Keyframe X="304" Y="203" Width="100" Height="100" Duration="0.02"/>
+        <Keyframe X="405" Y="203" Width="100" Height="100" Duration="1.0"/>
+    </Animation>
+    <Animation Name="Dedede_HamerJumpTakeDownAttackRight" Loop="false" TextureName="KingDededeRight" Tag="" Num="">
+        <Keyframe X="495" Y="304" Width="100" Height="100" Duration="1.0"/>
+        <Keyframe X="394" Y="304" Width="100" Height="100" Duration="1.0"/>
+        <Keyframe X="495" Y="203" Width="100" Height="100" Duration="0.1"/>
+        <Keyframe X="394" Y="203" Width="100" Height="100" Duration="0.02"/>
+        <Keyframe X="293" Y="203" Width="100" Height="100" Duration="1.0"/>
+    </Animation>
+    <!--carrotMon-->
+    <Animation Name="carrotMon_IdleLeft" Loop="true" TextureName="monsterLeft" Tag="carrotMon" Num="0">
+        <Keyframe X="457" Y="2100" Width="24" Height="24" Duration="0.2"/>
+        <Keyframe X="432" Y="2100" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="407" Y="2100" Width="24" Height="24" Duration="0.2"/>
+    </Animation>
+    <Animation Name="carrotMon_IdleRight" Loop="true" TextureName="monsterRight" Tag="carrotMon" Num="1">
+        <Keyframe X="1" Y="2100" Width="24" Height="24" Duration="0.2"/>
+        <Keyframe X="26" Y="2100" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="51" Y="2100" Width="24" Height="24" Duration="0.2"/>
+    </Animation>
+    <Animation Name="carrotMon_AttackingLeft" Loop="true" TextureName="monsterLeft" Tag="carrotMon" Num="4">
+        <Keyframe X="457" Y="2125" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="432" Y="2125" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="407" Y="2125" Width="24" Height="24" Duration="0.04"/>
+    </Animation>
+    <Animation Name="carrotMon_AttackingRight" Loop="true" TextureName="monsterRight" Tag="carrotMon" Num="5">
+        <Keyframe X="1" Y="2125" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="26" Y="2125" Width="24" Height="24" Duration="0.04"/>
+        <Keyframe X="51" Y="2125" Width="24" Height="24" Duration="0.04"/>
+    </Animation>
+    <Animation Name="carrotMon_AttackedLeft1" Loop="false" TextureName="monsterLeft" Tag="carrotMon" Num="6">
+        <Keyframe X="382" Y="2100" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="carrotMon_AttackedRight1" Loop="false" TextureName="monsterRight" Tag="carrotMon" Num="7">
+        <Keyframe X="76" Y="2100" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="carrotMon_AttackedLeft2" Loop="false" TextureName="monsterLeft" Tag="" Num="">
+        <Keyframe X="382" Y="2125" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="carrotMon_AttackedRight2" Loop="false" TextureName="monsterRight" Tag="" Num="">
+        <Keyframe X="76" Y="2125" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <!--iceMon-->
+    <Animation Name="iceMonster_IdleLeft" Loop="false" TextureName="monsterLeft" Tag="iceMonster" Num="0">
+        <Keyframe X="457" Y="2836" Width="24" Height="24" Duration="5.2"/>
+    </Animation>
+    <Animation Name="iceMonster_IdleRight" Loop="false" TextureName="monsterRight" Tag="iceMonster" Num="1">
+        <Keyframe X="1" Y="2836" Width="24" Height="24" Duration="5.2"/>
+    </Animation>
+    <Animation Name="iceMonster_WalkingLeft" Loop="true" TextureName="monsterLeft" Tag="iceMonster" Num="2">
+        <Keyframe X="432" Y="2836" Width="24" Height="24" Duration="0.3"/>
+        <Keyframe X="407" Y="2836" Width="24" Height="24" Duration="1.5"/>
+    </Animation>
+    <Animation Name="iceMonster_WalkingRight" Loop="true" TextureName="monsterRight" Tag="iceMonster" Num="3">
+        <Keyframe X="26" Y="2836" Width="24" Height="24" Duration="0.3"/>
+        <Keyframe X="51" Y="2836" Width="24" Height="24" Duration="1.5"/>
+    </Animation>
+    <Animation Name="iceMonster_AttackingLeft" Loop="true" TextureName="monsterLeft" Tag="iceMonster" Num="4">
+        <Keyframe X="432" Y="2861" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="407" Y="2861" Width="24" Height="24" Duration="0.05"/>
+    </Animation>
+    <Animation Name="iceMonster_AttackingRight" Loop="true" TextureName="monsterRight" Tag="iceMonster" Num="5">
+        <Keyframe X="26" Y="2861" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="51" Y="2861" Width="24" Height="24" Duration="0.05"/>
+    </Animation>
+    <Animation Name="iceMonster_AttackedLeft" Loop="false" TextureName="monsterLeft" Tag="iceMonster" Num="6">
+        <Keyframe X="432" Y="2886" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="iceMonster_AttackedRight" Loop="false" TextureName="monsterRight" Tag="iceMonster" Num="7">
+        <Keyframe X="26" Y="2886" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="iceMonster_SuckedLeft" Loop="false" TextureName="monsterLeft" Tag="iceMonster" Num="8">
+        <Keyframe X="457" Y="2886" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="iceMonster_SuckedRight" Loop="false" TextureName="monsterRight" Tag="iceMonster" Num="9">
+        <Keyframe X="1" Y="2886" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="iceMonster_FallingLeft" Loop="false" TextureName="monsterLeft" Tag="iceMonster" Num="14">
+        <Keyframe X="457" Y="794" Width="24" Height="24" Duration="4.0"/>
+    </Animation>
+    <Animation Name="iceMonster_FallingRight" Loop="false" TextureName="monsterRight" Tag="iceMonster" Num="15">
+        <Keyframe X="1" Y="794" Width="24" Height="24" Duration="4.0"/>
+    </Animation>
+</Animations>

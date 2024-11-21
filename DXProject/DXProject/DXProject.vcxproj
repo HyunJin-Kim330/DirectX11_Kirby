@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{74011366-6f33-4e0c-9031-e532b5ace2f8}</ProjectGuid>
+    <RootNamespace>DXProject</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)Binaries\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>false</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <AdditionalIncludeDirectories>$(SolutionDir)Libraries/Include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)Libraries/Lib/</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="Ability.h" />
+    <ClInclude Include="AbilityStar.h" />
+    <ClInclude Include="AbilityStarCollisionBehavior.h" />
+    <ClInclude Include="Animation.h" />
+    <ClInclude Include="Animator.h" />
+    <ClInclude Include="AttackBasic.h" />
+    <ClInclude Include="AttackChangeIce.h" />
+    <ClInclude Include="AttackElectricShock.h" />
+    <ClInclude Include="Background.h" />
+    <ClInclude Include="BeamAbility.h" />
+    <ClInclude Include="BeamWeapon.h" />
+    <ClInclude Include="BlendState.h" />
+    <ClInclude Include="Boomer.h" />
+    <ClInclude Include="BoomerangAbility.h" />
+    <ClInclude Include="BoomerangWeapon.h" />
+    <ClInclude Include="BreathWeapon.h" />
+    <ClInclude Include="Button.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="CarrotMonster.h" />
+    <ClInclude Include="Collider.h" />
+    <ClInclude Include="CollisionBehavior.h" />
+    <ClInclude Include="Component.h" />
+    <ClInclude Include="ConstantBuffer.h" />
+    <ClInclude Include="Door.h" />
+    <ClInclude Include="DotCollider.h" />
+    <ClInclude Include="DXProject.h" />
+    <ClInclude Include="EffectObject.h" />
+    <ClInclude Include="EmptyObject.h" />
+    <ClInclude Include="FollowPlayerAI.h" />
+    <ClInclude Include="FollowPlayerRandomBehaviorAI.h" />
+    <ClInclude Include="Foreground.h" />
+    <ClInclude Include="framework.h" />
+    <ClInclude Include="GameManager.h" />
+    <ClInclude Include="GameObject.h" />
+    <ClInclude Include="Geometry.h" />
+    <ClInclude Include="GeometryMaker.h" />
+    <ClInclude Include="GreenMonster.h" />
+    <ClInclude Include="IceBlock.h" />
+    <ClInclude Include="IceMonster.h" />
+    <ClInclude Include="IceWeapon.h" />
+    <ClInclude Include="IdleAndAttackAI.h" />
+    <ClInclude Include="IdleAndAttackWhenKirbyCloseAI.h" />
+    <ClInclude Include="InformationUI.h" />
+    <ClInclude Include="KingDedede.h" />
+    <ClInclude Include="KingDededeWeapon.h" />
+    <ClInclude Include="KirbyCollisionBehavior.h" />
+    <ClInclude Include="IceAbility.h" />
+    <ClInclude Include="IndexBuffer.h" />
+    <ClInclude Include="InputLayout.h" />
+    <ClInclude Include="InputManager.h" />
+    <ClInclude Include="Kirby.h" />
+    <ClInclude Include="LineCollider.h" />
+    <ClInclude Include="MakeStarBehavior.h" />
+    <ClInclude Include="Material.h" />
+    <ClInclude Include="Mesh.h" />
+    <ClInclude Include="Monster.h" />
+    <ClInclude Include="MonsterAI.h" />
+    <ClInclude Include="MonsterCollisionBasicBehavior.h" />
+    <ClInclude Include="MonsterCollisionSuckingBehavior.h" />
+    <ClInclude Include="NormalAI.h" />
+    <ClInclude Include="NormalWeapon.h" />
+    <ClInclude Include="NotMoveStar.h" />
+    <ClInclude Include="ObjectPool.h" />
+    <ClInclude Include="Pipeline.h" />
+    <ClInclude Include="RectCollider.h" />
+    <ClInclude Include="RenderManager.h" />
+    <ClInclude Include="ResourceBase.h" />
+    <ClInclude Include="SamplerState.h" />
+    <ClInclude Include="Shader.h" />
+    <ClInclude Include="MeshRenderer.h" />
+    <ClInclude Include="NormalAbility.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="ResourceManager.h" />
+    <ClInclude Include="Scene.h" />
+    <ClInclude Include="SceneManager.h" />
+    <ClInclude Include="SimpleMath.h" />
+    <ClInclude Include="AttackDisappearBehavior.h" />
+    <ClInclude Include="SparkAbility.h" />
+    <ClInclude Include="SparkMonster.h" />
+    <ClInclude Include="SparkWeapon.h" />
+    <ClInclude Include="StarWeapon.h" />
+    <ClInclude Include="Structs.h" />
+    <ClInclude Include="SuckBehavior.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="Texture.h" />
+    <ClInclude Include="TimeManager.h" />
+    <ClInclude Include="tinyxml2.h" />
+    <ClInclude Include="Transform.h" />
+    <ClInclude Include="Types.h" />
+    <ClInclude Include="Umbrella.h" />
+    <ClInclude Include="Values.h" />
+    <ClInclude Include="VertexBuffer.h" />
+    <ClInclude Include="ShaderBase.h" />
+    <ClInclude Include="WaddleDee.h" />
+    <ClInclude Include="WaddleDoo.h" />
+    <ClInclude Include="Wall.h" />
+    <ClInclude Include="WandererAI.h" />
+    <ClInclude Include="Weapon.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Ability.cpp" />
+    <ClCompile Include="AbilityStar.cpp" />
+    <ClCompile Include="AbilityStarCollisionBehavior.cpp" />
+    <ClCompile Include="Animation.cpp" />
+    <ClCompile Include="Animator.cpp" />
+    <ClCompile Include="AttackBasic.cpp" />
+    <ClCompile Include="AttackChangeIce.cpp" />
+    <ClCompile Include="AttackElectricShock.cpp" />
+    <ClCompile Include="Background.cpp" />
+    <ClCompile Include="BeamAbility.cpp" />
+    <ClCompile Include="BeamWeapon.cpp" />
+    <ClCompile Include="BlendState.cpp" />
+    <ClCompile Include="Boomer.cpp" />
+    <ClCompile Include="BoomerangAbility.cpp" />
+    <ClCompile Include="BoomerangWeapon.cpp" />
+    <ClCompile Include="BreathWeapon.cpp" />
+    <ClCompile Include="Button.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="CarrotMonster.cpp" />
+    <ClCompile Include="Collider.cpp" />
+    <ClCompile Include="CollisionBehavior.cpp" />
+    <ClCompile Include="Component.cpp" />
+    <ClCompile Include="ConstantBuffer.cpp" />
+    <ClCompile Include="Door.cpp" />
+    <ClCompile Include="DotCollider.cpp" />
+    <ClCompile Include="DXProject.cpp" />
+    <ClCompile Include="EffectObject.cpp" />
+    <ClCompile Include="EmptyObject.cpp" />
+    <ClCompile Include="FollowPlayerAI.cpp" />
+    <ClCompile Include="FollowPlayerRandomBehaviorAI.cpp" />
+    <ClCompile Include="Foreground.cpp" />
+    <ClCompile Include="GameManager.cpp" />
+    <ClCompile Include="GameObject.cpp" />
+    <ClCompile Include="Geometry.cpp" />
+    <ClCompile Include="GeometryMaker.cpp" />
+    <ClCompile Include="GreenMonster.cpp" />
+    <ClCompile Include="IceBlock.cpp" />
+    <ClCompile Include="IceMonster.cpp" />
+    <ClCompile Include="IceWeapon.cpp" />
+    <ClCompile Include="IdleAndAttackAI.cpp" />
+    <ClCompile Include="IdleAndAttackWhenKirbyCloseAI.cpp" />
+    <ClCompile Include="InformationUI.cpp" />
+    <ClCompile Include="KingDedede.cpp" />
+    <ClCompile Include="KingDededeWeapon.cpp" />
+    <ClCompile Include="KirbyCollisionBehavior.cpp" />
+    <ClCompile Include="IceAbility.cpp" />
+    <ClCompile Include="IndexBuffer.cpp" />
+    <ClCompile Include="InputLayout.cpp" />
+    <ClCompile Include="InputManager.cpp" />
+    <ClCompile Include="Kirby.cpp" />
+    <ClCompile Include="LineCollider.cpp" />
+    <ClCompile Include="MakeStarBehavior.cpp" />
+    <ClCompile Include="Material.cpp" />
+    <ClCompile Include="Mesh.cpp" />
+    <ClCompile Include="Monster.cpp" />
+    <ClCompile Include="MonsterAI.cpp" />
+    <ClCompile Include="MonsterCollisionBasicBehavior.cpp" />
+    <ClCompile Include="MonsterCollisionSuckingBehavior.cpp" />
+    <ClCompile Include="NormalAI.cpp" />
+    <ClCompile Include="NormalWeapon.cpp" />
+    <ClCompile Include="NotMoveStar.cpp" />
+    <ClCompile Include="ObjectPool.cpp" />
+    <ClCompile Include="Pipeline.cpp" />
+    <ClCompile Include="RectCollider.cpp" />
+    <ClCompile Include="RenderManager.cpp" />
+    <ClCompile Include="ResourceBase.cpp" />
+    <ClCompile Include="SamplerState.cpp" />
+    <ClCompile Include="Shader.cpp" />
+    <ClCompile Include="MeshRenderer.cpp" />
+    <ClCompile Include="NormalAbility.cpp" />
+    <ClCompile Include="pch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="SceneManager.cpp" />
+    <ClCompile Include="SimpleMath.cpp" />
+    <ClCompile Include="AttackDisappearBehavior.cpp" />
+    <ClCompile Include="SparkAbility.cpp" />
+    <ClCompile Include="SparkMonster.cpp" />
+    <ClCompile Include="SparkWeapon.cpp" />
+    <ClCompile Include="StarWeapon.cpp" />
+    <ClCompile Include="SuckBehavior.cpp" />
+    <ClCompile Include="Texture.cpp" />
+    <ClCompile Include="TimeManager.cpp" />
+    <ClCompile Include="tinyxml2.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="Transform.cpp" />
+    <ClCompile Include="Umbrella.cpp" />
+    <ClCompile Include="VertexBuffer.cpp" />
+    <ClCompile Include="ShaderBase.cpp" />
+    <ClCompile Include="WaddleDee.cpp" />
+    <ClCompile Include="WaddleDoo.cpp" />
+    <ClCompile Include="Wall.cpp" />
+    <ClCompile Include="WandererAI.cpp" />
+    <ClCompile Include="Weapon.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="DXProject.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="DXProject.ico" />
+    <Image Include="small.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SimpleMath.inl" />
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="collider.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Vertex</ShaderType>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Vertex</ShaderType>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Vertex</ShaderType>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Vertex</ShaderType>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+      <EntryPointName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">VS</EntryPointName>
+    </FxCompile>
+    <FxCompile Include="Default.hlsl">
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Vertex</ShaderType>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Vertex</ShaderType>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Vertex</ShaderType>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Vertex</ShaderType>
+      <EntryPointName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">VS</EntryPointName>
+      <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
+    </FxCompile>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

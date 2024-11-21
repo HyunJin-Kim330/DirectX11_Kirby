@@ -1,0 +1,14 @@
+#include "pch.h"
+#include "Shader.h"
+
+Shader::Shader() : Super(ResourceType::Shader)
+{
+
+}
+
+Shader::~Shader()
+{
+	delete inputLayout;
+	delete vertexShader;
+	delete pixelShader;
+}

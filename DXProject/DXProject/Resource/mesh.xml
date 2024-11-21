@@ -1,0 +1,39 @@
+<Meshs>
+    <Mesh Name="Midst1x1" MidPoint="Midst" Width="1" Height="1"/>
+    <Mesh Name="Midst2.17x0.7" MidPoint="Midst" Width="2.17" Height="0.7"/>
+    <Mesh Name="Midst2x2" MidPoint="Midst" Width="2" Height="2"/>
+    <Mesh Name="Midst3x3" MidPoint="Midst" Width="3" Height="3"/>
+    <Mesh Name="Left_2x3.12" MidPoint="Left" Width="3" Height="4.68"/>
+    <Mesh Name="Right_2x3.12" MidPoint="Right" Width="3" Height="4.68"/>
+    <Mesh Name="Left_3.21x1.5" MidPoint="Left" Width="3.21" Height="1.5"/>
+    <Mesh Name="Left_26x10" MidPoint="Left" Width="26" Height="10"/>
+    <Mesh Name="Right_3.21x1.5" MidPoint="Right" Width="3.21" Height="1.5"/>
+    <Mesh Name="Bottom0.5x0.5" MidPoint="Bottom" Width="0.8" Height="0.8"/>
+    <Mesh Name="Bottom1x1" MidPoint="Bottom" Width="1" Height="1"/>
+    <Mesh Name="Bottom1x2.3" MidPoint="Bottom" Width="0.8" Height="1.84"/>
+    <Mesh Name="Bottom1.1x1.1" MidPoint="Bottom" Width="1.1" Height="1.1"/>
+    <Mesh Name="Bottom1.2x1.2" MidPoint="Bottom" Width="1.2" Height="1.2"/>
+    <Mesh Name="Bottom1.3x1.3" MidPoint="Bottom" Width="1.3" Height="1.3"/>
+    <Mesh Name="Bottom1.5x1.5" MidPoint="Bottom" Width="1.5" Height="1.5"/>
+    <Mesh Name="Bottom1.6x1.6" MidPoint="Bottom" Width="1.6" Height="1.6"/>
+    <Mesh Name="Bottom2x2" MidPoint="Bottom" Width="2" Height="2"/>
+    <Mesh Name="Bottom6x6" MidPoint="Bottom" Width="6" Height="6"/>
+    <Mesh Name="Bottom5.1x0.85" MidPoint="Bottom" Width="5.1" Height="0.85"/>
+    <Mesh Name="Bottom3.17x0.85" MidPoint="Bottom" Width="2.79" Height="0.75"/>
+    <Mesh Name="Bottom6.22x2" MidPoint="Bottom" Width="6.22" Height="2"/>
+    <Mesh Name="Bottom6.29x0.85" MidPoint="Bottom" Width="5.55" Height="0.75"/>
+    <Mesh Name="Right2.8x0.9" MidPoint="Right" Width="2.8" Height="0.9"/>
+    <Mesh Name="Left2.8x0.9" MidPoint="Left" Width="2.8" Height="0.9"/>
+    <Mesh Name="Left4x2" MidPoint="Left" Width="4" Height="2"/>
+    <Mesh Name="Right4x2" MidPoint="Right" Width="4" Height="2"/>
+    <Mesh Name="Right4x4" MidPoint="Right" Width="4" Height="4"/>
+    <Mesh Name="Left4x4" MidPoint="Left" Width="4" Height="4"/>
+    <Mesh Name="Left74.0x37.0" MidPoint="Left" Width="40.0" Height="20.0"/>
+    <Mesh Name="Left14.0x10.7" MidPoint="Left" Width="14.0" Height="10.7"/>
+    <Mesh Name="Bottom72.04x9.63" MidPoint="Bottom" Width="72.04" Height="9.63"/>
+    <Mesh Name="MonsterBlood" MidPoint="Left" Width="3.0" Height="0.3"/>
+    <Mesh Name="MonsterBloodBorder" MidPoint="Left" Width="3.7" Height="0.6"/>
+    <Mesh Name="KirbyBlood" MidPoint="Left" Width="3.8" Height="0.45"/>
+    <Mesh Name="KirbyBloodBorder" MidPoint="Left" Width="4.3" Height="0.6"/>
+</Meshs>
+

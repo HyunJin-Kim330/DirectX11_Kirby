@@ -7,12 +7,14 @@
 Scene::Scene(pair<float, float> cameraX, pair<float, float> cameraY, string _name) : cameraX(cameraX), cameraY(cameraY)
 {
 	name = _name;
-	//gameObjectList.resize(10);
 }
 
 Scene::~Scene()
 {
-
+	for (auto& obj : gameObjectList)
+	{
+		delete obj;
+	}
 }
 
 void Scene::Init()

@@ -2,15 +2,15 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\DXProject\Binaries\DXProject.exe</FullPath>
+      <FullPath>C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\Binaries\DXProject.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles>
     <ContentFile>
-      <FullPath>D:\DXProject\Binaries\collider.cso</FullPath>
+      <FullPath>C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\Binaries\collider.cso</FullPath>
     </ContentFile>
     <ContentFile>
-      <FullPath>D:\DXProject\Binaries\Default.cso</FullPath>
+      <FullPath>C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\Binaries\Default.cso</FullPath>
     </ContentFile>
   </ContentFiles>
   <SatelliteDlls />

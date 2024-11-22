@@ -57,7 +57,7 @@ SamplerState sampler0 : register(s0);
 float4 PS(VS_OUTPUT input) : SV_Target
 {
 	float4 color = texture0.Sample(sampler0, input.uv);
-	float4 text = float4(color.rgb, color.a);
+	float4 text = float4(color.rgb, color.a);		// 실질적인 부분만 렌더링 하기 위해 rgb값 추가
 
 	return text;
 }

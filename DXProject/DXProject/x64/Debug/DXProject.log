@@ -1,5 +1,40 @@
 ﻿  compilation object save succeeded; see C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\Binaries\collider.cso
   compilation object save succeeded; see C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\Binaries\Default.cso
+  GameObject.cpp
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/GameObject/GameObject.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/GameObject/GameObject.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/GameObject/GameObject.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/GameObject/GameObject.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/GameObject/GameObject.cpp'을(를) 컴파일하는 중)
+  
+  RenderManager.cpp
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/RenderManager/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/RenderManager/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/RenderManager/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/RenderManager/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/RenderManager/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\RenderManager\RenderManager.cpp(47,27): warning C4244: '=': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\RenderManager\RenderManager.cpp(48,28): warning C4244: '=': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\RenderManager\RenderManager.cpp(206,59): warning C4267: '인수': 'size_t'에서 'uint32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Scene.cpp
 C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
   (소스 파일 '00.%20Engine/Manager/SceneManager/Scene.cpp'을(를) 컴파일하는 중)
@@ -16,4 +51,5 @@ C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manage
 C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
   (소스 파일 '00.%20Engine/Manager/SceneManager/Scene.cpp'을(를) 컴파일하는 중)
   
+  코드를 생성하고 있습니다...
   DXProject.vcxproj -> C:\Users\djawl\Desktop\Git\DirectX11_Kirby\DXProject\Binaries\DXProject.exe

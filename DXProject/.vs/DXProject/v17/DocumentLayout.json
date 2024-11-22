@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\RenderManager\\RenderManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\00. Engine\\Manager\\RenderManager\\RenderManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\GameObject\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\00. Engine\\GameObject\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\SceneManager\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\00. Engine\\Manager\\SceneManager\\Scene.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\GameObject\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\00. Engine\\GameObject\\GameObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\GameObject\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\00. Engine\\GameObject\\GameObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\SceneManager\\Scene.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -243,10 +247,6 @@
       "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\DXProject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\RenderManager\\RenderManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\00. Engine\\Manager\\RenderManager\\RenderManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Pipeline\\00. Geometry\\GeometryMaker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{74011366-6F33-4E0C-9031-E532B5ACE2F8}|DXProject\\DXProject.vcxproj|solutionrelative:DXProject\\00. Engine\\Pipeline\\00. Geometry\\GeometryMaker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -350,28 +350,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 284,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GameObject.cpp",
-              "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\GameObject\\GameObject.cpp",
-              "RelativeDocumentMoniker": "DXProject\\00. Engine\\GameObject\\GameObject.cpp",
-              "ToolTip": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\GameObject\\GameObject.cpp",
-              "RelativeToolTip": "DXProject\\00. Engine\\GameObject\\GameObject.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-22T04:38:38.782Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Scene.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\SceneManager\\Scene.cpp",
               "RelativeDocumentMoniker": "DXProject\\00. Engine\\Manager\\SceneManager\\Scene.cpp",
@@ -384,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RectCollider.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Component\\Collider\\RectCollider.h",
               "RelativeDocumentMoniker": "DXProject\\00. Engine\\Component\\Collider\\RectCollider.h",
@@ -392,12 +379,11 @@
               "RelativeToolTip": "DXProject\\00. Engine\\Component\\Collider\\RectCollider.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T04:33:51.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T04:33:51.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "WaddleDoo.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Monster\\Variety\\WaddleDoo.cpp",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Monster\\Variety\\WaddleDoo.cpp",
@@ -409,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "BeamWeapon.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Weapon\\BeamWeapon.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Weapon\\BeamWeapon.h",
@@ -421,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "AbilityStarCollisionBehavior.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Item\\AbilityStarCollisionBehavior.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Item\\AbilityStarCollisionBehavior.h",
@@ -433,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Collider.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Component\\Collider\\Collider.cpp",
               "RelativeDocumentMoniker": "DXProject\\00. Engine\\Component\\Collider\\Collider.cpp",
@@ -445,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "SceneManager.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\SceneManager\\SceneManager.cpp",
               "RelativeDocumentMoniker": "DXProject\\00. Engine\\Manager\\SceneManager\\SceneManager.cpp",
@@ -453,12 +439,11 @@
               "RelativeToolTip": "DXProject\\00. Engine\\Manager\\SceneManager\\SceneManager.cpp",
               "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-22T02:53:57.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T02:53:57.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Scene.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\SceneManager\\Scene.h",
               "RelativeDocumentMoniker": "DXProject\\00. Engine\\Manager\\SceneManager\\Scene.h",
@@ -466,25 +451,49 @@
               "RelativeToolTip": "DXProject\\00. Engine\\Manager\\SceneManager\\Scene.h",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAwBsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T02:38:35.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T02:38:35.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "GameObject.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\GameObject\\GameObject.h",
               "RelativeDocumentMoniker": "DXProject\\00. Engine\\GameObject\\GameObject.h",
               "ToolTip": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\GameObject\\GameObject.h",
               "RelativeToolTip": "DXProject\\00. Engine\\GameObject\\GameObject.h",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAwA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-22T02:09:15.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "RenderManager.cpp",
+              "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\RenderManager\\RenderManager.cpp",
+              "RelativeDocumentMoniker": "DXProject\\00. Engine\\Manager\\RenderManager\\RenderManager.cpp",
+              "ToolTip": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\RenderManager\\RenderManager.cpp",
+              "RelativeToolTip": "DXProject\\00. Engine\\Manager\\RenderManager\\RenderManager.cpp",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAywM0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T02:31:34.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameObject.cpp",
+              "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\GameObject\\GameObject.cpp",
+              "RelativeDocumentMoniker": "DXProject\\00. Engine\\GameObject\\GameObject.cpp",
+              "ToolTip": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\GameObject\\GameObject.cpp",
+              "RelativeToolTip": "DXProject\\00. Engine\\GameObject\\GameObject.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-22T04:38:38.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RectCollider.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Component\\Collider\\RectCollider.cpp",
               "RelativeDocumentMoniker": "DXProject\\00. Engine\\Component\\Collider\\RectCollider.cpp",
@@ -492,12 +501,11 @@
               "RelativeToolTip": "DXProject\\00. Engine\\Component\\Collider\\RectCollider.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-22T04:33:56.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T04:33:56.029Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LineCollider.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Component\\Collider\\LineCollider.h",
               "RelativeDocumentMoniker": "DXProject\\00. Engine\\Component\\Collider\\LineCollider.h",
@@ -505,12 +513,11 @@
               "RelativeToolTip": "DXProject\\00. Engine\\Component\\Collider\\LineCollider.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T04:34:03.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T04:34:03.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "SuckBehavior.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Weapon\\CollisionBehavior\\SuckBehavior.cpp",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Weapon\\CollisionBehavior\\SuckBehavior.cpp",
@@ -522,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "KirbyCollisionBehavior.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Player\\Kirby\\KirbyCollisionBehavior.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Player\\Kirby\\KirbyCollisionBehavior.h",
@@ -534,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "NormalWeapon.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Weapon\\NormalWeapon.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Weapon\\NormalWeapon.h",
@@ -542,12 +549,11 @@
               "RelativeToolTip": "DXProject\\02. GameContents\\Weapon\\NormalWeapon.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T03:24:55.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T03:24:55.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "collider.hlsl",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\10. Shader\\collider.hlsl",
               "RelativeDocumentMoniker": "DXProject\\10. Shader\\collider.hlsl",
@@ -555,12 +561,11 @@
               "RelativeToolTip": "DXProject\\10. Shader\\collider.hlsl",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-22T03:29:25.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T03:29:25.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DXProject.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\DXProject.cpp",
               "RelativeDocumentMoniker": "DXProject\\DXProject.cpp",
@@ -568,12 +573,11 @@
               "RelativeToolTip": "DXProject\\DXProject.cpp",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-22T02:40:36.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T02:40:36.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ObjectPool.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\ObjectPool\\ObjectPool.cpp",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\ObjectPool\\ObjectPool.cpp",
@@ -585,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "AttackBasic.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Monster\\CollisionBehavior\\AttackBasic.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Monster\\CollisionBehavior\\AttackBasic.h",
@@ -597,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MonsterCollisionBasicBehavior.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Monster\\CollisionBehavior\\MonsterCollisionBasicBehavior.cpp",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Monster\\CollisionBehavior\\MonsterCollisionBasicBehavior.cpp",
@@ -609,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "MonsterCollisionSuckingBehavior.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Monster\\CollisionBehavior\\MonsterCollisionSuckingBehavior.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Monster\\CollisionBehavior\\MonsterCollisionSuckingBehavior.h",
@@ -621,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ResourceManager.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\ResourceManager\\ResourceManager.cpp",
               "RelativeDocumentMoniker": "DXProject\\00. Engine\\Manager\\ResourceManager\\ResourceManager.cpp",
@@ -633,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "MonsterCollisionBasicBehavior.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Monster\\CollisionBehavior\\MonsterCollisionBasicBehavior.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Monster\\CollisionBehavior\\MonsterCollisionBasicBehavior.h",
@@ -645,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "BoomerangWeapon.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Weapon\\BoomerangWeapon.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Weapon\\BoomerangWeapon.h",
@@ -657,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "KingDededeWeapon.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Weapon\\KingDededeWeapon.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Weapon\\KingDededeWeapon.h",
@@ -669,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "SuckBehavior.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Weapon\\CollisionBehavior\\SuckBehavior.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Weapon\\CollisionBehavior\\SuckBehavior.h",
@@ -681,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "AttackElectricShock.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Weapon\\CollisionBehavior\\AttackElectricShock.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Weapon\\CollisionBehavior\\AttackElectricShock.h",
@@ -693,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "AttackDisappearBehavior.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Weapon\\CollisionBehavior\\AttackDisappearBehavior.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Weapon\\CollisionBehavior\\AttackDisappearBehavior.h",
@@ -705,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "StarWeapon.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Weapon\\StarWeapon.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Weapon\\StarWeapon.h",
@@ -717,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Texture.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\ResourceManager\\Resource\\Texture.cpp",
               "RelativeDocumentMoniker": "DXProject\\00. Engine\\Manager\\ResourceManager\\Resource\\Texture.cpp",
@@ -729,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "SparkWeapon.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Weapon\\SparkWeapon.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Weapon\\SparkWeapon.h",
@@ -741,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "IceWeapon.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Weapon\\IceWeapon.cpp",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Weapon\\IceWeapon.cpp",
@@ -753,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "AttackChangeIce.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Weapon\\CollisionBehavior\\AttackChangeIce.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Weapon\\CollisionBehavior\\AttackChangeIce.h",
@@ -765,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "NormalAbility.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Player\\Ability\\NormalAbility.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Player\\Ability\\NormalAbility.h",
@@ -777,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "IceAbility.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Player\\Ability\\IceAbility.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Player\\Ability\\IceAbility.h",
@@ -789,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "BoomerangAbility.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Player\\Ability\\BoomerangAbility.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Player\\Ability\\BoomerangAbility.h",
@@ -801,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Ability.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Player\\Ability\\Ability.cpp",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Player\\Ability\\Ability.cpp",
@@ -813,7 +817,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "ObjectPool.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\ObjectPool\\ObjectPool.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\ObjectPool\\ObjectPool.h",
@@ -825,7 +829,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "KingDedede.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Monster\\Variety\\KingDedede.cpp",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Monster\\Variety\\KingDedede.cpp",
@@ -837,7 +841,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "FollowPlayerAI.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Monster\\MonsterAI\\FollowPlayerAI.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Monster\\MonsterAI\\FollowPlayerAI.h",
@@ -849,7 +853,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "Wall.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Item\\Wall.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Item\\Wall.h",
@@ -861,7 +865,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "IceBlock.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Item\\IceBlock.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Item\\IceBlock.h",
@@ -873,7 +877,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "Door.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Item\\Door.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Item\\Door.h",
@@ -885,7 +889,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "SparkAbility.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Player\\Ability\\SparkAbility.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Player\\Ability\\SparkAbility.h",
@@ -897,7 +901,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "WandererAI.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Monster\\MonsterAI\\WandererAI.cpp",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Monster\\MonsterAI\\WandererAI.cpp",
@@ -909,7 +913,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "Button.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Item\\Button.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Item\\Button.h",
@@ -921,7 +925,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "MonsterCollisionSuckingBehavior.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Monster\\CollisionBehavior\\MonsterCollisionSuckingBehavior.cpp",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Monster\\CollisionBehavior\\MonsterCollisionSuckingBehavior.cpp",
@@ -933,7 +937,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "Boomer.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Monster\\Variety\\Boomer.cpp",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Monster\\Variety\\Boomer.cpp",
@@ -945,7 +949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "GameManager.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\01. Main\\GameManager.cpp",
               "RelativeDocumentMoniker": "DXProject\\01. Main\\GameManager.cpp",
@@ -957,7 +961,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "AbilityStar.cpp",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Item\\AbilityStar.cpp",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Item\\AbilityStar.cpp",
@@ -969,7 +973,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "AbilityStar.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Item\\AbilityStar.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Item\\AbilityStar.h",
@@ -981,7 +985,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "InformationUI.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Background\\InformationUI.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Background\\InformationUI.h",
@@ -993,7 +997,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "Foreground.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Background\\Foreground.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Background\\Foreground.h",
@@ -1005,7 +1009,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "Boomer.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Monster\\Variety\\Boomer.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Monster\\Variety\\Boomer.h",
@@ -1017,7 +1021,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "MakeStarBehavior.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Item\\MakeStarBehavior.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Item\\MakeStarBehavior.h",
@@ -1029,7 +1033,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "NotMoveStar.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Item\\NotMoveStar.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Item\\NotMoveStar.h",
@@ -1041,7 +1045,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "Umbrella.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Item\\Umbrella.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Item\\Umbrella.h",
@@ -1053,7 +1057,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "Background.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\02. GameContents\\Background\\Background.h",
               "RelativeDocumentMoniker": "DXProject\\02. GameContents\\Background\\Background.h",
@@ -1065,7 +1069,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 60,
               "Title": "DXProject.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\DXProject.h",
               "RelativeDocumentMoniker": "DXProject\\DXProject.h",
@@ -1137,18 +1141,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "RenderManager.cpp",
-              "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\RenderManager\\RenderManager.cpp",
-              "RelativeDocumentMoniker": "DXProject\\00. Engine\\Manager\\RenderManager\\RenderManager.cpp",
-              "ToolTip": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\RenderManager\\RenderManager.cpp",
-              "RelativeToolTip": "DXProject\\00. Engine\\Manager\\RenderManager\\RenderManager.cpp",
-              "ViewState": "AgIAANIAAAAAAAAAAAAAAAIAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-22T02:31:34.599Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 69,
               "Title": "Texture.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\00. Engine\\Manager\\ResourceManager\\Resource\\Texture.h",
@@ -1173,7 +1165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 59,
               "Title": "GameManager.h",
               "DocumentMoniker": "C:\\Users\\djawl\\Desktop\\Git\\DirectX11_Kirby\\DXProject\\DXProject\\01. Main\\GameManager.h",
               "RelativeDocumentMoniker": "DXProject\\01. Main\\GameManager.h",

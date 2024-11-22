@@ -126,9 +126,9 @@ void RenderManager::ReadyRender()
 	deviceContext->RSSetViewports(1, &viewport);
 }
 
-void RenderManager::RenderWithPipeline()
+void RenderManager::RenderWithPipeline()		// 파이프라인를 거쳐 렌더링
 {
-	vector<GameObject*> renderableObjects = GetRenderableGameObject();
+	vector<GameObject*> renderableObjects = GetRenderableGameObject();		// 렌더링 가능한 오브젝트들만 가져옴
 
 	for (GameObject* object : renderableObjects)
 	{
@@ -137,7 +137,7 @@ void RenderManager::RenderWithPipeline()
 		transformData.matWorld = object->GetTransform()->GetWorldMatrix();
 		PushTransformData();
 
-		if (object->GetAnimator() != nullptr)
+		if (object->GetAnimator() != nullptr)		// 애니메이터 component가 없는 경우
 		{
 			Animator* animator = object->GetAnimator();
 			Animation* animation = animator->GetPresentAnimation();
@@ -151,7 +151,7 @@ void RenderManager::RenderWithPipeline()
 			pipeline->SetTexture(0, animation->GetTexture());
 			pipeline->SetConstantBuffer(2, animationBuffer);
 		}
-		else
+		else		// 애니메이터 component 있는 경우
 		{
 			animationData.offset = Vec2(0.f, 0.f);
 			animationData.size = Vec2(0.f, 0.f);
@@ -163,6 +163,7 @@ void RenderManager::RenderWithPipeline()
 			pipeline->SetTexture(0, meshRenderer->GetTexture());
 		}
 
+		// 파이프라인을 거치기 위한 정보 셋팅
 		PipelineInfo pipelineInfo;
 		pipelineInfo.inputLayout = meshRenderer->GetInputLayout();
 		pipelineInfo.vertexShader = meshRenderer->GetVertexShader();
@@ -178,9 +179,11 @@ void RenderManager::RenderWithPipeline()
 		pipeline->SetConstantBuffer(1, transformBuffer);
 		pipeline->SetSamplerState(0, samplerState);
 
-		pipeline->DrawIndexed(meshRenderer->GetMesh()->GetIndexBuffer()->GetCount(), 0, 0);
+		pipeline->DrawIndexed(meshRenderer->GetMesh()->GetIndexBuffer()->GetCount(), 0, 0);		// 인덱스를 통해 draw
 	}
 
+
+	// Collider를 그려주는 부분
 	vector<GameObject*> renderableColliders = GetRenderableCollider();
 	for (GameObject* object : renderableColliders)
 	{

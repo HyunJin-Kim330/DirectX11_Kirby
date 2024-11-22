@@ -1,0 +1,153 @@
+<Objects>
+    <Object Name="-" Type="Background" PositionX="-7.0" PositionY="-0.3" Parent="-">
+        <MeshRenderer Use="true" Mesh="Left_26x10" Material="Default" Textur="background1" Order="0"/>
+        <Animator Use="false"/>
+        <Colliders Use="false">
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Foreground" PositionX="29.0" PositionY="-4.69" Parent="-">
+        <MeshRenderer Use="true" Mesh="Bottom72.04x9.63" Material="Default" Textur="Level1-1Foreground" Order="1"/>
+        <Animator Use="false"/>
+        <Colliders Use="false">
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Empty" PositionX="-7.0" PositionY="-1.8" Parent="-">
+        <MeshRenderer Use="false" Mesh="Bottom72.04x9.63" Material="Default" Textur="Level1-1Foreground" Order="1"/>
+        <Animator Use="false"/>
+        <Colliders Use="true">
+            <Collider Type="RectCollider" VertexNum="5">
+                <Vertex X="0" Y="0"/>
+                <Vertex X="35" Y="0"/>
+                <Vertex X="35" Y="-2.2"/>
+                <Vertex X="0" Y="-2.2"/>
+                <Vertex X="0" Y="0"/>
+            </Collider>
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Empty" PositionX="7.7" PositionY="-1.1" Parent="-" >
+        <MeshRenderer Use="false"/>
+        <Animator Use="false"/>
+        <Colliders Use="true">
+            <Collider Type="RectCollider" VertexNum="5">
+                <Vertex X="0" Y="0"/>
+                <Vertex X="3.3" Y="0"/>
+                <Vertex X="3.3" Y="-1.0"/>
+                <Vertex X="0" Y="-1.0"/>
+                <Vertex X="0" Y="0"/>
+            </Collider>
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Empty" PositionX="19.25" PositionY="-1.15" Parent="-" >
+        <MeshRenderer Use="false"/>
+        <Animator Use="false"/>
+        <Colliders Use="true">
+            <Collider Type="RectCollider" VertexNum="5">
+                <Vertex X="0" Y="0"/>
+                <Vertex X="0.6" Y="0"/>
+                <Vertex X="0.6" Y="-1.0"/>
+                <Vertex X="0" Y="-1.0"/>
+                <Vertex X="0" Y="0"/>
+            </Collider>
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Empty" PositionX="25.3" PositionY="-1.0" Parent="-" >
+        <MeshRenderer Use="false"/>
+        <Animator Use="false"/>
+        <Colliders Use="true">
+            <Collider Type="RectCollider" VertexNum="5">
+                <Vertex X="0" Y="0"/>
+                <Vertex X="5.0" Y="0"/>
+                <Vertex X="5.0" Y="-3.0"/>
+                <Vertex X="0" Y="-3.0"/>
+                <Vertex X="0" Y="0"/>
+            </Collider>
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Empty" PositionX="29.6" PositionY="1.05" Parent="-" >
+        <MeshRenderer Use="false"/>
+        <Animator Use="false"/>
+        <Colliders Use="true">
+            <Collider Type="RectCollider" VertexNum="5">
+                <Vertex X="0" Y="0"/>
+                <Vertex X="2.6" Y="0"/>
+                <Vertex X="2.6" Y="-5.0"/>
+                <Vertex X="0" Y="-5.0"/>
+                <Vertex X="0" Y="0"/>
+            </Collider>
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Empty" PositionX="36.0" PositionY="-1.1" Parent="-" >
+        <MeshRenderer Use="false"/>
+        <Animator Use="false"/>
+        <Colliders Use="true">
+            <Collider Type="RectCollider" VertexNum="5">
+                <Vertex X="0" Y="0"/>
+                <Vertex X="12.6" Y="0"/>
+                <Vertex X="12.6" Y="-5.0"/>
+                <Vertex X="0" Y="-5.0"/>
+                <Vertex X="0" Y="0"/>
+            </Collider>
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Empty" PositionX="32.45" PositionY="1.2" Parent="-" >
+        <MeshRenderer Use="false"/>
+        <Animator Use="false"/>
+        <Colliders Use="true">
+            <Collider Type="LineCollider" VertexNum="2">
+                <Vertex X="0" Y="0"/>
+                <Vertex X="4.5" Y="-2.4"/>
+            </Collider>
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Empty" PositionX="47.9" PositionY="2.5" Parent="-" >
+        <MeshRenderer Use="false"/>
+        <Animator Use="false"/>
+        <Colliders Use="true">
+            <Collider Type="RectCollider" VertexNum="5">
+                <Vertex X="0" Y="0"/>
+                <Vertex X="1.8" Y="0"/>
+                <Vertex X="1.8" Y="-5.0"/>
+                <Vertex X="0" Y="-5.0"/>
+                <Vertex X="0" Y="0"/>
+            </Collider>
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Empty" PositionX="49.4" PositionY="1.1" Parent="-" >
+        <MeshRenderer Use="false"/>
+        <Animator Use="false"/>
+        <Colliders Use="true">
+            <Collider Type="RectCollider" VertexNum="5">
+                <Vertex X="0" Y="0"/>
+                <Vertex X="1.8" Y="0"/>
+                <Vertex X="1.8" Y="-5.0"/>
+                <Vertex X="0" Y="-5.0"/>
+                <Vertex X="0" Y="0"/>
+            </Collider>
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Empty" PositionX="51.0" PositionY="-1.1" Parent="-" >
+        <MeshRenderer Use="false"/>
+        <Animator Use="false"/>
+        <Colliders Use="true">
+            <Collider Type="RectCollider" VertexNum="5">
+                <Vertex X="0" Y="0"/>
+                <Vertex X="15.0" Y="0"/>
+                <Vertex X="15.0" Y="-3.0"/>
+                <Vertex X="0" Y="-3.0"/>
+                <Vertex X="0" Y="0"/>
+            </Collider>
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Door" PositionX="63.3" PositionY="-1.1" Parent="-" >
+        <MeshRenderer Use="false"/>
+        <Animator Use="false"/>
+        <Colliders Use="false">
+        </Colliders>
+    </Object>
+    <Object Name="-" Type="Door" PositionX="63.3" PositionY="-1.1" Parent="-" >
+        <MeshRenderer Use="false"/>
+        <Animator Use="false"/>
+        <Colliders Use="false">
+        </Colliders>
+    </Object>
+</Objects>

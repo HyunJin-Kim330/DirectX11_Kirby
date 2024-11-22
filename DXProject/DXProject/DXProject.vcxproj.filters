@@ -54,9 +54,6 @@
     <Filter Include="소스 파일\02. GameContents\Player\Ability">
       <UniqueIdentifier>{53c0bb2a-1fc9-42a0-bfea-205a9c63447d}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\00. Engine\SceneManager">
-      <UniqueIdentifier>{f3ce621f-ca53-40ec-9e59-16db833629ac}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\00. Engine\Pipeline">
       <UniqueIdentifier>{2b0a712c-31fe-4cd4-91e6-7dbbb05dde0f}</UniqueIdentifier>
     </Filter>
@@ -105,14 +102,8 @@
     <Filter Include="소스 파일\02. GameContents\Foreground">
       <UniqueIdentifier>{939cd177-b402-4d25-9f83-3da47256812e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\00. Engine\Component\Collider\CollideBehavior">
-      <UniqueIdentifier>{21c19352-39f5-4d4c-a2a7-f0b8d44032d2}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\02. GameContents\Weapon">
       <UniqueIdentifier>{f3d9170c-d108-4564-bfdb-4aba9a1535cc}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\02. GameContents\Weapon\ColliderBehavior">
-      <UniqueIdentifier>{5991db22-9b67-4be9-8353-25e0d1fd7e58}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\02. GameContents\Monster\MonsterAI">
       <UniqueIdentifier>{d963d728-06d5-49a5-81fb-ba954387b3ce}</UniqueIdentifier>
@@ -120,22 +111,28 @@
     <Filter Include="소스 파일\02. GameContents\ObjectPool">
       <UniqueIdentifier>{e9bdb5b6-12da-4d7c-9a42-b003d7a14501}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\02. GameContents\Monster\ColliderBehavior">
-      <UniqueIdentifier>{f4d0d065-a853-49b9-a4d5-d7c83a43dfab}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\02. GameContents\Monster\Variety">
       <UniqueIdentifier>{60f3d135-8fdd-41e2-a3d6-679d1d79e415}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\02. GameContents\Item">
       <UniqueIdentifier>{a28ad240-1b09-485b-a5ff-56548780766e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\00. Engine\Component\Collider\CollisionBehavior">
+      <UniqueIdentifier>{21c19352-39f5-4d4c-a2a7-f0b8d44032d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\00. Engine\Manager\SceneManager">
+      <UniqueIdentifier>{f3ce621f-ca53-40ec-9e59-16db833629ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02. GameContents\Weapon\CollisionBehavior">
+      <UniqueIdentifier>{5991db22-9b67-4be9-8353-25e0d1fd7e58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02. GameContents\Monster\CollisionBehavior">
+      <UniqueIdentifier>{f4d0d065-a853-49b9-a4d5-d7c83a43dfab}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DXProject.h">
       <Filter>소스 파일\01. Main</Filter>
-    </ClInclude>
-    <ClInclude Include="pch.h">
-      <Filter>소스 파일\99. Headers</Filter>
     </ClInclude>
     <ClInclude Include="framework.h">
       <Filter>소스 파일\99. Headers\Andromeda</Filter>
@@ -155,276 +152,281 @@
     <ClInclude Include="Structs.h">
       <Filter>소스 파일\99. Headers</Filter>
     </ClInclude>
-    <ClInclude Include="GameManager.h">
-      <Filter>소스 파일\01. Main</Filter>
-    </ClInclude>
-    <ClInclude Include="InputManager.h">
-      <Filter>소스 파일\00. Engine\Manager\InputManager</Filter>
-    </ClInclude>
-    <ClInclude Include="ResourceManager.h">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager</Filter>
-    </ClInclude>
-    <ClInclude Include="TimeManager.h">
-      <Filter>소스 파일\00. Engine\Manager\TimeManager</Filter>
-    </ClInclude>
-    <ClInclude Include="Kirby.h">
-      <Filter>소스 파일\02. GameContents\Player\Kirby</Filter>
-    </ClInclude>
-    <ClInclude Include="Ability.h">
-      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
-    </ClInclude>
-    <ClInclude Include="BoomerangAbility.h">
-      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
-    </ClInclude>
-    <ClInclude Include="IceAbility.h">
-      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
-    </ClInclude>
-    <ClInclude Include="NormalAbility.h">
-      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
-    </ClInclude>
-    <ClInclude Include="SceneManager.h">
-      <Filter>소스 파일\00. Engine\SceneManager</Filter>
-    </ClInclude>
-    <ClInclude Include="Scene.h">
-      <Filter>소스 파일\00. Engine\SceneManager</Filter>
-    </ClInclude>
-    <ClInclude Include="Component.h">
-      <Filter>소스 파일\00. Engine\Component</Filter>
-    </ClInclude>
-    <ClInclude Include="InputLayout.h">
-      <Filter>소스 파일\00. Engine\Pipeline\01. InputAssembler</Filter>
-    </ClInclude>
-    <ClInclude Include="Geometry.h">
-      <Filter>소스 파일\00. Engine\Pipeline\00. Geometry</Filter>
-    </ClInclude>
-    <ClInclude Include="VertexBuffer.h">
-      <Filter>소스 파일\00. Engine\Pipeline\01. InputAssembler</Filter>
-    </ClInclude>
-    <ClInclude Include="IndexBuffer.h">
-      <Filter>소스 파일\00. Engine\Pipeline\01. InputAssembler</Filter>
-    </ClInclude>
     <ClInclude Include="SimpleMath.h">
       <Filter>소스 파일\99. Headers</Filter>
-    </ClInclude>
-    <ClInclude Include="GameObject.h">
-      <Filter>소스 파일\00. Engine\GameObject</Filter>
-    </ClInclude>
-    <ClInclude Include="Transform.h">
-      <Filter>소스 파일\00. Engine\Component\Transform</Filter>
-    </ClInclude>
-    <ClInclude Include="MeshRenderer.h">
-      <Filter>소스 파일\00. Engine\Component\MeshRenderer</Filter>
-    </ClInclude>
-    <ClInclude Include="Camera.h">
-      <Filter>소스 파일\00. Engine\Component\Camera</Filter>
-    </ClInclude>
-    <ClInclude Include="Animator.h">
-      <Filter>소스 파일\00. Engine\Component\Animator</Filter>
-    </ClInclude>
-    <ClInclude Include="ShaderBase.h">
-      <Filter>소스 파일\00. Engine\Pipeline\02. VertexShader</Filter>
-    </ClInclude>
-    <ClInclude Include="ConstantBuffer.h">
-      <Filter>소스 파일\00. Engine\Pipeline\02. VertexShader</Filter>
-    </ClInclude>
-    <ClInclude Include="RenderManager.h">
-      <Filter>소스 파일\00. Engine\Manager\RenderManager</Filter>
-    </ClInclude>
-    <ClInclude Include="Material.h">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
-    </ClInclude>
-    <ClInclude Include="Mesh.h">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
-    </ClInclude>
-    <ClInclude Include="ResourceBase.h">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
-    </ClInclude>
-    <ClInclude Include="Texture.h">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
-    </ClInclude>
-    <ClInclude Include="Pipeline.h">
-      <Filter>소스 파일\00. Engine\Pipeline</Filter>
-    </ClInclude>
-    <ClInclude Include="Shader.h">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
-    </ClInclude>
-    <ClInclude Include="GeometryMaker.h">
-      <Filter>소스 파일\00. Engine\Pipeline\00. Geometry</Filter>
-    </ClInclude>
-    <ClInclude Include="SamplerState.h">
-      <Filter>소스 파일\00. Engine\Pipeline\04. PixelShader</Filter>
-    </ClInclude>
-    <ClInclude Include="Animation.h">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
     </ClInclude>
     <ClInclude Include="tinyxml2.h">
       <Filter>소스 파일\99. Headers</Filter>
     </ClInclude>
-    <ClInclude Include="Collider.h">
+    <ClInclude Include="00. Engine\Component\Animator\Animator.h">
+      <Filter>소스 파일\00. Engine\Component\Animator</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>소스 파일\99. Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Component\Camera\Camera.h">
+      <Filter>소스 파일\00. Engine\Component\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Component\Collider\Collider.h">
       <Filter>소스 파일\00. Engine\Component\Collider</Filter>
     </ClInclude>
-    <ClInclude Include="EmptyObject.h">
+    <ClInclude Include="00. Engine\Component\Collider\DotCollider.h">
+      <Filter>소스 파일\00. Engine\Component\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Component\Collider\LineCollider.h">
+      <Filter>소스 파일\00. Engine\Component\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Component\Collider\RectCollider.h">
+      <Filter>소스 파일\00. Engine\Component\Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Component\Collider\CollisionBehavior\CollisionBehavior.h">
+      <Filter>소스 파일\00. Engine\Component\Collider\CollisionBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Component\MeshRenderer\MeshRenderer.h">
+      <Filter>소스 파일\00. Engine\Component\MeshRenderer</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Component\Transform\Transform.h">
+      <Filter>소스 파일\00. Engine\Component\Transform</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Component\Component.h">
+      <Filter>소스 파일\00. Engine\Component</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\GameObject\EffectObject.h">
       <Filter>소스 파일\00. Engine\GameObject</Filter>
     </ClInclude>
-    <ClInclude Include="BlendState.h">
+    <ClInclude Include="00. Engine\GameObject\EmptyObject.h">
+      <Filter>소스 파일\00. Engine\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\GameObject\GameObject.h">
+      <Filter>소스 파일\00. Engine\GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Manager\InputManager\InputManager.h">
+      <Filter>소스 파일\00. Engine\Manager\InputManager</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Manager\RenderManager\RenderManager.h">
+      <Filter>소스 파일\00. Engine\Manager\RenderManager</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Manager\ResourceManager\ResourceManager.h">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Manager\TimeManager\TimeManager.h">
+      <Filter>소스 파일\00. Engine\Manager\TimeManager</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Manager\ResourceManager\Resource\Animation.h">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Manager\ResourceManager\Resource\Material.h">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Manager\ResourceManager\Resource\Mesh.h">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Manager\ResourceManager\Resource\ResourceBase.h">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Manager\ResourceManager\Resource\Shader.h">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Manager\ResourceManager\Resource\Texture.h">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Pipeline\Pipeline.h">
+      <Filter>소스 파일\00. Engine\Pipeline</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Pipeline\00. Geometry\Geometry.h">
+      <Filter>소스 파일\00. Engine\Pipeline\00. Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Pipeline\00. Geometry\GeometryMaker.h">
+      <Filter>소스 파일\00. Engine\Pipeline\00. Geometry</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Pipeline\01. InputAssembler\IndexBuffer.h">
+      <Filter>소스 파일\00. Engine\Pipeline\01. InputAssembler</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Pipeline\01. InputAssembler\InputLayout.h">
+      <Filter>소스 파일\00. Engine\Pipeline\01. InputAssembler</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Pipeline\01. InputAssembler\VertexBuffer.h">
+      <Filter>소스 파일\00. Engine\Pipeline\01. InputAssembler</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Pipeline\02. VertexShader\ConstantBuffer.h">
+      <Filter>소스 파일\00. Engine\Pipeline\02. VertexShader</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Pipeline\02. VertexShader\ShaderBase.h">
+      <Filter>소스 파일\00. Engine\Pipeline\02. VertexShader</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Pipeline\04. PixelShader\SamplerState.h">
+      <Filter>소스 파일\00. Engine\Pipeline\04. PixelShader</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Pipeline\05. OutputMerger\BlendState.h">
       <Filter>소스 파일\00. Engine\Pipeline\05. OutputMerger</Filter>
     </ClInclude>
-    <ClInclude Include="Foreground.h">
+    <ClInclude Include="00. Engine\Manager\SceneManager\Scene.h">
+      <Filter>소스 파일\00. Engine\Manager\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="00. Engine\Manager\SceneManager\SceneManager.h">
+      <Filter>소스 파일\00. Engine\Manager\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="01. Main\GameManager.h">
+      <Filter>소스 파일\01. Main</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Background\Background.h">
       <Filter>소스 파일\02. GameContents\Foreground</Filter>
     </ClInclude>
-    <ClInclude Include="CollisionBehavior.h">
-      <Filter>소스 파일\00. Engine\Component\Collider\CollideBehavior</Filter>
+    <ClInclude Include="02. GameContents\Background\Foreground.h">
+      <Filter>소스 파일\02. GameContents\Foreground</Filter>
     </ClInclude>
-    <ClInclude Include="RectCollider.h">
-      <Filter>소스 파일\00. Engine\Component\Collider</Filter>
+    <ClInclude Include="02. GameContents\Background\InformationUI.h">
+      <Filter>소스 파일\02. GameContents\Foreground</Filter>
     </ClInclude>
-    <ClInclude Include="Weapon.h">
-      <Filter>소스 파일\02. GameContents\Weapon</Filter>
+    <ClInclude Include="02. GameContents\Item\AbilityStar.h">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
     </ClInclude>
-    <ClInclude Include="BreathWeapon.h">
-      <Filter>소스 파일\02. GameContents\Weapon</Filter>
+    <ClInclude Include="02. GameContents\Item\AbilityStarCollisionBehavior.h">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
     </ClInclude>
-    <ClInclude Include="AttackDisappearBehavior.h">
-      <Filter>소스 파일\02. GameContents\Weapon\ColliderBehavior</Filter>
+    <ClInclude Include="02. GameContents\Item\Button.h">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
     </ClInclude>
-    <ClInclude Include="SuckBehavior.h">
-      <Filter>소스 파일\02. GameContents\Weapon\ColliderBehavior</Filter>
+    <ClInclude Include="02. GameContents\Item\Door.h">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
     </ClInclude>
-    <ClInclude Include="NormalWeapon.h">
-      <Filter>소스 파일\02. GameContents\Weapon</Filter>
+    <ClInclude Include="02. GameContents\Item\IceBlock.h">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
     </ClInclude>
-    <ClInclude Include="MonsterAI.h">
+    <ClInclude Include="02. GameContents\Item\MakeStarBehavior.h">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Item\NotMoveStar.h">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Item\Umbrella.h">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Item\Wall.h">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\Variety\Boomer.h">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\Variety\CarrotMonster.h">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\Variety\GreenMonster.h">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\Variety\IceMonster.h">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\Variety\KingDedede.h">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\Variety\Monster.h">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\Variety\SparkMonster.h">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\Variety\WaddleDee.h">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\Variety\WaddleDoo.h">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\FollowPlayerAI.h">
       <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
     </ClInclude>
-    <ClInclude Include="WandererAI.h">
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\FollowPlayerRandomBehaviorAI.h">
       <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
     </ClInclude>
-    <ClInclude Include="EffectObject.h">
-      <Filter>소스 파일\00. Engine\GameObject</Filter>
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\IdleAndAttackAI.h">
+      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
     </ClInclude>
-    <ClInclude Include="ObjectPool.h">
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\IdleAndAttackWhenKirbyCloseAI.h">
+      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\MonsterAI.h">
+      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\NormalAI.h">
+      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\WandererAI.h">
+      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\CollisionBehavior\MonsterCollisionBasicBehavior.h">
+      <Filter>소스 파일\02. GameContents\Monster\CollisionBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\CollisionBehavior\MonsterCollisionSuckingBehavior.h">
+      <Filter>소스 파일\02. GameContents\Monster\CollisionBehavior</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\ObjectPool\ObjectPool.h">
       <Filter>소스 파일\02. GameContents\ObjectPool</Filter>
     </ClInclude>
-    <ClInclude Include="KirbyCollisionBehavior.h">
+    <ClInclude Include="02. GameContents\Player\Ability\Ability.h">
+      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Player\Ability\BeamAbility.h">
+      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Player\Ability\BoomerangAbility.h">
+      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Player\Ability\IceAbility.h">
+      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Player\Ability\NormalAbility.h">
+      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Player\Ability\SparkAbility.h">
+      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Player\Kirby\Kirby.h">
       <Filter>소스 파일\02. GameContents\Player\Kirby</Filter>
     </ClInclude>
-    <ClInclude Include="MonsterCollisionBasicBehavior.h">
-      <Filter>소스 파일\02. GameContents\Monster\ColliderBehavior</Filter>
+    <ClInclude Include="02. GameContents\Player\Kirby\KirbyCollisionBehavior.h">
+      <Filter>소스 파일\02. GameContents\Player\Kirby</Filter>
     </ClInclude>
-    <ClInclude Include="NormalAI.h">
-      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
+    <ClInclude Include="02. GameContents\Weapon\CollisionBehavior\AttackChangeIce.h">
+      <Filter>소스 파일\02. GameContents\Weapon\CollisionBehavior</Filter>
     </ClInclude>
-    <ClInclude Include="BeamAbility.h">
-      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    <ClInclude Include="02. GameContents\Weapon\CollisionBehavior\AttackDisappearBehavior.h">
+      <Filter>소스 파일\02. GameContents\Weapon\CollisionBehavior</Filter>
     </ClInclude>
-    <ClInclude Include="Monster.h">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    <ClInclude Include="02. GameContents\Weapon\CollisionBehavior\AttackElectricShock.h">
+      <Filter>소스 파일\02. GameContents\Weapon\CollisionBehavior</Filter>
     </ClInclude>
-    <ClInclude Include="WaddleDee.h">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    <ClInclude Include="02. GameContents\Weapon\CollisionBehavior\SuckBehavior.h">
+      <Filter>소스 파일\02. GameContents\Weapon\CollisionBehavior</Filter>
     </ClInclude>
-    <ClInclude Include="WaddleDoo.h">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClInclude>
-    <ClInclude Include="StarWeapon.h">
+    <ClInclude Include="02. GameContents\Weapon\BeamWeapon.h">
       <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClInclude>
-    <ClInclude Include="Background.h">
-      <Filter>소스 파일\02. GameContents\Foreground</Filter>
-    </ClInclude>
-    <ClInclude Include="LineCollider.h">
-      <Filter>소스 파일\00. Engine\Component\Collider</Filter>
-    </ClInclude>
-    <ClInclude Include="DotCollider.h">
-      <Filter>소스 파일\00. Engine\Component\Collider</Filter>
-    </ClInclude>
-    <ClInclude Include="BeamWeapon.h">
+    <ClInclude Include="02. GameContents\Weapon\BoomerangWeapon.h">
       <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClInclude>
-    <ClInclude Include="AttackElectricShock.h">
-      <Filter>소스 파일\02. GameContents\Weapon\ColliderBehavior</Filter>
-    </ClInclude>
-    <ClInclude Include="SparkMonster.h">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClInclude>
-    <ClInclude Include="SparkAbility.h">
-      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
-    </ClInclude>
-    <ClInclude Include="FollowPlayerAI.h">
-      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
-    </ClInclude>
-    <ClInclude Include="SparkWeapon.h">
+    <ClInclude Include="02. GameContents\Weapon\BreathWeapon.h">
       <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClInclude>
-    <ClInclude Include="AbilityStar.h">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClInclude>
-    <ClInclude Include="AbilityStarCollisionBehavior.h">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClInclude>
-    <ClInclude Include="Door.h">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClInclude>
-    <ClInclude Include="Boomer.h">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClInclude>
-    <ClInclude Include="IdleAndAttackAI.h">
-      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
-    </ClInclude>
-    <ClInclude Include="BoomerangWeapon.h">
+    <ClInclude Include="02. GameContents\Weapon\IceWeapon.h">
       <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClInclude>
-    <ClInclude Include="GreenMonster.h">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClInclude>
-    <ClInclude Include="MonsterCollisionSuckingBehavior.h">
-      <Filter>소스 파일\02. GameContents\Monster\ColliderBehavior</Filter>
-    </ClInclude>
-    <ClInclude Include="Button.h">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClInclude>
-    <ClInclude Include="Wall.h">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClInclude>
-    <ClInclude Include="KingDedede.h">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClInclude>
-    <ClInclude Include="NotMoveStar.h">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClInclude>
-    <ClInclude Include="MakeStarBehavior.h">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClInclude>
-    <ClInclude Include="Umbrella.h">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClInclude>
-    <ClInclude Include="FollowPlayerRandomBehaviorAI.h">
-      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
-    </ClInclude>
-    <ClInclude Include="InformationUI.h">
-      <Filter>소스 파일\02. GameContents\Foreground</Filter>
-    </ClInclude>
-    <ClInclude Include="CarrotMonster.h">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClInclude>
-    <ClInclude Include="IceWeapon.h">
+    <ClInclude Include="02. GameContents\Weapon\KingDededeWeapon.h">
       <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClInclude>
-    <ClInclude Include="AttackChangeIce.h">
-      <Filter>소스 파일\02. GameContents\Weapon\ColliderBehavior</Filter>
-    </ClInclude>
-    <ClInclude Include="IceMonster.h">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClInclude>
-    <ClInclude Include="IceBlock.h">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClInclude>
-    <ClInclude Include="KingDededeWeapon.h">
+    <ClInclude Include="02. GameContents\Weapon\NormalWeapon.h">
       <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClInclude>
-    <ClInclude Include="AttackBasic.h" />
-    <ClInclude Include="IdleAndAttackWhenKirbyCloseAI.h">
-      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
+    <ClInclude Include="02. GameContents\Weapon\SparkWeapon.h">
+      <Filter>소스 파일\02. GameContents\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Weapon\StarWeapon.h">
+      <Filter>소스 파일\02. GameContents\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Weapon\Weapon.h">
+      <Filter>소스 파일\02. GameContents\Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="02. GameContents\Monster\CollisionBehavior\AttackBasic.h">
+      <Filter>소스 파일\02. GameContents\Monster\CollisionBehavior</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
@@ -444,281 +446,281 @@
     <ClCompile Include="DXProject.cpp">
       <Filter>소스 파일\01. Main</Filter>
     </ClCompile>
-    <ClCompile Include="GameManager.cpp">
-      <Filter>소스 파일\01. Main</Filter>
-    </ClCompile>
-    <ClCompile Include="pch.cpp">
-      <Filter>소스 파일\99. Headers</Filter>
-    </ClCompile>
-    <ClCompile Include="InputManager.cpp">
-      <Filter>소스 파일\00. Engine\Manager\InputManager</Filter>
-    </ClCompile>
-    <ClCompile Include="ResourceManager.cpp">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager</Filter>
-    </ClCompile>
-    <ClCompile Include="TimeManager.cpp">
-      <Filter>소스 파일\00. Engine\Manager\TimeManager</Filter>
-    </ClCompile>
-    <ClCompile Include="GameObject.cpp">
-      <Filter>소스 파일\00. Engine\GameObject</Filter>
-    </ClCompile>
-    <ClCompile Include="Kirby.cpp">
-      <Filter>소스 파일\02. GameContents\Player\Kirby</Filter>
-    </ClCompile>
-    <ClCompile Include="Ability.cpp">
-      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
-    </ClCompile>
-    <ClCompile Include="BoomerangAbility.cpp">
-      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
-    </ClCompile>
-    <ClCompile Include="IceAbility.cpp">
-      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
-    </ClCompile>
-    <ClCompile Include="NormalAbility.cpp">
-      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
-    </ClCompile>
-    <ClCompile Include="SceneManager.cpp">
-      <Filter>소스 파일\00. Engine\SceneManager</Filter>
-    </ClCompile>
-    <ClCompile Include="Scene.cpp">
-      <Filter>소스 파일\00. Engine\SceneManager</Filter>
-    </ClCompile>
-    <ClCompile Include="Component.cpp">
-      <Filter>소스 파일\00. Engine\Component</Filter>
-    </ClCompile>
-    <ClCompile Include="InputLayout.cpp">
-      <Filter>소스 파일\00. Engine\Pipeline\01. InputAssembler</Filter>
-    </ClCompile>
-    <ClCompile Include="Geometry.cpp">
-      <Filter>소스 파일\00. Engine\Pipeline\00. Geometry</Filter>
-    </ClCompile>
-    <ClCompile Include="VertexBuffer.cpp">
-      <Filter>소스 파일\00. Engine\Pipeline\01. InputAssembler</Filter>
-    </ClCompile>
-    <ClCompile Include="IndexBuffer.cpp">
-      <Filter>소스 파일\00. Engine\Pipeline\01. InputAssembler</Filter>
-    </ClCompile>
     <ClCompile Include="SimpleMath.cpp">
       <Filter>소스 파일\99. Headers</Filter>
-    </ClCompile>
-    <ClCompile Include="Transform.cpp">
-      <Filter>소스 파일\00. Engine\Component\Transform</Filter>
-    </ClCompile>
-    <ClCompile Include="MeshRenderer.cpp">
-      <Filter>소스 파일\00. Engine\Component\MeshRenderer</Filter>
-    </ClCompile>
-    <ClCompile Include="Camera.cpp">
-      <Filter>소스 파일\00. Engine\Component\Camera</Filter>
-    </ClCompile>
-    <ClCompile Include="Animator.cpp">
-      <Filter>소스 파일\00. Engine\Component\Animator</Filter>
-    </ClCompile>
-    <ClCompile Include="ShaderBase.cpp">
-      <Filter>소스 파일\00. Engine\Pipeline\02. VertexShader</Filter>
-    </ClCompile>
-    <ClCompile Include="ConstantBuffer.cpp">
-      <Filter>소스 파일\00. Engine\Pipeline\02. VertexShader</Filter>
-    </ClCompile>
-    <ClCompile Include="RenderManager.cpp">
-      <Filter>소스 파일\00. Engine\Manager\RenderManager</Filter>
-    </ClCompile>
-    <ClCompile Include="Material.cpp">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
-    </ClCompile>
-    <ClCompile Include="Mesh.cpp">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
-    </ClCompile>
-    <ClCompile Include="ResourceBase.cpp">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
-    </ClCompile>
-    <ClCompile Include="Texture.cpp">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
-    </ClCompile>
-    <ClCompile Include="Pipeline.cpp">
-      <Filter>소스 파일\00. Engine\Pipeline</Filter>
-    </ClCompile>
-    <ClCompile Include="Shader.cpp">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
-    </ClCompile>
-    <ClCompile Include="GeometryMaker.cpp">
-      <Filter>소스 파일\00. Engine\Pipeline\00. Geometry</Filter>
-    </ClCompile>
-    <ClCompile Include="SamplerState.cpp">
-      <Filter>소스 파일\00. Engine\Pipeline\04. PixelShader</Filter>
-    </ClCompile>
-    <ClCompile Include="Animation.cpp">
-      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
     </ClCompile>
     <ClCompile Include="tinyxml2.cpp">
       <Filter>소스 파일\99. Headers</Filter>
     </ClCompile>
-    <ClCompile Include="Collider.cpp">
+    <ClCompile Include="00. Engine\Component\Animator\Animator.cpp">
+      <Filter>소스 파일\00. Engine\Component\Animator</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>소스 파일\99. Headers</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Component\Camera\Camera.cpp">
+      <Filter>소스 파일\00. Engine\Component\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Component\Collider\Collider.cpp">
       <Filter>소스 파일\00. Engine\Component\Collider</Filter>
     </ClCompile>
-    <ClCompile Include="EmptyObject.cpp">
+    <ClCompile Include="00. Engine\Component\Collider\DotCollider.cpp">
+      <Filter>소스 파일\00. Engine\Component\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Component\Collider\LineCollider.cpp">
+      <Filter>소스 파일\00. Engine\Component\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Component\Collider\RectCollider.cpp">
+      <Filter>소스 파일\00. Engine\Component\Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Component\Collider\CollisionBehavior\CollisionBehavior.cpp">
+      <Filter>소스 파일\00. Engine\Component\Collider\CollisionBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Component\MeshRenderer\MeshRenderer.cpp">
+      <Filter>소스 파일\00. Engine\Component\MeshRenderer</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Component\Transform\Transform.cpp">
+      <Filter>소스 파일\00. Engine\Component\Transform</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Component\Component.cpp">
+      <Filter>소스 파일\00. Engine\Component</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\GameObject\EffectObject.cpp">
       <Filter>소스 파일\00. Engine\GameObject</Filter>
     </ClCompile>
-    <ClCompile Include="BlendState.cpp">
+    <ClCompile Include="00. Engine\GameObject\EmptyObject.cpp">
+      <Filter>소스 파일\00. Engine\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\GameObject\GameObject.cpp">
+      <Filter>소스 파일\00. Engine\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Manager\InputManager\InputManager.cpp">
+      <Filter>소스 파일\00. Engine\Manager\InputManager</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Manager\RenderManager\RenderManager.cpp">
+      <Filter>소스 파일\00. Engine\Manager\RenderManager</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Manager\ResourceManager\ResourceManager.cpp">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Manager\TimeManager\TimeManager.cpp">
+      <Filter>소스 파일\00. Engine\Manager\TimeManager</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Manager\ResourceManager\Resource\Animation.cpp">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Manager\ResourceManager\Resource\Material.cpp">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Manager\ResourceManager\Resource\Mesh.cpp">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Manager\ResourceManager\Resource\ResourceBase.cpp">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Manager\ResourceManager\Resource\Shader.cpp">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Manager\ResourceManager\Resource\Texture.cpp">
+      <Filter>소스 파일\00. Engine\Manager\ResourceManager\Resource</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Pipeline\Pipeline.cpp">
+      <Filter>소스 파일\00. Engine\Pipeline</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Pipeline\00. Geometry\Geometry.cpp">
+      <Filter>소스 파일\00. Engine\Pipeline\00. Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Pipeline\00. Geometry\GeometryMaker.cpp">
+      <Filter>소스 파일\00. Engine\Pipeline\00. Geometry</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Pipeline\01. InputAssembler\IndexBuffer.cpp">
+      <Filter>소스 파일\00. Engine\Pipeline\01. InputAssembler</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Pipeline\01. InputAssembler\InputLayout.cpp">
+      <Filter>소스 파일\00. Engine\Pipeline\01. InputAssembler</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Pipeline\01. InputAssembler\VertexBuffer.cpp">
+      <Filter>소스 파일\00. Engine\Pipeline\01. InputAssembler</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Pipeline\02. VertexShader\ConstantBuffer.cpp">
+      <Filter>소스 파일\00. Engine\Pipeline\02. VertexShader</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Pipeline\02. VertexShader\ShaderBase.cpp">
+      <Filter>소스 파일\00. Engine\Pipeline\02. VertexShader</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Pipeline\04. PixelShader\SamplerState.cpp">
+      <Filter>소스 파일\00. Engine\Pipeline\04. PixelShader</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Pipeline\05. OutputMerger\BlendState.cpp">
       <Filter>소스 파일\00. Engine\Pipeline\05. OutputMerger</Filter>
     </ClCompile>
-    <ClCompile Include="Foreground.cpp">
+    <ClCompile Include="00. Engine\Manager\SceneManager\Scene.cpp">
+      <Filter>소스 파일\00. Engine\Manager\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="00. Engine\Manager\SceneManager\SceneManager.cpp">
+      <Filter>소스 파일\00. Engine\Manager\SceneManager</Filter>
+    </ClCompile>
+    <ClCompile Include="01. Main\GameManager.cpp">
+      <Filter>소스 파일\01. Main</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Background\Background.cpp">
       <Filter>소스 파일\02. GameContents\Foreground</Filter>
     </ClCompile>
-    <ClCompile Include="CollisionBehavior.cpp">
-      <Filter>소스 파일\00. Engine\Component\Collider\CollideBehavior</Filter>
+    <ClCompile Include="02. GameContents\Background\Foreground.cpp">
+      <Filter>소스 파일\02. GameContents\Foreground</Filter>
     </ClCompile>
-    <ClCompile Include="RectCollider.cpp">
-      <Filter>소스 파일\00. Engine\Component\Collider</Filter>
+    <ClCompile Include="02. GameContents\Background\InformationUI.cpp">
+      <Filter>소스 파일\02. GameContents\Foreground</Filter>
     </ClCompile>
-    <ClCompile Include="Weapon.cpp">
-      <Filter>소스 파일\02. GameContents\Weapon</Filter>
+    <ClCompile Include="02. GameContents\Item\AbilityStar.cpp">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
     </ClCompile>
-    <ClCompile Include="BreathWeapon.cpp">
-      <Filter>소스 파일\02. GameContents\Weapon</Filter>
+    <ClCompile Include="02. GameContents\Item\AbilityStarCollisionBehavior.cpp">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
     </ClCompile>
-    <ClCompile Include="AttackDisappearBehavior.cpp">
-      <Filter>소스 파일\02. GameContents\Weapon\ColliderBehavior</Filter>
+    <ClCompile Include="02. GameContents\Item\Button.cpp">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
     </ClCompile>
-    <ClCompile Include="SuckBehavior.cpp">
-      <Filter>소스 파일\02. GameContents\Weapon\ColliderBehavior</Filter>
+    <ClCompile Include="02. GameContents\Item\Door.cpp">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
     </ClCompile>
-    <ClCompile Include="NormalWeapon.cpp">
-      <Filter>소스 파일\02. GameContents\Weapon</Filter>
+    <ClCompile Include="02. GameContents\Item\IceBlock.cpp">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
     </ClCompile>
-    <ClCompile Include="MonsterAI.cpp">
+    <ClCompile Include="02. GameContents\Item\MakeStarBehavior.cpp">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Item\NotMoveStar.cpp">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Item\Umbrella.cpp">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Item\Wall.cpp">
+      <Filter>소스 파일\02. GameContents\Item</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\Variety\Boomer.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\Variety\CarrotMonster.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\Variety\GreenMonster.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\Variety\IceMonster.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\Variety\KingDedede.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\Variety\Monster.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\Variety\SparkMonster.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\Variety\WaddleDee.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\Variety\WaddleDoo.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\FollowPlayerAI.cpp">
       <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
     </ClCompile>
-    <ClCompile Include="WandererAI.cpp">
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\FollowPlayerRandomBehaviorAI.cpp">
       <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
     </ClCompile>
-    <ClCompile Include="EffectObject.cpp">
-      <Filter>소스 파일\00. Engine\GameObject</Filter>
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\IdleAndAttackAI.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
     </ClCompile>
-    <ClCompile Include="ObjectPool.cpp">
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\IdleAndAttackWhenKirbyCloseAI.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\MonsterAI.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\NormalAI.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\WandererAI.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\CollisionBehavior\MonsterCollisionBasicBehavior.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\CollisionBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\CollisionBehavior\MonsterCollisionSuckingBehavior.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\CollisionBehavior</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\ObjectPool\ObjectPool.cpp">
       <Filter>소스 파일\02. GameContents\ObjectPool</Filter>
     </ClCompile>
-    <ClCompile Include="KirbyCollisionBehavior.cpp">
+    <ClCompile Include="02. GameContents\Player\Ability\Ability.cpp">
+      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Player\Ability\BeamAbility.cpp">
+      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Player\Ability\BoomerangAbility.cpp">
+      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Player\Ability\IceAbility.cpp">
+      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Player\Ability\NormalAbility.cpp">
+      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Player\Ability\SparkAbility.cpp">
+      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Player\Kirby\Kirby.cpp">
       <Filter>소스 파일\02. GameContents\Player\Kirby</Filter>
     </ClCompile>
-    <ClCompile Include="MonsterCollisionBasicBehavior.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\ColliderBehavior</Filter>
+    <ClCompile Include="02. GameContents\Player\Kirby\KirbyCollisionBehavior.cpp">
+      <Filter>소스 파일\02. GameContents\Player\Kirby</Filter>
     </ClCompile>
-    <ClCompile Include="NormalAI.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
+    <ClCompile Include="02. GameContents\Weapon\CollisionBehavior\AttackChangeIce.cpp">
+      <Filter>소스 파일\02. GameContents\Weapon\CollisionBehavior</Filter>
     </ClCompile>
-    <ClCompile Include="BeamAbility.cpp">
-      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
+    <ClCompile Include="02. GameContents\Weapon\CollisionBehavior\AttackDisappearBehavior.cpp">
+      <Filter>소스 파일\02. GameContents\Weapon\CollisionBehavior</Filter>
     </ClCompile>
-    <ClCompile Include="Monster.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    <ClCompile Include="02. GameContents\Weapon\CollisionBehavior\AttackElectricShock.cpp">
+      <Filter>소스 파일\02. GameContents\Weapon\CollisionBehavior</Filter>
     </ClCompile>
-    <ClCompile Include="WaddleDee.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
+    <ClCompile Include="02. GameContents\Weapon\CollisionBehavior\SuckBehavior.cpp">
+      <Filter>소스 파일\02. GameContents\Weapon\CollisionBehavior</Filter>
     </ClCompile>
-    <ClCompile Include="WaddleDoo.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClCompile>
-    <ClCompile Include="StarWeapon.cpp">
+    <ClCompile Include="02. GameContents\Weapon\BeamWeapon.cpp">
       <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClCompile>
-    <ClCompile Include="Background.cpp">
-      <Filter>소스 파일\02. GameContents\Foreground</Filter>
-    </ClCompile>
-    <ClCompile Include="LineCollider.cpp">
-      <Filter>소스 파일\00. Engine\Component\Collider</Filter>
-    </ClCompile>
-    <ClCompile Include="DotCollider.cpp">
-      <Filter>소스 파일\00. Engine\Component\Collider</Filter>
-    </ClCompile>
-    <ClCompile Include="BeamWeapon.cpp">
+    <ClCompile Include="02. GameContents\Weapon\BoomerangWeapon.cpp">
       <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClCompile>
-    <ClCompile Include="AttackElectricShock.cpp">
-      <Filter>소스 파일\02. GameContents\Weapon\ColliderBehavior</Filter>
-    </ClCompile>
-    <ClCompile Include="SparkMonster.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClCompile>
-    <ClCompile Include="SparkAbility.cpp">
-      <Filter>소스 파일\02. GameContents\Player\Ability</Filter>
-    </ClCompile>
-    <ClCompile Include="FollowPlayerAI.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
-    </ClCompile>
-    <ClCompile Include="SparkWeapon.cpp">
+    <ClCompile Include="02. GameContents\Weapon\BreathWeapon.cpp">
       <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClCompile>
-    <ClCompile Include="AbilityStar.cpp">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClCompile>
-    <ClCompile Include="AbilityStarCollisionBehavior.cpp">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClCompile>
-    <ClCompile Include="Door.cpp">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClCompile>
-    <ClCompile Include="Boomer.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClCompile>
-    <ClCompile Include="IdleAndAttackAI.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
-    </ClCompile>
-    <ClCompile Include="BoomerangWeapon.cpp">
+    <ClCompile Include="02. GameContents\Weapon\IceWeapon.cpp">
       <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClCompile>
-    <ClCompile Include="GreenMonster.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClCompile>
-    <ClCompile Include="MonsterCollisionSuckingBehavior.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\ColliderBehavior</Filter>
-    </ClCompile>
-    <ClCompile Include="Button.cpp">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClCompile>
-    <ClCompile Include="Wall.cpp">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClCompile>
-    <ClCompile Include="KingDedede.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClCompile>
-    <ClCompile Include="NotMoveStar.cpp">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClCompile>
-    <ClCompile Include="MakeStarBehavior.cpp">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClCompile>
-    <ClCompile Include="Umbrella.cpp">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClCompile>
-    <ClCompile Include="FollowPlayerRandomBehaviorAI.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
-    </ClCompile>
-    <ClCompile Include="InformationUI.cpp">
-      <Filter>소스 파일\02. GameContents\Foreground</Filter>
-    </ClCompile>
-    <ClCompile Include="CarrotMonster.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClCompile>
-    <ClCompile Include="IceWeapon.cpp">
+    <ClCompile Include="02. GameContents\Weapon\KingDededeWeapon.cpp">
       <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClCompile>
-    <ClCompile Include="AttackChangeIce.cpp">
-      <Filter>소스 파일\02. GameContents\Weapon\ColliderBehavior</Filter>
-    </ClCompile>
-    <ClCompile Include="IceMonster.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\Variety</Filter>
-    </ClCompile>
-    <ClCompile Include="IceBlock.cpp">
-      <Filter>소스 파일\02. GameContents\Item</Filter>
-    </ClCompile>
-    <ClCompile Include="KingDededeWeapon.cpp">
+    <ClCompile Include="02. GameContents\Weapon\NormalWeapon.cpp">
       <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClCompile>
-    <ClCompile Include="AttackBasic.cpp">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="02. GameContents\Weapon\SparkWeapon.cpp">
+      <Filter>소스 파일\02. GameContents\Weapon</Filter>
     </ClCompile>
-    <ClCompile Include="IdleAndAttackWhenKirbyCloseAI.cpp">
-      <Filter>소스 파일\02. GameContents\Monster\MonsterAI</Filter>
+    <ClCompile Include="02. GameContents\Weapon\StarWeapon.cpp">
+      <Filter>소스 파일\02. GameContents\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Weapon\Weapon.cpp">
+      <Filter>소스 파일\02. GameContents\Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="02. GameContents\Monster\CollisionBehavior\AttackBasic.cpp">
+      <Filter>소스 파일\02. GameContents\Monster\CollisionBehavior</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -727,10 +729,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <FxCompile Include="Default.hlsl">
+    <FxCompile Include="10. Shader\collider.hlsl">
       <Filter>소스 파일\98. Shader</Filter>
     </FxCompile>
-    <FxCompile Include="collider.hlsl">
+    <FxCompile Include="10. Shader\Default.hlsl">
       <Filter>소스 파일\98. Shader</Filter>
     </FxCompile>
   </ItemGroup>

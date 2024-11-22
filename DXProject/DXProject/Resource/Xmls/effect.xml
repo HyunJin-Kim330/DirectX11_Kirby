@@ -1,0 +1,112 @@
+<Animations>
+    <Animation Name="monsterExplosionBasic" Loop="false" TextureName="monsterExplosion" Tag="" Num="0">
+        <Keyframe X="1" Y="1" Width="74" Height="74" Duration="0.04"/>
+        <Keyframe X="76" Y="1" Width="74" Height="74" Duration="0.04"/>
+        <Keyframe X="151" Y="1" Width="74" Height="74" Duration="0.04"/>
+        <Keyframe X="226" Y="1" Width="74" Height="74" Duration="0.04"/>
+        <Keyframe X="1" Y="76" Width="74" Height="74" Duration="0.04"/>
+        <Keyframe X="76" Y="76" Width="74" Height="74" Duration="0.04"/>
+        <Keyframe X="151" Y="76" Width="74" Height="74" Duration="0.04"/>
+        <Keyframe X="226" Y="76" Width="74" Height="74" Duration="0.04"/>
+        <Keyframe X="1" Y="151" Width="74" Height="74" Duration="0.04"/>
+        <Keyframe X="76" Y="151" Width="74" Height="74" Duration="0.04"/>
+        <Keyframe X="151" Y="151" Width="74" Height="74" Duration="0.04"/>
+        <Keyframe X="226" Y="151" Width="74" Height="74" Duration="0.04"/>
+    </Animation>
+    <Animation Name="starExplosion" Loop="false" TextureName="star" Tag="" Num="0">
+        <Keyframe X="1" Y="30" Width="35" Height="35" Duration="0.04"/>
+        <Keyframe X="36" Y="30" Width="35" Height="35" Duration="0.04"/>
+        <Keyframe X="71" Y="30" Width="35" Height="35" Duration="0.04"/>
+        <Keyframe X="106" Y="30" Width="35" Height="35" Duration="0.04"/>
+        <Keyframe X="141" Y="30" Width="35" Height="35" Duration="0.04"/>
+        <Keyframe X="176" Y="30" Width="35" Height="35" Duration="0.04"/>
+        <Keyframe X="211" Y="30" Width="35" Height="35" Duration="0.04"/>
+        <Keyframe X="246" Y="30" Width="35" Height="35" Duration="0.04"/>
+        <Keyframe X="281" Y="30" Width="35" Height="35" Duration="0.04"/>
+        <Keyframe X="1" Y="65" Width="35" Height="35" Duration="0.04"/>
+        <Keyframe X="36" Y="65" Width="35" Height="35" Duration="0.04"/>
+    </Animation>
+    <Animation Name="changeAbility" Loop="false" TextureName="changeAbility" Tag="" Num="0">
+        <Keyframe X="1" Y="1" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="61" Y="1" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="121" Y="1" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="181" Y="1" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="241" Y="1" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="1" Y="61" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="61" Y="61" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="121" Y="61" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="181" Y="61" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="241" Y="61" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="1" Y="121" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="1" Y="121" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="61" Y="121" Width="60" Height="60" Duration="0.04"/>
+        <Keyframe X="121" Y="121" Width="60" Height="60" Duration="0.1"/>
+    </Animation>
+    <Animation Name="kirbyDashWindLeft" Loop="false" TextureName="kirbyDashWind" Tag="" Num="0">
+        <Keyframe X="1" Y="1" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="36" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="71" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="106" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="141" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="176" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="211" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="246" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="281" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="316" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="351" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="386" Width="75" Height="35" Duration="0.05"/>
+    </Animation>
+    <Animation Name="kirbyDashWindRight" Loop="false" TextureName="kirbyDashWind" Tag="" Num="0">
+        <Keyframe X="252" Y="1" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="252" Y="36" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="252" Y="71" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="252" Y="106" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="252" Y="141" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="252" Y="176" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="252" Y="211" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="252" Y="246" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="252" Y="281" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="252" Y="316" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="252" Y="351" Width="75" Height="35" Duration="0.05"/>
+        <Keyframe X="252" Y="386" Width="75" Height="35" Duration="0.05"/>
+    </Animation>
+    <Animation Name="kirbyBackToNormal" Loop="false" TextureName="abilityStar" Tag="" Num="0">
+        <Keyframe X="2" Y="2" Width="75" Height="75" Duration="0.05"/>
+        <Keyframe X="78" Y="2" Width="75" Height="75" Duration="0.05"/>
+        <Keyframe X="154" Y="2" Width="75" Height="75" Duration="0.05"/>
+        <Keyframe X="230" Y="2" Width="75" Height="75" Duration="0.05"/>
+        <Keyframe X="2" Y="78" Width="75" Height="75" Duration="0.05"/>
+    </Animation>
+    <Animation Name="landingStar" Loop="false" TextureName="star" Tag="" Num="0">
+        <Keyframe X="3" Y="116" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="34" Y="116" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="65" Y="116" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="96" Y="116" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="127" Y="116" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="158" Y="116" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="189" Y="116" Width="30" Height="30" Duration="0.04"/>
+        <Keyframe X="220" Y="116" Width="30" Height="30" Duration="0.04"/>
+    </Animation>
+    <Animation Name="dededeLandingCloud" Loop="false" TextureName="KingDededeLeft" Tag="" Num="0">
+        <Keyframe X="1" Y="510" Width="109" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="546" Width="109" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="582" Width="109" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="618" Width="109" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="654" Width="109" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="690" Width="109" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="726" Width="109" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="762" Width="109" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="798" Width="109" Height="35" Duration="0.05"/>
+        <Keyframe X="1" Y="834" Width="109" Height="35" Duration="0.05"/>
+    </Animation>
+    <Animation Name="dededeSpitOutLeft" Loop="false" TextureName="KingDededeLeft" Tag="" Num="0">
+        <Keyframe X="143" Y="549" Width="35" Height="35" Duration="0.08"/>
+        <Keyframe X="179" Y="549" Width="35" Height="35" Duration="0.08"/>
+        <Keyframe X="215" Y="549" Width="35" Height="35" Duration="0.08"/>
+    </Animation>
+    <Animation Name="dededeSpitOutRight" Loop="false" TextureName="KingDededeLeft" Tag="" Num="0">
+        <Keyframe X="215" Y="585" Width="35" Height="35" Duration="0.08"/>
+        <Keyframe X="179" Y="585" Width="35" Height="35" Duration="0.08"/>
+        <Keyframe X="143" Y="585" Width="35" Height="35" Duration="0.08"/>
+    </Animation>
+</Animations>

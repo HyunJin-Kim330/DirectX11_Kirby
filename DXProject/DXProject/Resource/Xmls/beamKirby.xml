@@ -1,0 +1,207 @@
+<Animations>
+    <Animation Name="k_beam_IdleLeft" Loop="true" TextureName="beamKirbyLeft" Tag="beam" Num="0">
+        <Keyframe X="759" Y="1" Width="40" Height="40" Duration="3.0"/>
+        <Keyframe X="719" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="759" Y="1" Width="40" Height="40" Duration="3.0"/>
+        <Keyframe X="719" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="759" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="719" Y="1" Width="40" Height="40" Duration="0.1"/>
+    </Animation>
+    <Animation Name="k_beam_IdleRight" Loop="true" TextureName="beamKirbyRight" Tag="beam" Num="1">
+        <Keyframe X="1" Y="1" Width="40" Height="40" Duration="3.0"/>
+        <Keyframe X="41" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="1" Y="1" Width="40" Height="40" Duration="2.0"/>
+        <Keyframe X="41" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="1" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="41" Y="1" Width="40" Height="40" Duration="0.1"/>
+    </Animation>
+    <Animation Name="k_beam_WalkingLeft" Loop="true" TextureName="beamKirbyLeft" Tag="beam" Num="2">
+        <Keyframe X="759" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="719" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="679" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="639" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="599" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="559" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="519" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="479" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="439" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="399" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="359" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="319" Y="42" Width="40" Height="40" Duration="0.08"/>
+    </Animation>
+    <Animation Name="k_beam_WalkingRight" Loop="true" TextureName="beamKirbyRight" Tag="beam" Num="3">
+        <Keyframe X="1" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="41" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="81" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="121" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="161" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="201" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="241" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="281" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="321" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="361" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="401" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="441" Y="42" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="361" Y="42" Width="40" Height="40" Duration="0.08"/>
+    </Animation>
+    <Animation Name="k_beam_DashLeft" Loop="true" TextureName="beamKirbyLeft" Tag="beam" Num="4">
+        <Keyframe X="759" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="719" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="679" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="639" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="599" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="559" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="519" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="479" Y="83" Width="40" Height="40" Duration="0.04"/>
+    </Animation>
+    <Animation Name="k_beam_DashRight" Loop="true" TextureName="beamKirbyRight" Tag="beam" Num="5">
+        <Keyframe X="1" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="41" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="81" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="121" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="161" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="201" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="241" Y="83" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="281" Y="83" Width="40" Height="40" Duration="0.04"/>
+    </Animation>
+    <!--왼쪽으로 기울어진 경사로-->
+    <Animation Name="k_beam_IdleLeftTiltLeft" Loop="true" TextureName="beamKirbyLeft" Tag="beam" Num="6">
+        <Keyframe X="599" Y="1" Width="40" Height="40" Duration="2.0"/>
+        <Keyframe X="559" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="599" Y="1" Width="40" Height="40" Duration="1.0"/>
+        <Keyframe X="559" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="599" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="559" Y="1" Width="40" Height="40" Duration="0.1"/>
+    </Animation>
+    <Animation Name="k_beam_IdleLeftTiltRight" Loop="true" TextureName="beamKirbyRight" Tag="beam" Num="7">
+        <Keyframe X="81" Y="1" Width="40" Height="40" Duration="2.0"/>
+        <Keyframe X="121" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="81" Y="1" Width="40" Height="40" Duration="1.0"/>
+        <Keyframe X="121" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="81" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="121" Y="1" Width="40" Height="40" Duration="0.1"/>
+    </Animation>
+    <!--오른쪽으로 기울어진 경사로-->
+    <Animation Name="k_beam_IdleLeftTiltLeft" Loop="true" TextureName="beamKirbyLeft" Tag="beam" Num="8">
+        <Keyframe X="679" Y="1" Width="40" Height="40" Duration="2.0"/>
+        <Keyframe X="639" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="679" Y="1" Width="40" Height="40" Duration="1.0"/>
+        <Keyframe X="639" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="679" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="639" Y="1" Width="40" Height="40" Duration="0.1"/>
+    </Animation>
+    <Animation Name="k_beam_IdleLeftTiltRight" Loop="true" TextureName="beamKirbyRight" Tag="beam" Num="9">
+        <Keyframe X="161" Y="1" Width="40" Height="40" Duration="2.0"/>
+        <Keyframe X="201" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="161" Y="1" Width="40" Height="40" Duration="1.0"/>
+        <Keyframe X="201" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="161" Y="1" Width="40" Height="40" Duration="0.1"/>
+        <Keyframe X="201" Y="1" Width="40" Height="40" Duration="0.1"/>
+    </Animation>
+    <Animation Name="k_beam_FloatingUpLeft" Loop="true" TextureName="beamKirbyLeft" Tag="beam" Num="10">
+        <Keyframe X="639" Y="165" Width="40" Height="40" Duration="0.05"/>
+        <Keyframe X="599" Y="165" Width="40" Height="40" Duration="0.05"/>
+        <Keyframe X="559" Y="165" Width="40" Height="40" Duration="0.05"/>
+        <Keyframe X="519" Y="165" Width="40" Height="40" Duration="0.05"/>
+        <Keyframe X="479" Y="165" Width="40" Height="40" Duration="0.05"/>
+        <Keyframe X="439" Y="165" Width="40" Height="40" Duration="0.05"/>
+    </Animation>
+    <Animation Name="k_beam_FloatingUpRight" Loop="true" TextureName="beamKirbyRight" Tag="beam" Num="11">
+        <Keyframe X="121" Y="165" Width="40" Height="40" Duration="0.05"/>
+        <Keyframe X="161" Y="165" Width="40" Height="40" Duration="0.05"/>
+        <Keyframe X="201" Y="165" Width="40" Height="40" Duration="0.05"/>
+        <Keyframe X="241" Y="165" Width="40" Height="40" Duration="0.05"/>
+        <Keyframe X="281" Y="165" Width="40" Height="40" Duration="0.05"/>
+        <Keyframe X="321" Y="165" Width="40" Height="40" Duration="0.05"/>
+    </Animation>
+    <Animation Name="k_beam_FloatingDownLeft" Loop="true" TextureName="beamKirbyLeft" Tag="beam" Num="12">
+        <Keyframe X="399" Y="165" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="359" Y="165" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="319" Y="165" Width="40" Height="40" Duration="0.08"/>
+    </Animation>
+    <Animation Name="k_beam_FloatingDownRight" Loop="true" TextureName="beamKirbyRight" Tag="beam" Num="13">
+        <Keyframe X="361" Y="165" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="401" Y="165" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="441" Y="165" Width="40" Height="40" Duration="0.08"/>
+    </Animation>
+    <Animation Name="k_beam_BreathingOutLeft" Loop="false" TextureName="beamKirbyLeft" Tag="beam" Num="16">
+        <Keyframe X="719" Y="165" Width="40" Height="40" Duration="0.05"/>
+        <Keyframe X="759" Y="165" Width="40" Height="40" Duration="0.05"/>
+    </Animation>
+    <Animation Name="k_beam_BreathingOutRight" Loop="false" TextureName="beamKirbyRight" Tag="beam" Num="17">
+        <Keyframe X="41" Y="165" Width="40" Height="40" Duration="0.05"/>
+        <Keyframe X="1 " Y="165" Width="40" Height="40" Duration="0.05"/>
+    </Animation>
+    <Animation Name="k_beam_JumppingLeft" Loop="false" TextureName="beamKirbyLeft" Tag="beam" Num="18">
+        <Keyframe X="759" Y="206" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="718" Y="206" Width="40" Height="40" Duration="0.04"/>
+    </Animation>
+    <Animation Name="k_beam_JumppingRight" Loop="false" TextureName="beamKirbyRight" Tag="beam" Num="19">
+        <Keyframe X="1" Y="206" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="42" Y="206" Width="40" Height="40" Duration="0.04"/>
+    </Animation>
+    <Animation Name="k_beam_FallingLeft" Loop="true" TextureName="beamKirbyLeft" Tag="beam" Num="20">
+        <Keyframe X="431" Y="206" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="390" Y="206" Width="40" Height="40" Duration="0.04"/>
+    </Animation>
+    <Animation Name="k_beam_FallingRight" Loop="true" TextureName="beamKirbyRight" Tag="beam" Num="21">
+        <Keyframe X="329" Y="206" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="370" Y="206" Width="40" Height="40" Duration="0.04"/>
+    </Animation>
+    <Animation Name="k_beam_AttackingLeft" Loop="false" TextureName="beamKirbyLeft" Tag="beam" Num="22">
+        <Keyframe X="759" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="719" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="679" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="639" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="679" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="639" Y="535" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="599" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="559" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="599" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="559" Y="535" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="519" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="479" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="519" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="479" Y="535" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="439" Y="535" Width="40" Height="40" Duration="0.08"/>
+    </Animation>
+    <Animation Name="k_beam_AttackingRight" Loop="false" TextureName="beamKirbyRight" Tag="beam" Num="23">
+        <Keyframe X="1" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="41" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="82" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="121" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="82" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="121" Y="535" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="161" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="201" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="161" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="201" Y="535" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="241" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="281" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="241" Y="535" Width="40" Height="40" Duration="0.04"/>
+        <Keyframe X="281" Y="535" Width="40" Height="40" Duration="0.08"/>
+        <Keyframe X="321" Y="535" Width="40" Height="40" Duration="0.08"/>
+    </Animation>
+    <Animation Name="k_beam_ChangeAbilityLeft" Loop="false" TextureName="beamKirbyLeft" Tag="beam" Num="42">
+        <Keyframe X="439" Y="1" Width="40" Height="40" Duration="3.0"/>
+    </Animation>
+    <Animation Name="k_beam_ChangeAbilityRight" Loop="false" TextureName="beamKirbyRight" Tag="beam" Num="43">
+        <Keyframe X="321" Y="1" Width="40" Height="40" Duration="3.0"/>
+    </Animation>
+    <Animation Name="k_beam_BendOverLeft" Loop="false" TextureName="beamKirbyLeft" Tag="beam" Num="50">
+        <Keyframe X="677" Y="206" Width="40" Height="40" Duration="0.02"/>
+        <Keyframe X="636" Y="206" Width="40" Height="40" Duration="0.02"/>
+        <Keyframe X="595" Y="206" Width="40" Height="40" Duration="0.02"/>
+        <Keyframe X="554" Y="206" Width="40" Height="40" Duration="0.02"/>
+        <Keyframe X="513" Y="206" Width="40" Height="40" Duration="0.02"/>
+        <Keyframe X="472" Y="206" Width="40" Height="40" Duration="0.02"/>
+    </Animation>
+    <Animation Name="k_beam_BendOverRight" Loop="false" TextureName="beamKirbyRight" Tag="beam" Num="51">
+        <Keyframe X="83" Y="206" Width="40" Height="40" Duration="0.02"/>
+        <Keyframe X="124" Y="206" Width="40" Height="40" Duration="0.02"/>
+        <Keyframe X="165" Y="206" Width="40" Height="40" Duration="0.02"/>
+        <Keyframe X="206" Y="206" Width="40" Height="40" Duration="0.02"/>
+        <Keyframe X="247" Y="206" Width="40" Height="40" Duration="0.02"/>
+        <Keyframe X="288" Y="206" Width="40" Height="40" Duration="0.02"/>
+    </Animation>
+</Animations>

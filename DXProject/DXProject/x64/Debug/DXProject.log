@@ -1,5 +1,1529 @@
-﻿  Ability.cpp
+﻿  compilation object save succeeded; see D:\DXProject\Binaries\collider.cso
+  compilation object save succeeded; see D:\DXProject\Binaries\Default.cso
+  Animator.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Animator/Animator.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Component/Animator/Animator.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Component/Animator/Animator.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Animator/Animator.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Component/Animator/Animator.cpp'을(를) 컴파일하는 중)
+  
+  Camera.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Camera/Camera.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Component/Camera/Camera.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Component/Camera/Camera.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Camera/Camera.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Component/Camera/Camera.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Component\Camera\Camera.cpp(36,53): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+D:\DXProject\DXProject\00. Engine\Component\Camera\Camera.cpp(36,46): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Collider.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Collider/Collider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Component/Collider/Collider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Component/Collider/Collider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Collider/Collider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Component/Collider/Collider.cpp'을(를) 컴파일하는 중)
+  
+  CollisionBehavior.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Collider/CollisionBehavior/CollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Component/Collider/CollisionBehavior/CollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Component/Collider/CollisionBehavior/CollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Collider/CollisionBehavior/CollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Component/Collider/CollisionBehavior/CollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+  DotCollider.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Collider/DotCollider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Component/Collider/DotCollider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Component/Collider/DotCollider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Collider/DotCollider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Component/Collider/DotCollider.cpp'을(를) 컴파일하는 중)
+  
+  LineCollider.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Collider/LineCollider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Component/Collider/LineCollider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Component/Collider/LineCollider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Collider/LineCollider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Component/Collider/LineCollider.cpp'을(를) 컴파일하는 중)
+  
+  RectCollider.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Collider/RectCollider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Component/Collider/RectCollider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Component/Collider/RectCollider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Collider/RectCollider.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Component/Collider/RectCollider.cpp'을(를) 컴파일하는 중)
+  
+  Component.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Component.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Component/Component.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Component/Component.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Component.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Component/Component.cpp'을(를) 컴파일하는 중)
+  
+  MeshRenderer.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/MeshRenderer/MeshRenderer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Component/MeshRenderer/MeshRenderer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Component/MeshRenderer/MeshRenderer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/MeshRenderer/MeshRenderer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Component/MeshRenderer/MeshRenderer.cpp'을(를) 컴파일하는 중)
+  
+  Transform.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Transform/Transform.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Component/Transform/Transform.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Component/Transform/Transform.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Component/Transform/Transform.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Component/Transform/Transform.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Component\Transform\Transform.cpp(26,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\00. Engine\Component\Transform\Transform.cpp(31,40): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\00. Engine\Component\Transform\Transform.cpp(36,23): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  EffectObject.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/GameObject/EffectObject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/GameObject/EffectObject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/GameObject/EffectObject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/GameObject/EffectObject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/GameObject/EffectObject.cpp'을(를) 컴파일하는 중)
+  
+  EmptyObject.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/GameObject/EmptyObject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/GameObject/EmptyObject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/GameObject/EmptyObject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/GameObject/EmptyObject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/GameObject/EmptyObject.cpp'을(를) 컴파일하는 중)
+  
+  GameObject.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/GameObject/GameObject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/GameObject/GameObject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/GameObject/GameObject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/GameObject/GameObject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/GameObject/GameObject.cpp'을(를) 컴파일하는 중)
+  
+  InputManager.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/InputManager/InputManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/InputManager/InputManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/InputManager/InputManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/InputManager/InputManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/InputManager/InputManager.cpp'을(를) 컴파일하는 중)
+  
+  RenderManager.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/RenderManager/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/RenderManager/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/RenderManager/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/RenderManager/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/RenderManager/RenderManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\RenderManager\RenderManager.cpp(47,27): warning C4244: '=': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\00. Engine\Manager\RenderManager\RenderManager.cpp(48,28): warning C4244: '=': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\00. Engine\Manager\RenderManager\RenderManager.cpp(203,59): warning C4267: '인수': 'size_t'에서 'uint32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ResourceManager.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/ResourceManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/ResourceManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/ResourceManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/ResourceManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/ResourceManager.cpp'을(를) 컴파일하는 중)
+  
+  Animation.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Animation.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Animation.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Animation.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Animation.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Animation.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\Animation.cpp(41,20): warning C4267: 'return': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Material.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Material.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Material.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Material.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Material.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Material.cpp'을(를) 컴파일하는 중)
+  
+  Mesh.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Mesh.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Mesh.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Mesh.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Mesh.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Mesh.cpp'을(를) 컴파일하는 중)
+  
+  ResourceBase.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/ResourceBase.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/ResourceBase.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/ResourceBase.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/ResourceBase.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/ResourceBase.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+D:\DXProject\DXProject\00. Engine\Component\Collider\RectCollider.cpp(73,1): warning C4715: 'RectCollider::CheckCollision': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  Shader.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Shader.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Shader.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Shader.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Shader.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Shader.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\Shader.cpp(11,2): warning C4150: 불완전한 형식 'InputLayout'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+      D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\Shader.h(4,7):
+      'InputLayout' 선언을 참조하십시오.
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\Shader.cpp(12,2): warning C4150: 불완전한 형식 'VertexShader'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+      D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\Shader.h(6,7):
+      'VertexShader' 선언을 참조하십시오.
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\Shader.cpp(13,2): warning C4150: 불완전한 형식 'PixelShader'에 대한 포인터를 삭제했습니다. 소멸자가 호출되지 않습니다.
+      D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\Shader.h(5,7):
+      'PixelShader' 선언을 참조하십시오.
+  
+  Texture.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Texture.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Texture.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Texture.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Texture.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/ResourceManager/Resource/Texture.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\Texture.cpp(25,14): warning C4244: '=': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\Texture.cpp(26,14): warning C4244: '=': 'size_t'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Scene.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/SceneManager/Scene.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/SceneManager/Scene.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/SceneManager/Scene.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/SceneManager/Scene.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/SceneManager/Scene.cpp'을(를) 컴파일하는 중)
+  
   SceneManager.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/SceneManager/SceneManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/SceneManager/SceneManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/SceneManager/SceneManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/SceneManager/SceneManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/SceneManager/SceneManager.cpp'을(를) 컴파일하는 중)
+  
+  TimeManager.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/TimeManager/TimeManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Manager/TimeManager/TimeManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Manager/TimeManager/TimeManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Manager/TimeManager/TimeManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Manager/TimeManager/TimeManager.cpp'을(를) 컴파일하는 중)
+  
+  Geometry.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/00.%20Geometry/Geometry.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/00.%20Geometry/Geometry.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Pipeline/00.%20Geometry/Geometry.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/00.%20Geometry/Geometry.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/00.%20Geometry/Geometry.cpp'을(를) 컴파일하는 중)
+  
+  GeometryMaker.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/00.%20Geometry/GeometryMaker.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/00.%20Geometry/GeometryMaker.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Pipeline/00.%20Geometry/GeometryMaker.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/00.%20Geometry/GeometryMaker.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/00.%20Geometry/GeometryMaker.cpp'을(를) 컴파일하는 중)
+  
+  IndexBuffer.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/IndexBuffer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/IndexBuffer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/IndexBuffer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/IndexBuffer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/IndexBuffer.cpp'을(를) 컴파일하는 중)
+  
+  InputLayout.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/InputLayout.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/InputLayout.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/InputLayout.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/InputLayout.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/InputLayout.cpp'을(를) 컴파일하는 중)
+  
+  VertexBuffer.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/VertexBuffer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/VertexBuffer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/VertexBuffer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/VertexBuffer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/01.%20InputAssembler/VertexBuffer.cpp'을(를) 컴파일하는 중)
+  
+  ConstantBuffer.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/02.%20VertexShader/ConstantBuffer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/02.%20VertexShader/ConstantBuffer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Pipeline/02.%20VertexShader/ConstantBuffer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/02.%20VertexShader/ConstantBuffer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/02.%20VertexShader/ConstantBuffer.cpp'을(를) 컴파일하는 중)
+  
+  ShaderBase.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/02.%20VertexShader/ShaderBase.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/02.%20VertexShader/ShaderBase.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Pipeline/02.%20VertexShader/ShaderBase.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/02.%20VertexShader/ShaderBase.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/02.%20VertexShader/ShaderBase.cpp'을(를) 컴파일하는 중)
+  
+  SamplerState.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/04.%20PixelShader/SamplerState.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/04.%20PixelShader/SamplerState.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Pipeline/04.%20PixelShader/SamplerState.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/04.%20PixelShader/SamplerState.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/04.%20PixelShader/SamplerState.cpp'을(를) 컴파일하는 중)
+  
+  BlendState.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/05.%20OutputMerger/BlendState.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/05.%20OutputMerger/BlendState.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Pipeline/05.%20OutputMerger/BlendState.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/05.%20OutputMerger/BlendState.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/05.%20OutputMerger/BlendState.cpp'을(를) 컴파일하는 중)
+  
+  Pipeline.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/Pipeline.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/Pipeline.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '00.%20Engine/Pipeline/Pipeline.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '00.%20Engine/Pipeline/Pipeline.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '00.%20Engine/Pipeline/Pipeline.cpp'을(를) 컴파일하는 중)
+  
+  GameManager.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '01.%20Main/GameManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '01.%20Main/GameManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '01.%20Main/GameManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '01.%20Main/GameManager.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '01.%20Main/GameManager.cpp'을(를) 컴파일하는 중)
+  
+  Background.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Background/Background.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Background/Background.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Background/Background.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Background/Background.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Background/Background.cpp'을(를) 컴파일하는 중)
+  
+  Foreground.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Background/Foreground.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Background/Foreground.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Background/Foreground.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Background/Foreground.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Background/Foreground.cpp'을(를) 컴파일하는 중)
+  
+  InformationUI.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Background/InformationUI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Background/InformationUI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Background/InformationUI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Background/InformationUI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Background/InformationUI.cpp'을(를) 컴파일하는 중)
+  
+  AbilityStar.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/AbilityStar.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Item/AbilityStar.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Item/AbilityStar.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/AbilityStar.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Item/AbilityStar.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  AbilityStarCollisionBehavior.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/AbilityStarCollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Item/AbilityStarCollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Item/AbilityStarCollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/AbilityStarCollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Item/AbilityStarCollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+  Button.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/Button.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Item/Button.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Item/Button.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/Button.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Item/Button.cpp'을(를) 컴파일하는 중)
+  
+  Door.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/Door.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Item/Door.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Item/Door.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/Door.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Item/Door.cpp'을(를) 컴파일하는 중)
+  
+  IceBlock.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/IceBlock.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Item/IceBlock.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Item/IceBlock.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/IceBlock.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Item/IceBlock.cpp'을(를) 컴파일하는 중)
+  
+  MakeStarBehavior.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/MakeStarBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Item/MakeStarBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Item/MakeStarBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/MakeStarBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Item/MakeStarBehavior.cpp'을(를) 컴파일하는 중)
+  
+  NotMoveStar.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/NotMoveStar.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Item/NotMoveStar.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Item/NotMoveStar.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/NotMoveStar.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Item/NotMoveStar.cpp'을(를) 컴파일하는 중)
+  
+  Umbrella.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/Umbrella.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Item/Umbrella.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Item/Umbrella.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/Umbrella.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Item/Umbrella.cpp'을(를) 컴파일하는 중)
+  
+  Wall.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/Wall.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Item/Wall.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Item/Wall.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Item/Wall.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Item/Wall.cpp'을(를) 컴파일하는 중)
+  
+  AttackBasic.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/AttackBasic.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/AttackBasic.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/AttackBasic.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/AttackBasic.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/AttackBasic.cpp'을(를) 컴파일하는 중)
+  
+  MonsterCollisionBasicBehavior.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/MonsterCollisionBasicBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/MonsterCollisionBasicBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/MonsterCollisionBasicBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/MonsterCollisionBasicBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/MonsterCollisionBasicBehavior.cpp'을(를) 컴파일하는 중)
+  
+  MonsterCollisionSuckingBehavior.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/MonsterCollisionSuckingBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/MonsterCollisionSuckingBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/MonsterCollisionSuckingBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/MonsterCollisionSuckingBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/CollisionBehavior/MonsterCollisionSuckingBehavior.cpp'을(를) 컴파일하는 중)
+  
+  FollowPlayerAI.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/FollowPlayerAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/FollowPlayerAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/FollowPlayerAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/FollowPlayerAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/FollowPlayerAI.cpp'을(를) 컴파일하는 중)
+  
+  FollowPlayerRandomBehaviorAI.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/FollowPlayerRandomBehaviorAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/FollowPlayerRandomBehaviorAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/FollowPlayerRandomBehaviorAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/FollowPlayerRandomBehaviorAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/FollowPlayerRandomBehaviorAI.cpp'을(를) 컴파일하는 중)
+  
+  IdleAndAttackAI.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/IdleAndAttackAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/IdleAndAttackAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/IdleAndAttackAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/IdleAndAttackAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/IdleAndAttackAI.cpp'을(를) 컴파일하는 중)
+  
+  IdleAndAttackWhenKirbyCloseAI.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/IdleAndAttackWhenKirbyCloseAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/IdleAndAttackWhenKirbyCloseAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/IdleAndAttackWhenKirbyCloseAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/IdleAndAttackWhenKirbyCloseAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/IdleAndAttackWhenKirbyCloseAI.cpp'을(를) 컴파일하는 중)
+  
+  MonsterAI.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/MonsterAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/MonsterAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/MonsterAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/MonsterAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/MonsterAI.cpp'을(를) 컴파일하는 중)
+  
+  NormalAI.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/NormalAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/NormalAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/NormalAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/NormalAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/NormalAI.cpp'을(를) 컴파일하는 중)
+  
+  WandererAI.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/WandererAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/WandererAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/WandererAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/WandererAI.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/MonsterAI/WandererAI.cpp'을(를) 컴파일하는 중)
+  
+  Boomer.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/Boomer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/Boomer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/Boomer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/Boomer.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/Boomer.cpp'을(를) 컴파일하는 중)
+  
+  CarrotMonster.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/CarrotMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/CarrotMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/CarrotMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/CarrotMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/CarrotMonster.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  GreenMonster.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/GreenMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/GreenMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/GreenMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/GreenMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/GreenMonster.cpp'을(를) 컴파일하는 중)
+  
+  IceMonster.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/IceMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/IceMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/IceMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/IceMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/IceMonster.cpp'을(를) 컴파일하는 중)
+  
+  KingDedede.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/KingDedede.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/KingDedede.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/KingDedede.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/KingDedede.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/KingDedede.cpp'을(를) 컴파일하는 중)
+  
+  Monster.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/Monster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/Monster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/Monster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/Monster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/Monster.cpp'을(를) 컴파일하는 중)
+  
+  SparkMonster.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/SparkMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/SparkMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/SparkMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/SparkMonster.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/SparkMonster.cpp'을(를) 컴파일하는 중)
+  
+  WaddleDee.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/WaddleDee.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/WaddleDee.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/WaddleDee.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/WaddleDee.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/WaddleDee.cpp'을(를) 컴파일하는 중)
+  
+  WaddleDoo.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/WaddleDoo.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/WaddleDoo.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/WaddleDoo.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/WaddleDoo.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Monster/Variety/WaddleDoo.cpp'을(를) 컴파일하는 중)
+  
+  ObjectPool.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/ObjectPool/ObjectPool.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/ObjectPool/ObjectPool.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/ObjectPool/ObjectPool.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/ObjectPool/ObjectPool.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/ObjectPool/ObjectPool.cpp'을(를) 컴파일하는 중)
+  
+  Ability.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/Ability.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/Ability.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/Ability.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/Ability.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/Ability.cpp'을(를) 컴파일하는 중)
+  
+  BeamAbility.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/BeamAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/BeamAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/BeamAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/BeamAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/BeamAbility.cpp'을(를) 컴파일하는 중)
+  
+  BoomerangAbility.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/BoomerangAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/BoomerangAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/BoomerangAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/BoomerangAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/BoomerangAbility.cpp'을(를) 컴파일하는 중)
+  
+  IceAbility.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/IceAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/IceAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/IceAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/IceAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/IceAbility.cpp'을(를) 컴파일하는 중)
+  
+  NormalAbility.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/NormalAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/NormalAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/NormalAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/NormalAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/NormalAbility.cpp'을(를) 컴파일하는 중)
+  
+  SparkAbility.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/SparkAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/SparkAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/SparkAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/SparkAbility.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Player/Ability/SparkAbility.cpp'을(를) 컴파일하는 중)
+  
+  Kirby.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Kirby/Kirby.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Player/Kirby/Kirby.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Player/Kirby/Kirby.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Kirby/Kirby.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Player/Kirby/Kirby.cpp'을(를) 컴파일하는 중)
+  
+  KirbyCollisionBehavior.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Kirby/KirbyCollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Player/Kirby/KirbyCollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Player/Kirby/KirbyCollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Player/Kirby/KirbyCollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Player/Kirby/KirbyCollisionBehavior.cpp'을(를) 컴파일하는 중)
+  
+  BeamWeapon.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/BeamWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/BeamWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/BeamWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/BeamWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/BeamWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\02. GameContents\Weapon\BeamWeapon.cpp(118,23): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\BeamWeapon.cpp(119,23): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\BeamWeapon.cpp(134,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\BeamWeapon.cpp(135,17): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\BeamWeapon.cpp(139,41): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\BeamWeapon.cpp(140,17): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\BeamWeapon.cpp(143,23): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\BeamWeapon.cpp(144,23): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BoomerangWeapon.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/BoomerangWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/BoomerangWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/BoomerangWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/BoomerangWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/BoomerangWeapon.cpp'을(를) 컴파일하는 중)
+  
+  BreathWeapon.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/BreathWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/BreathWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/BreathWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/BreathWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/BreathWeapon.cpp'을(를) 컴파일하는 중)
+  
+  AttackChangeIce.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackChangeIce.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackChangeIce.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackChangeIce.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackChangeIce.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackChangeIce.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  AttackDisappearBehavior.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackDisappearBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackDisappearBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackDisappearBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackDisappearBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackDisappearBehavior.cpp'을(를) 컴파일하는 중)
+  
+  AttackElectricShock.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackElectricShock.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackElectricShock.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackElectricShock.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackElectricShock.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/AttackElectricShock.cpp'을(를) 컴파일하는 중)
+  
+  SuckBehavior.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/SuckBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/SuckBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/SuckBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/SuckBehavior.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/CollisionBehavior/SuckBehavior.cpp'을(를) 컴파일하는 중)
+  
+  IceWeapon.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/IceWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/IceWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/IceWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/IceWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/IceWeapon.cpp'을(를) 컴파일하는 중)
+  
+  KingDededeWeapon.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/KingDededeWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/KingDededeWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/KingDededeWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/KingDededeWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/KingDededeWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\02. GameContents\Weapon\KingDededeWeapon.cpp(48,23): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\KingDededeWeapon.cpp(49,23): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\KingDededeWeapon.cpp(64,41): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\KingDededeWeapon.cpp(65,17): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\KingDededeWeapon.cpp(69,41): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\KingDededeWeapon.cpp(70,17): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\KingDededeWeapon.cpp(73,23): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\02. GameContents\Weapon\KingDededeWeapon.cpp(74,23): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  NormalWeapon.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/NormalWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/NormalWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/NormalWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/NormalWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/NormalWeapon.cpp'을(를) 컴파일하는 중)
+  
+  SparkWeapon.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/SparkWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/SparkWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/SparkWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/SparkWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/SparkWeapon.cpp'을(를) 컴파일하는 중)
+  
+  StarWeapon.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/StarWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/StarWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/StarWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/StarWeapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/StarWeapon.cpp'을(를) 컴파일하는 중)
+  
+  Weapon.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/Weapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/Weapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 '02.%20GameContents/Weapon/Weapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 '02.%20GameContents/Weapon/Weapon.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 '02.%20GameContents/Weapon/Weapon.cpp'을(를) 컴파일하는 중)
+  
+  DXProject.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 'DXProject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 'DXProject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 'DXProject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 'DXProject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 'DXProject.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\DXProject.cpp(94,30): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\DXProject\DXProject\DXProject.cpp(94,30): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\DXProject\DXProject\DXProject.cpp(94,41): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\DXProject\DXProject\DXProject.cpp(94,41): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  pch.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 'pch.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 'pch.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 'pch.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 'pch.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 'pch.cpp'을(를) 컴파일하는 중)
+  
+  SimpleMath.cpp
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 'SimpleMath.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(5,2): warning C4369: 'ResourceType::None':  열거자 값 '-1'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '-1'입니다.
+  (소스 파일 'SimpleMath.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4340: 'Mesh': 양의 값에서 음의 값으로 값이 래핑되었습니다.
+  (소스 파일 'SimpleMath.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4309: '초기화 중': 상수 값이 잘립니다.
+  (소스 파일 'SimpleMath.cpp'을(를) 컴파일하는 중)
+  
+D:\DXProject\DXProject\00. Engine\Manager\ResourceManager\Resource\ResourceBase.h(6,2): warning C4369: 'ResourceType::Mesh':  열거자 값 '256'을(를) 'unsigned char'(으)로 나타낼 수 없습니다. 값은 '256'입니다.
+  (소스 파일 'SimpleMath.cpp'을(를) 컴파일하는 중)
+  
   코드를 생성하고 있습니다...
 DirectXTex_debug.lib(DirectXTexImage.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(DirectXTexImage.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.
 DirectXTex_debug.lib(DirectXTexWIC.obj) : warning LNK4099: '' PDB를 'DirectXTex_debug.lib(DirectXTexWIC.obj)' 또는 ''에서 찾을 수 없습니다. 디버그 정보가 없는 것처럼 개체를 링크합니다.

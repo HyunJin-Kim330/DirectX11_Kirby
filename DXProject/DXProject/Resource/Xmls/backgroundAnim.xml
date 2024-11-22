@@ -1,0 +1,34 @@
+<Animations>
+    <Animation Name="1-1Grass_1" Loop="true" TextureName="1-1original" Tag="" Num="0">
+        <Keyframe X="166" Y="220" Width="112" Height="15" Duration="0.3"/>
+        <Keyframe X="166" Y="236" Width="112" Height="15" Duration="0.3"/>
+        <Keyframe X="166" Y="252" Width="112" Height="15" Duration="0.3"/>
+        <Keyframe X="166" Y="268" Width="112" Height="15" Duration="0.3"/>
+    </Animation>
+    <Animation Name="1-1Grass_2" Loop="true" TextureName="1-1original" Tag="" Num="0">
+        <Keyframe X="820" Y="215" Width="56" Height="15" Duration="0.3"/>
+        <Keyframe X="820" Y="231" Width="56" Height="15" Duration="0.3"/>
+        <Keyframe X="820" Y="247" Width="56" Height="15" Duration="0.3"/>
+        <Keyframe X="820" Y="263" Width="56" Height="15" Duration="0.3"/>
+    </Animation>
+    <Animation Name="1-1Grass_3" Loop="true" TextureName="1-1original" Tag="" Num="0">
+        <Keyframe X="1291" Y="218" Width="111" Height="15" Duration="0.3"/>
+        <Keyframe X="1291" Y="234" Width="111" Height="15" Duration="0.3"/>
+        <Keyframe X="1291" Y="250" Width="111" Height="15" Duration="0.3"/>
+        <Keyframe X="1291" Y="266" Width="111" Height="15" Duration="0.3"/>
+    </Animation>
+    <Animation Name="KingDededeArea" Loop="true" TextureName="KingDededeArea" Tag="" Num="0">
+        <Keyframe X="6" Y="7" Width="256" Height="192" Duration="0.015"/>
+        <Keyframe X="263" Y="7" Width="256" Height="192" Duration="0.015"/>
+        <Keyframe X="520" Y="7" Width="256" Height="192" Duration="0.015"/>
+        <Keyframe X="779" Y="7" Width="256" Height="192" Duration="0.015"/>
+        <Keyframe X="1043" Y="7" Width="256" Height="192" Duration="0.015"/>
+        <Keyframe X="6" Y="205" Width="256" Height="192" Duration="0.015"/>
+        <Keyframe X="263" Y="205" Width="256" Height="192" Duration="0.015"/>
+        <Keyframe X="520" Y="205" Width="256" Height="192" Duration="0.015"/>
+        <Keyframe X="779" Y="205" Width="256" Height="192" Duration="0.015"/>
+        <Keyframe X="1043" Y="205" Width="256" Height="192" Duration="0.015"/>
+        <Keyframe X="264" Y="404" Width="256" Height="192" Duration="0.015"/>
+        <Keyframe X="532" Y="404" Width="256" Height="192" Duration="0.015"/>
+    </Animation>
+</Animations>

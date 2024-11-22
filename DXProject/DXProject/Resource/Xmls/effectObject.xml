@@ -1,0 +1,13 @@
+<Effects>
+    <Effect AnimName="monsterExplosionBasic" LifeTime="0.48" Mesh="Midst2x2" Material="Default"/>
+    <Effect AnimName="kirbyDashWindLeft" LifeTime="0.6" Mesh="Left_3.21x1.5" Material="Default"/>
+    <Effect AnimName="kirbyDashWindRight" LifeTime="0.6" Mesh="Right_3.21x1.5" Material="Default"/>
+    <Effect AnimName="starExplosion" LifeTime="0.44" Mesh="Midst1x1" Material="Default"/>
+    <Effect AnimName="changeAbility" LifeTime="1.0" Mesh="Midst3x3" Material="Default"/>
+    <Effect AnimName="kirbyBackToNormal" LifeTime="0.25" Mesh="Midst2x2" Material="Default"/>
+    <Effect AnimName="landingStar" LifeTime="0.32" Mesh="Midst1x1" Material="Default"/>
+    <Effect AnimName="dededeLandingCloud" LifeTime="0.5" Mesh="Bottom6.22x2" Material="Default"/>
+    <Effect AnimName="dededeSpitOutLeft" LifeTime="0.24" Mesh="Midst2x2" Material="Default"/>
+    <Effect AnimName="dededeSpitOutRight" LifeTime="0.24" Mesh="Midst2x2" Material="Default"/>
+
+</Effects>

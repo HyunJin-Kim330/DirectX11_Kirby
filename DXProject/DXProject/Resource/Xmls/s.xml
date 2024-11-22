@@ -1,0 +1,49 @@
+<Animation Name="iceMonster_IdleLeft" Loop="false" TextureName="monsterLeft" Tag="iceMonster" Num="0">
+        <Keyframe X="457" Y="2836" Width="24" Height="24" Duration="5.2"/>
+    </Animation>
+    <Animation Name="iceMonster_IdleRight" Loop="false" TextureName="monsterRight" Tag="iceMonster" Num="1">
+        <Keyframe X="1" Y="2836" Width="24" Height="24" Duration="5.2"/>
+    </Animation>
+    <Animation Name="iceMonster_WalkingLeft" Loop="true" TextureName="monsterLeft" Tag="iceMonster" Num="2">
+        <Keyframe X="457" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="433" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="409" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="385" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="361" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="385" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="409" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="433" Y="794" Width="24" Height="24" Duration="0.1"/>
+    </Animation>
+    <Animation Name="iceMonster_WalkingRight" Loop="true" TextureName="monsterRight" Tag="iceMonster" Num="3">
+        <Keyframe X="1" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="25" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="49" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="73" Y="794" Width="24" Height="24" Duration="0.1"/>
+        <Keyframe X="97" Y="794" Width="24" Height="24" Duration="0.1"/>
+    </Animation>
+    <Animation Name="iceMonster_AttackingLeft" Loop="true" TextureName="monsterLeft" Tag="iceMonster" Num="4">
+        <Keyframe X="432" Y="2861" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="407" Y="2861" Width="24" Height="24" Duration="0.05"/>
+    </Animation>
+    <Animation Name="iceMonster_AttackingRight" Loop="true" TextureName="monsterRight" Tag="iceMonster" Num="5">
+        <Keyframe X="26" Y="2861" Width="24" Height="24" Duration="0.05"/>
+        <Keyframe X="51" Y="2861" Width="24" Height="24" Duration="0.05"/>
+    </Animation>
+    <Animation Name="iceMonster_AttackedLeft" Loop="false" TextureName="monsterLeft" Tag="iceMonster" Num="6">
+        <Keyframe X="432" Y="2886" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="iceMonster_AttackedRight" Loop="false" TextureName="monsterRight" Tag="iceMonster" Num="7">
+        <Keyframe X="26" Y="2886" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="iceMonster_SuckedLeft" Loop="false" TextureName="monsterLeft" Tag="iceMonster" Num="8">
+        <Keyframe X="457" Y="2886" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="iceMonster_SuckedRight" Loop="false" TextureName="monsterRight" Tag="iceMonster" Num="9">
+        <Keyframe X="1" Y="2886" Width="24" Height="24" Duration="2.0"/>
+    </Animation>
+    <Animation Name="iceMonster_FallingLeft" Loop="false" TextureName="monsterLeft" Tag="iceMonster" Num="14">
+        <Keyframe X="457" Y="794" Width="24" Height="24" Duration="4.0"/>
+    </Animation>
+    <Animation Name="iceMonster_FallingRight" Loop="false" TextureName="monsterRight" Tag="iceMonster" Num="15">
+        <Keyframe X="1" Y="794" Width="24" Height="24" Duration="4.0"/>
+    </Animation>

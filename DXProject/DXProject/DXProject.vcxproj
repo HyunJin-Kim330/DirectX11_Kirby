@@ -117,9 +117,9 @@
       <SDLCheck>false</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
-      <AdditionalIncludeDirectories>$(SolutionDir)Libraries/Include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>$(SolutionDir)DXProject/;$(SolutionDir)Libraries/Include/;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Windows</SubSystem>
@@ -144,204 +144,202 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Ability.h" />
-    <ClInclude Include="AbilityStar.h" />
-    <ClInclude Include="AbilityStarCollisionBehavior.h" />
-    <ClInclude Include="Animation.h" />
-    <ClInclude Include="Animator.h" />
-    <ClInclude Include="AttackBasic.h" />
-    <ClInclude Include="AttackChangeIce.h" />
-    <ClInclude Include="AttackElectricShock.h" />
-    <ClInclude Include="Background.h" />
-    <ClInclude Include="BeamAbility.h" />
-    <ClInclude Include="BeamWeapon.h" />
-    <ClInclude Include="BlendState.h" />
-    <ClInclude Include="Boomer.h" />
-    <ClInclude Include="BoomerangAbility.h" />
-    <ClInclude Include="BoomerangWeapon.h" />
-    <ClInclude Include="BreathWeapon.h" />
-    <ClInclude Include="Button.h" />
-    <ClInclude Include="Camera.h" />
-    <ClInclude Include="CarrotMonster.h" />
-    <ClInclude Include="Collider.h" />
-    <ClInclude Include="CollisionBehavior.h" />
-    <ClInclude Include="Component.h" />
-    <ClInclude Include="ConstantBuffer.h" />
-    <ClInclude Include="Door.h" />
-    <ClInclude Include="DotCollider.h" />
+    <ClInclude Include="00. Engine\Component\Animator\Animator.h" />
+    <ClInclude Include="00. Engine\Component\Camera\Camera.h" />
+    <ClInclude Include="00. Engine\Component\Collider\Collider.h" />
+    <ClInclude Include="00. Engine\Component\Collider\CollisionBehavior\CollisionBehavior.h" />
+    <ClInclude Include="00. Engine\Component\Collider\DotCollider.h" />
+    <ClInclude Include="00. Engine\Component\Collider\LineCollider.h" />
+    <ClInclude Include="00. Engine\Component\Collider\RectCollider.h" />
+    <ClInclude Include="00. Engine\Component\Component.h" />
+    <ClInclude Include="00. Engine\Component\MeshRenderer\MeshRenderer.h" />
+    <ClInclude Include="00. Engine\Component\Transform\Transform.h" />
+    <ClInclude Include="00. Engine\GameObject\EffectObject.h" />
+    <ClInclude Include="00. Engine\GameObject\EmptyObject.h" />
+    <ClInclude Include="00. Engine\GameObject\GameObject.h" />
+    <ClInclude Include="00. Engine\Manager\InputManager\InputManager.h" />
+    <ClInclude Include="00. Engine\Manager\RenderManager\RenderManager.h" />
+    <ClInclude Include="00. Engine\Manager\ResourceManager\ResourceManager.h" />
+    <ClInclude Include="00. Engine\Manager\ResourceManager\Resource\Animation.h" />
+    <ClInclude Include="00. Engine\Manager\ResourceManager\Resource\Material.h" />
+    <ClInclude Include="00. Engine\Manager\ResourceManager\Resource\Mesh.h" />
+    <ClInclude Include="00. Engine\Manager\ResourceManager\Resource\ResourceBase.h" />
+    <ClInclude Include="00. Engine\Manager\ResourceManager\Resource\Shader.h" />
+    <ClInclude Include="00. Engine\Manager\ResourceManager\Resource\Texture.h" />
+    <ClInclude Include="00. Engine\Manager\SceneManager\Scene.h" />
+    <ClInclude Include="00. Engine\Manager\SceneManager\SceneManager.h" />
+    <ClInclude Include="00. Engine\Manager\TimeManager\TimeManager.h" />
+    <ClInclude Include="00. Engine\Pipeline\00. Geometry\Geometry.h" />
+    <ClInclude Include="00. Engine\Pipeline\00. Geometry\GeometryMaker.h" />
+    <ClInclude Include="00. Engine\Pipeline\01. InputAssembler\IndexBuffer.h" />
+    <ClInclude Include="00. Engine\Pipeline\01. InputAssembler\InputLayout.h" />
+    <ClInclude Include="00. Engine\Pipeline\01. InputAssembler\VertexBuffer.h" />
+    <ClInclude Include="00. Engine\Pipeline\02. VertexShader\ConstantBuffer.h" />
+    <ClInclude Include="00. Engine\Pipeline\02. VertexShader\ShaderBase.h" />
+    <ClInclude Include="00. Engine\Pipeline\04. PixelShader\SamplerState.h" />
+    <ClInclude Include="00. Engine\Pipeline\05. OutputMerger\BlendState.h" />
+    <ClInclude Include="00. Engine\Pipeline\Pipeline.h" />
+    <ClInclude Include="01. Main\GameManager.h" />
+    <ClInclude Include="02. GameContents\Background\Background.h" />
+    <ClInclude Include="02. GameContents\Background\Foreground.h" />
+    <ClInclude Include="02. GameContents\Background\InformationUI.h" />
+    <ClInclude Include="02. GameContents\Item\AbilityStar.h" />
+    <ClInclude Include="02. GameContents\Item\AbilityStarCollisionBehavior.h" />
+    <ClInclude Include="02. GameContents\Item\Button.h" />
+    <ClInclude Include="02. GameContents\Item\Door.h" />
+    <ClInclude Include="02. GameContents\Item\IceBlock.h" />
+    <ClInclude Include="02. GameContents\Item\MakeStarBehavior.h" />
+    <ClInclude Include="02. GameContents\Item\NotMoveStar.h" />
+    <ClInclude Include="02. GameContents\Item\Umbrella.h" />
+    <ClInclude Include="02. GameContents\Item\Wall.h" />
+    <ClInclude Include="02. GameContents\Monster\CollisionBehavior\AttackBasic.h" />
+    <ClInclude Include="02. GameContents\Monster\CollisionBehavior\MonsterCollisionBasicBehavior.h" />
+    <ClInclude Include="02. GameContents\Monster\CollisionBehavior\MonsterCollisionSuckingBehavior.h" />
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\FollowPlayerAI.h" />
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\FollowPlayerRandomBehaviorAI.h" />
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\IdleAndAttackAI.h" />
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\IdleAndAttackWhenKirbyCloseAI.h" />
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\MonsterAI.h" />
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\NormalAI.h" />
+    <ClInclude Include="02. GameContents\Monster\MonsterAI\WandererAI.h" />
+    <ClInclude Include="02. GameContents\Monster\Variety\Boomer.h" />
+    <ClInclude Include="02. GameContents\Monster\Variety\CarrotMonster.h" />
+    <ClInclude Include="02. GameContents\Monster\Variety\GreenMonster.h" />
+    <ClInclude Include="02. GameContents\Monster\Variety\IceMonster.h" />
+    <ClInclude Include="02. GameContents\Monster\Variety\KingDedede.h" />
+    <ClInclude Include="02. GameContents\Monster\Variety\Monster.h" />
+    <ClInclude Include="02. GameContents\Monster\Variety\SparkMonster.h" />
+    <ClInclude Include="02. GameContents\Monster\Variety\WaddleDee.h" />
+    <ClInclude Include="02. GameContents\Monster\Variety\WaddleDoo.h" />
+    <ClInclude Include="02. GameContents\ObjectPool\ObjectPool.h" />
+    <ClInclude Include="02. GameContents\Player\Ability\Ability.h" />
+    <ClInclude Include="02. GameContents\Player\Ability\BeamAbility.h" />
+    <ClInclude Include="02. GameContents\Player\Ability\BoomerangAbility.h" />
+    <ClInclude Include="02. GameContents\Player\Ability\IceAbility.h" />
+    <ClInclude Include="02. GameContents\Player\Ability\NormalAbility.h" />
+    <ClInclude Include="02. GameContents\Player\Ability\SparkAbility.h" />
+    <ClInclude Include="02. GameContents\Player\Kirby\Kirby.h" />
+    <ClInclude Include="02. GameContents\Player\Kirby\KirbyCollisionBehavior.h" />
+    <ClInclude Include="02. GameContents\Weapon\BeamWeapon.h" />
+    <ClInclude Include="02. GameContents\Weapon\BoomerangWeapon.h" />
+    <ClInclude Include="02. GameContents\Weapon\BreathWeapon.h" />
+    <ClInclude Include="02. GameContents\Weapon\CollisionBehavior\AttackChangeIce.h" />
+    <ClInclude Include="02. GameContents\Weapon\CollisionBehavior\AttackDisappearBehavior.h" />
+    <ClInclude Include="02. GameContents\Weapon\CollisionBehavior\AttackElectricShock.h" />
+    <ClInclude Include="02. GameContents\Weapon\CollisionBehavior\SuckBehavior.h" />
+    <ClInclude Include="02. GameContents\Weapon\IceWeapon.h" />
+    <ClInclude Include="02. GameContents\Weapon\KingDededeWeapon.h" />
+    <ClInclude Include="02. GameContents\Weapon\NormalWeapon.h" />
+    <ClInclude Include="02. GameContents\Weapon\SparkWeapon.h" />
+    <ClInclude Include="02. GameContents\Weapon\StarWeapon.h" />
+    <ClInclude Include="02. GameContents\Weapon\Weapon.h" />
     <ClInclude Include="DXProject.h" />
-    <ClInclude Include="EffectObject.h" />
-    <ClInclude Include="EmptyObject.h" />
-    <ClInclude Include="FollowPlayerAI.h" />
-    <ClInclude Include="FollowPlayerRandomBehaviorAI.h" />
-    <ClInclude Include="Foreground.h" />
     <ClInclude Include="framework.h" />
-    <ClInclude Include="GameManager.h" />
-    <ClInclude Include="GameObject.h" />
-    <ClInclude Include="Geometry.h" />
-    <ClInclude Include="GeometryMaker.h" />
-    <ClInclude Include="GreenMonster.h" />
-    <ClInclude Include="IceBlock.h" />
-    <ClInclude Include="IceMonster.h" />
-    <ClInclude Include="IceWeapon.h" />
-    <ClInclude Include="IdleAndAttackAI.h" />
-    <ClInclude Include="IdleAndAttackWhenKirbyCloseAI.h" />
-    <ClInclude Include="InformationUI.h" />
-    <ClInclude Include="KingDedede.h" />
-    <ClInclude Include="KingDededeWeapon.h" />
-    <ClInclude Include="KirbyCollisionBehavior.h" />
-    <ClInclude Include="IceAbility.h" />
-    <ClInclude Include="IndexBuffer.h" />
-    <ClInclude Include="InputLayout.h" />
-    <ClInclude Include="InputManager.h" />
-    <ClInclude Include="Kirby.h" />
-    <ClInclude Include="LineCollider.h" />
-    <ClInclude Include="MakeStarBehavior.h" />
-    <ClInclude Include="Material.h" />
-    <ClInclude Include="Mesh.h" />
-    <ClInclude Include="Monster.h" />
-    <ClInclude Include="MonsterAI.h" />
-    <ClInclude Include="MonsterCollisionBasicBehavior.h" />
-    <ClInclude Include="MonsterCollisionSuckingBehavior.h" />
-    <ClInclude Include="NormalAI.h" />
-    <ClInclude Include="NormalWeapon.h" />
-    <ClInclude Include="NotMoveStar.h" />
-    <ClInclude Include="ObjectPool.h" />
-    <ClInclude Include="Pipeline.h" />
-    <ClInclude Include="RectCollider.h" />
-    <ClInclude Include="RenderManager.h" />
-    <ClInclude Include="ResourceBase.h" />
-    <ClInclude Include="SamplerState.h" />
-    <ClInclude Include="Shader.h" />
-    <ClInclude Include="MeshRenderer.h" />
-    <ClInclude Include="NormalAbility.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="Resource.h" />
-    <ClInclude Include="ResourceManager.h" />
-    <ClInclude Include="Scene.h" />
-    <ClInclude Include="SceneManager.h" />
     <ClInclude Include="SimpleMath.h" />
-    <ClInclude Include="AttackDisappearBehavior.h" />
-    <ClInclude Include="SparkAbility.h" />
-    <ClInclude Include="SparkMonster.h" />
-    <ClInclude Include="SparkWeapon.h" />
-    <ClInclude Include="StarWeapon.h" />
     <ClInclude Include="Structs.h" />
-    <ClInclude Include="SuckBehavior.h" />
     <ClInclude Include="targetver.h" />
-    <ClInclude Include="Texture.h" />
-    <ClInclude Include="TimeManager.h" />
     <ClInclude Include="tinyxml2.h" />
-    <ClInclude Include="Transform.h" />
     <ClInclude Include="Types.h" />
-    <ClInclude Include="Umbrella.h" />
     <ClInclude Include="Values.h" />
-    <ClInclude Include="VertexBuffer.h" />
-    <ClInclude Include="ShaderBase.h" />
-    <ClInclude Include="WaddleDee.h" />
-    <ClInclude Include="WaddleDoo.h" />
-    <ClInclude Include="Wall.h" />
-    <ClInclude Include="WandererAI.h" />
-    <ClInclude Include="Weapon.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Ability.cpp" />
-    <ClCompile Include="AbilityStar.cpp" />
-    <ClCompile Include="AbilityStarCollisionBehavior.cpp" />
-    <ClCompile Include="Animation.cpp" />
-    <ClCompile Include="Animator.cpp" />
-    <ClCompile Include="AttackBasic.cpp" />
-    <ClCompile Include="AttackChangeIce.cpp" />
-    <ClCompile Include="AttackElectricShock.cpp" />
-    <ClCompile Include="Background.cpp" />
-    <ClCompile Include="BeamAbility.cpp" />
-    <ClCompile Include="BeamWeapon.cpp" />
-    <ClCompile Include="BlendState.cpp" />
-    <ClCompile Include="Boomer.cpp" />
-    <ClCompile Include="BoomerangAbility.cpp" />
-    <ClCompile Include="BoomerangWeapon.cpp" />
-    <ClCompile Include="BreathWeapon.cpp" />
-    <ClCompile Include="Button.cpp" />
-    <ClCompile Include="Camera.cpp" />
-    <ClCompile Include="CarrotMonster.cpp" />
-    <ClCompile Include="Collider.cpp" />
-    <ClCompile Include="CollisionBehavior.cpp" />
-    <ClCompile Include="Component.cpp" />
-    <ClCompile Include="ConstantBuffer.cpp" />
-    <ClCompile Include="Door.cpp" />
-    <ClCompile Include="DotCollider.cpp" />
+    <ClCompile Include="00. Engine\Component\Animator\Animator.cpp" />
+    <ClCompile Include="00. Engine\Component\Camera\Camera.cpp" />
+    <ClCompile Include="00. Engine\Component\Collider\Collider.cpp" />
+    <ClCompile Include="00. Engine\Component\Collider\CollisionBehavior\CollisionBehavior.cpp" />
+    <ClCompile Include="00. Engine\Component\Collider\DotCollider.cpp" />
+    <ClCompile Include="00. Engine\Component\Collider\LineCollider.cpp" />
+    <ClCompile Include="00. Engine\Component\Collider\RectCollider.cpp" />
+    <ClCompile Include="00. Engine\Component\Component.cpp" />
+    <ClCompile Include="00. Engine\Component\MeshRenderer\MeshRenderer.cpp" />
+    <ClCompile Include="00. Engine\Component\Transform\Transform.cpp" />
+    <ClCompile Include="00. Engine\GameObject\EffectObject.cpp" />
+    <ClCompile Include="00. Engine\GameObject\EmptyObject.cpp" />
+    <ClCompile Include="00. Engine\GameObject\GameObject.cpp" />
+    <ClCompile Include="00. Engine\Manager\InputManager\InputManager.cpp" />
+    <ClCompile Include="00. Engine\Manager\RenderManager\RenderManager.cpp" />
+    <ClCompile Include="00. Engine\Manager\ResourceManager\ResourceManager.cpp" />
+    <ClCompile Include="00. Engine\Manager\ResourceManager\Resource\Animation.cpp" />
+    <ClCompile Include="00. Engine\Manager\ResourceManager\Resource\Material.cpp" />
+    <ClCompile Include="00. Engine\Manager\ResourceManager\Resource\Mesh.cpp" />
+    <ClCompile Include="00. Engine\Manager\ResourceManager\Resource\ResourceBase.cpp" />
+    <ClCompile Include="00. Engine\Manager\ResourceManager\Resource\Shader.cpp" />
+    <ClCompile Include="00. Engine\Manager\ResourceManager\Resource\Texture.cpp" />
+    <ClCompile Include="00. Engine\Manager\SceneManager\Scene.cpp" />
+    <ClCompile Include="00. Engine\Manager\SceneManager\SceneManager.cpp" />
+    <ClCompile Include="00. Engine\Manager\TimeManager\TimeManager.cpp" />
+    <ClCompile Include="00. Engine\Pipeline\00. Geometry\Geometry.cpp" />
+    <ClCompile Include="00. Engine\Pipeline\00. Geometry\GeometryMaker.cpp" />
+    <ClCompile Include="00. Engine\Pipeline\01. InputAssembler\IndexBuffer.cpp" />
+    <ClCompile Include="00. Engine\Pipeline\01. InputAssembler\InputLayout.cpp" />
+    <ClCompile Include="00. Engine\Pipeline\01. InputAssembler\VertexBuffer.cpp" />
+    <ClCompile Include="00. Engine\Pipeline\02. VertexShader\ConstantBuffer.cpp" />
+    <ClCompile Include="00. Engine\Pipeline\02. VertexShader\ShaderBase.cpp" />
+    <ClCompile Include="00. Engine\Pipeline\04. PixelShader\SamplerState.cpp" />
+    <ClCompile Include="00. Engine\Pipeline\05. OutputMerger\BlendState.cpp" />
+    <ClCompile Include="00. Engine\Pipeline\Pipeline.cpp" />
+    <ClCompile Include="01. Main\GameManager.cpp" />
+    <ClCompile Include="02. GameContents\Background\Background.cpp" />
+    <ClCompile Include="02. GameContents\Background\Foreground.cpp" />
+    <ClCompile Include="02. GameContents\Background\InformationUI.cpp" />
+    <ClCompile Include="02. GameContents\Item\AbilityStar.cpp" />
+    <ClCompile Include="02. GameContents\Item\AbilityStarCollisionBehavior.cpp" />
+    <ClCompile Include="02. GameContents\Item\Button.cpp" />
+    <ClCompile Include="02. GameContents\Item\Door.cpp" />
+    <ClCompile Include="02. GameContents\Item\IceBlock.cpp" />
+    <ClCompile Include="02. GameContents\Item\MakeStarBehavior.cpp" />
+    <ClCompile Include="02. GameContents\Item\NotMoveStar.cpp" />
+    <ClCompile Include="02. GameContents\Item\Umbrella.cpp" />
+    <ClCompile Include="02. GameContents\Item\Wall.cpp" />
+    <ClCompile Include="02. GameContents\Monster\CollisionBehavior\AttackBasic.cpp" />
+    <ClCompile Include="02. GameContents\Monster\CollisionBehavior\MonsterCollisionBasicBehavior.cpp" />
+    <ClCompile Include="02. GameContents\Monster\CollisionBehavior\MonsterCollisionSuckingBehavior.cpp" />
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\FollowPlayerAI.cpp" />
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\FollowPlayerRandomBehaviorAI.cpp" />
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\IdleAndAttackAI.cpp" />
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\IdleAndAttackWhenKirbyCloseAI.cpp" />
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\MonsterAI.cpp" />
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\NormalAI.cpp" />
+    <ClCompile Include="02. GameContents\Monster\MonsterAI\WandererAI.cpp" />
+    <ClCompile Include="02. GameContents\Monster\Variety\Boomer.cpp" />
+    <ClCompile Include="02. GameContents\Monster\Variety\CarrotMonster.cpp" />
+    <ClCompile Include="02. GameContents\Monster\Variety\GreenMonster.cpp" />
+    <ClCompile Include="02. GameContents\Monster\Variety\IceMonster.cpp" />
+    <ClCompile Include="02. GameContents\Monster\Variety\KingDedede.cpp" />
+    <ClCompile Include="02. GameContents\Monster\Variety\Monster.cpp" />
+    <ClCompile Include="02. GameContents\Monster\Variety\SparkMonster.cpp" />
+    <ClCompile Include="02. GameContents\Monster\Variety\WaddleDee.cpp" />
+    <ClCompile Include="02. GameContents\Monster\Variety\WaddleDoo.cpp" />
+    <ClCompile Include="02. GameContents\ObjectPool\ObjectPool.cpp" />
+    <ClCompile Include="02. GameContents\Player\Ability\Ability.cpp" />
+    <ClCompile Include="02. GameContents\Player\Ability\BeamAbility.cpp" />
+    <ClCompile Include="02. GameContents\Player\Ability\BoomerangAbility.cpp" />
+    <ClCompile Include="02. GameContents\Player\Ability\IceAbility.cpp" />
+    <ClCompile Include="02. GameContents\Player\Ability\NormalAbility.cpp" />
+    <ClCompile Include="02. GameContents\Player\Ability\SparkAbility.cpp" />
+    <ClCompile Include="02. GameContents\Player\Kirby\Kirby.cpp" />
+    <ClCompile Include="02. GameContents\Player\Kirby\KirbyCollisionBehavior.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\BeamWeapon.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\BoomerangWeapon.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\BreathWeapon.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\CollisionBehavior\AttackChangeIce.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\CollisionBehavior\AttackDisappearBehavior.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\CollisionBehavior\AttackElectricShock.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\CollisionBehavior\SuckBehavior.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\IceWeapon.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\KingDededeWeapon.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\NormalWeapon.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\SparkWeapon.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\StarWeapon.cpp" />
+    <ClCompile Include="02. GameContents\Weapon\Weapon.cpp" />
     <ClCompile Include="DXProject.cpp" />
-    <ClCompile Include="EffectObject.cpp" />
-    <ClCompile Include="EmptyObject.cpp" />
-    <ClCompile Include="FollowPlayerAI.cpp" />
-    <ClCompile Include="FollowPlayerRandomBehaviorAI.cpp" />
-    <ClCompile Include="Foreground.cpp" />
-    <ClCompile Include="GameManager.cpp" />
-    <ClCompile Include="GameObject.cpp" />
-    <ClCompile Include="Geometry.cpp" />
-    <ClCompile Include="GeometryMaker.cpp" />
-    <ClCompile Include="GreenMonster.cpp" />
-    <ClCompile Include="IceBlock.cpp" />
-    <ClCompile Include="IceMonster.cpp" />
-    <ClCompile Include="IceWeapon.cpp" />
-    <ClCompile Include="IdleAndAttackAI.cpp" />
-    <ClCompile Include="IdleAndAttackWhenKirbyCloseAI.cpp" />
-    <ClCompile Include="InformationUI.cpp" />
-    <ClCompile Include="KingDedede.cpp" />
-    <ClCompile Include="KingDededeWeapon.cpp" />
-    <ClCompile Include="KirbyCollisionBehavior.cpp" />
-    <ClCompile Include="IceAbility.cpp" />
-    <ClCompile Include="IndexBuffer.cpp" />
-    <ClCompile Include="InputLayout.cpp" />
-    <ClCompile Include="InputManager.cpp" />
-    <ClCompile Include="Kirby.cpp" />
-    <ClCompile Include="LineCollider.cpp" />
-    <ClCompile Include="MakeStarBehavior.cpp" />
-    <ClCompile Include="Material.cpp" />
-    <ClCompile Include="Mesh.cpp" />
-    <ClCompile Include="Monster.cpp" />
-    <ClCompile Include="MonsterAI.cpp" />
-    <ClCompile Include="MonsterCollisionBasicBehavior.cpp" />
-    <ClCompile Include="MonsterCollisionSuckingBehavior.cpp" />
-    <ClCompile Include="NormalAI.cpp" />
-    <ClCompile Include="NormalWeapon.cpp" />
-    <ClCompile Include="NotMoveStar.cpp" />
-    <ClCompile Include="ObjectPool.cpp" />
-    <ClCompile Include="Pipeline.cpp" />
-    <ClCompile Include="RectCollider.cpp" />
-    <ClCompile Include="RenderManager.cpp" />
-    <ClCompile Include="ResourceBase.cpp" />
-    <ClCompile Include="SamplerState.cpp" />
-    <ClCompile Include="Shader.cpp" />
-    <ClCompile Include="MeshRenderer.cpp" />
-    <ClCompile Include="NormalAbility.cpp" />
-    <ClCompile Include="pch.cpp">
-      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
-    </ClCompile>
-    <ClCompile Include="ResourceManager.cpp" />
-    <ClCompile Include="Scene.cpp" />
-    <ClCompile Include="SceneManager.cpp" />
+    <ClCompile Include="pch.cpp" />
     <ClCompile Include="SimpleMath.cpp" />
-    <ClCompile Include="AttackDisappearBehavior.cpp" />
-    <ClCompile Include="SparkAbility.cpp" />
-    <ClCompile Include="SparkMonster.cpp" />
-    <ClCompile Include="SparkWeapon.cpp" />
-    <ClCompile Include="StarWeapon.cpp" />
-    <ClCompile Include="SuckBehavior.cpp" />
-    <ClCompile Include="Texture.cpp" />
-    <ClCompile Include="TimeManager.cpp" />
     <ClCompile Include="tinyxml2.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
     </ClCompile>
-    <ClCompile Include="Transform.cpp" />
-    <ClCompile Include="Umbrella.cpp" />
-    <ClCompile Include="VertexBuffer.cpp" />
-    <ClCompile Include="ShaderBase.cpp" />
-    <ClCompile Include="WaddleDee.cpp" />
-    <ClCompile Include="WaddleDoo.cpp" />
-    <ClCompile Include="Wall.cpp" />
-    <ClCompile Include="WandererAI.cpp" />
-    <ClCompile Include="Weapon.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="DXProject.rc" />
@@ -354,20 +352,14 @@
     <None Include="SimpleMath.inl" />
   </ItemGroup>
   <ItemGroup>
-    <FxCompile Include="collider.hlsl">
+    <FxCompile Include="10. Shader\collider.hlsl">
+      <EntryPointName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">VS</EntryPointName>
       <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Vertex</ShaderType>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Vertex</ShaderType>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Vertex</ShaderType>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Vertex</ShaderType>
       <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
-      <EntryPointName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">VS</EntryPointName>
     </FxCompile>
-    <FxCompile Include="Default.hlsl">
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Vertex</ShaderType>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Vertex</ShaderType>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Vertex</ShaderType>
-      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Vertex</ShaderType>
+    <FxCompile Include="10. Shader\Default.hlsl">
       <EntryPointName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">VS</EntryPointName>
+      <ShaderType Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Vertex</ShaderType>
       <ShaderModel Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">5.0</ShaderModel>
     </FxCompile>
   </ItemGroup>
